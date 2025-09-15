@@ -3,7 +3,7 @@
     "motd_stoat": "Total Misplay?\nPlease switch to the latest version\nClick here to download it!",
 	"motd_stoat_i18n": {
 		"en": "Total Misplay?\nPlease switch to the latest version\nClick here to download it!",
-		"ru": "Полная ошибка?\nПожалуйста, установите последнюю версию.\nНажмите здесь, чтобы скачать!",
+		"ru": "Полная провал!\nПожалуйста, установите последнюю версию.\nНажмите здесь, чтобы скачать!",
 		"fr": "Erreur totale?\nVeuillez passer à la dernière version.\nCliquez ici pour la télécharger!"
 	},
     "motd_stoat_force": "",

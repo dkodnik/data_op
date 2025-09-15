@@ -12,9 +12,19 @@
     "enable_backrow": false,
     "portrait": "portraits/Stoat",
     "description": "Opinionated balance by the dev\nThe original ruleset for this game.\nIncludes custom cards",
+	"description_i18n": {
+		"en": "Opinionated balance by the dev\nThe original ruleset for this game.\nIncludes custom cards",
+		"ru": "Баланс, продуманный разработчиками.\nОригинальные правила для этой игры.\nВключает пользовательские карты.",
+		"fr": "Équilibrage opiniâtre par le développeur\nRègles originales de ce jeu.\nInclut des cartes personnalisées."
+	},
     "cards": [
         {
             "name": "Starvation",
+			"name_i18n": {
+				"en": "Starvation",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Repulsive"],
             "attack": 1,
             "health": 1,
@@ -22,15 +32,30 @@
         },
         {
             "name": "Greater Smoke",
+			"name_i18n": {
+				"en": "Greater Smoke",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Bone King"],
             "attack": 1,
             "health": 3,
             "banned": true,
             "rare": true,
-            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion."
+            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Adder",
+			"name_i18n": {
+				"en": "Adder",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Touch of Death"],
             "attack": 1,
             "health": 1,
@@ -38,6 +63,11 @@
         },
         {
             "name": "Amalgam",
+			"name_i18n": {
+				"en": "Amalgam",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Amalgamation"],
             "attack": 0,
             "health": 1,
@@ -46,6 +76,11 @@
         },
         {
             "name": "Bat",
+			"name_i18n": {
+				"en": "Bat",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Airborne"],
             "attack": 2,
             "health": 1,
@@ -53,6 +88,11 @@
         },
         {
             "name": "Beaver",
+			"name_i18n": {
+				"en": "Beaver",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Dam Builder"],
             "attack": 1,
             "health": 2,
@@ -60,6 +100,11 @@
         },
         {
             "name": "Dam",
+			"name_i18n": {
+				"en": "Dam",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 2,
             "sigils": ["Mighty Leap"],
@@ -68,6 +113,11 @@
         },
         {
             "name": "Bee",
+			"name_i18n": {
+				"en": "Bee",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Airborne"],
             "attack": 1,
             "health": 1,
@@ -75,6 +125,11 @@
         },
         {
             "name": "Beehive",
+			"name_i18n": {
+				"en": "Beehive",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Bees Within", "Mighty Leap"],
             "attack": 0,
             "health": 3,
@@ -82,14 +137,29 @@
         },
         {
             "name": "Black Goat",
+			"name_i18n": {
+				"en": "Black Goat",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 1,
             "sigils": ["Worthy Sacrifice"],
             "blood_cost": 1,
-            "description": "Ported from Act 1. Act 2 sprite from Kaycee's Mod."
+            "description": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Bloodhound",
+			"name_i18n": {
+				"en": "Bloodhound",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Guardian"],
             "attack": 2,
             "health": 3,
@@ -97,6 +167,11 @@
         },
         {
             "name": "Bullfrog",
+			"name_i18n": {
+				"en": "Bullfrog",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Mighty Leap"],
             "attack": 1,
             "health": 3,
@@ -104,6 +179,11 @@
         },
         {
             "name": "Burrowing Trap",
+			"name_i18n": {
+				"en": "Burrowing Trap",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Burrower", "Steel Trap"],
             "attack": 0,
             "health": 4,
@@ -113,6 +193,11 @@
         },
         {
             "name": "Cat",
+			"name_i18n": {
+				"en": "Cat",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Many Lives"],
             "attack": 0,
             "health": 1,
@@ -120,6 +205,11 @@
         },
         {
             "name": "Undead Cat",
+			"name_i18n": {
+				"en": "Undead Cat",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 3,
             "health": 6,
             "blood_cost": 1,
@@ -127,14 +217,29 @@
         },
         {
             "name": "Cockroach",
+			"name_i18n": {
+				"en": "Cockroach",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 1,
             "sigils": ["Unkillable"],
             "bone_cost": 4,
-            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion."
+            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Corpse Maggots",
+			"name_i18n": {
+				"en": "Corpse Maggots",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Corpse Eater"],
             "attack": 1,
             "health": 2,
@@ -142,6 +247,11 @@
         },
         {
             "name": "The Daus",
+			"name_i18n": {
+				"en": "The Daus",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Bellist"],
             "attack": 2,
             "health": 2,
@@ -150,6 +260,11 @@
         },
         {
             "name": "Chime",
+			"name_i18n": {
+				"en": "Chime",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 1,
             "sigils": ["Mighty Leap"],
@@ -158,6 +273,11 @@
         },
         {
             "name": "Dire Wolf Pup",
+			"name_i18n": {
+				"en": "Dire Wolf Pup",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 2,
             "sigils": ["Bone Digger", "Fledgling 2"],
@@ -166,6 +286,11 @@
         },
         {
             "name": "Dire Wolf",
+			"name_i18n": {
+				"en": "Dire Wolf",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 2,
             "health": 5,
             "sigils": ["Double Strike"],
@@ -173,6 +298,11 @@
         },
         {
             "name": "Elk",
+			"name_i18n": {
+				"en": "Elk",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Sprinter"],
             "attack": 2,
             "health": 4,
@@ -180,6 +310,11 @@
         },
         {
             "name": "Elk Fawn",
+			"name_i18n": {
+				"en": "Elk Fawn",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Sprinter", "Fledgling"],
             "attack": 1,
             "health": 2,
@@ -188,6 +323,11 @@
         },
         {
             "name": "Field Mice",
+			"name_i18n": {
+				"en": "Field Mice",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Fecundity (Kaycee)"],
             "attack": 2,
             "health": 2,
@@ -195,6 +335,11 @@
         },
         {
             "name": "Spore Mice",
+			"name_i18n": {
+				"en": "Spore Mice",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Fecundity (Kaycee)", "Fecundity (Kaycee)"],
             "attack": 2,
             "health": 2,
@@ -203,6 +348,11 @@
         },
         {
             "name": "Hawk",
+			"name_i18n": {
+				"en": "Hawk",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Airborne"],
             "attack": 3,
             "health": 1,
@@ -210,6 +360,11 @@
         },
         {
             "name": "Hrokkall",
+			"name_i18n": {
+				"en": "Hrokkall",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Waterborne", "Battery Bearer"],
             "attack": 1,
             "health": 1,
@@ -218,6 +373,11 @@
         },
         {
             "name": "Rat King",
+			"name_i18n": {
+				"en": "Rat King",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Bone King"],
             "attack": 2,
             "health": 1,
@@ -225,6 +385,11 @@
         },
         {
             "name": "Raven Egg",
+			"name_i18n": {
+				"en": "Raven Egg",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Fledgling"],
             "attack": 0,
             "health": 2,
@@ -233,6 +398,11 @@
         },
         {
             "name": "Kingfisher",
+			"name_i18n": {
+				"en": "Kingfisher",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Airborne", "Waterborne"],
             "attack": 1,
             "health": 1,
@@ -240,15 +410,30 @@
         },
         {
             "name": "Great Kraken",
+			"name_i18n": {
+				"en": "Great Kraken",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Tentacle"],
             "attack": 1,
             "health": 1,
             "blood_cost": 1,
             "rare": true,
-            "description": "Note: This card's effect was changed due to it sucking."
+            "description": "Note: This card's effect was changed due to it sucking.",
+			"description_i18n": {
+				"en": "Note: This card's effect was changed due to it sucking.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Long Elk",
+			"name_i18n": {
+				"en": "Long Elk",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 2,
             "sigils": ["Sprinter", "Touch of Death"],
@@ -258,12 +443,22 @@
         },
         {
             "name": "Vertebrae",
+			"name_i18n": {
+				"en": "Vertebrae",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 1,
             "banned": true
         },
         {
             "name": "Alpha",
+			"name_i18n": {
+				"en": "Alpha",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 2,
             "sigils": ["Leader"],
@@ -271,15 +466,30 @@
         },
         {
             "name": "Magpie",
+			"name_i18n": {
+				"en": "Magpie",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Airborne", "Hoarder"],
             "attack": 1,
             "health": 1,
             "blood_cost": 2,
             "description": "This card was unused in act 2, but had art.",
+			"description_i18n": {
+				"en": "This card was unused in act 2, but had art.",
+				"ru": "",
+				"fr": ""
+			},
             "rare": true
         },
         {
             "name": "Mantis",
+			"name_i18n": {
+				"en": "Mantis",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Bifurcated Strike"],
             "attack": 1,
             "health": 1,
@@ -287,6 +497,11 @@
         },
         {
             "name": "Mantis God",
+			"name_i18n": {
+				"en": "Mantis God",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Trifurcated Strike"],
             "attack": 1,
             "health": 1,
@@ -295,6 +510,11 @@
         },
         {
             "name": "Mole",
+			"name_i18n": {
+				"en": "Mole",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Burrower"],
             "attack": 0,
             "health": 4,
@@ -302,6 +522,11 @@
         },
         {
             "name": "Mole Man",
+			"name_i18n": {
+				"en": "Mole Man",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Burrower", "Mighty Leap"],
             "attack": 0,
             "health": 6,
@@ -310,14 +535,29 @@
         },
         {
             "name": "Moose Buck",
+			"name_i18n": {
+				"en": "Moose Buck",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 3,
             "health": 7,
             "sigils": ["Hefty"],
             "blood_cost": 3,
-            "description": "Ported from Act 1. Act 2 sprite from Kaycee's Mod."
+            "description": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Mud Turtle",
+			"name_i18n": {
+				"en": "Mud Turtle",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Armored"],
             "attack": 2,
             "health": 2,
@@ -325,86 +565,181 @@
         },
         {
             "name": "Opossum",
+			"name_i18n": {
+				"en": "Opossum",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 1,
             "bone_cost": 2
         },
         {
             "name": "Ouroboros",
+			"name_i18n": {
+				"en": "Ouroboros",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Reconstitute"],
             "attack": 1,
             "health": 1,
             "blood_cost": 2,
             "rare": true,
-            "description": "This card gains 1 power and 1 health each time it perishes."
+            "description": "This card gains 1 power and 1 health each time it perishes.",
+			"description_i18n": {
+				"en": "This card gains 1 power and 1 health each time it perishes.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Rabbit",
+			"name_i18n": {
+				"en": "Rabbit",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 1
         },
         {
             "name": "Skunk",
+			"name_i18n": {
+				"en": "Skunk",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 3,
             "bone_cost": 2,
             "sigils": ["Stinky"],
-            "description": "Ported from Act 1. Act 2 sprite from Kaycee's Mod."
+            "description": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Coyote",
+			"name_i18n": {
+				"en": "Coyote",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 2,
             "health": 1,
             "bone_cost": 4
         },
         {
             "name": "Great White",
+			"name_i18n": {
+				"en": "Great White",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 4,
             "health": 2,
             "blood_cost": 3,
             "sigils": ["Waterborne"],
-            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion."
+            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Grizzly Cub",
+			"name_i18n": {
+				"en": "Grizzly Cub",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Fledgling 2"],
             "attack": 2,
             "health": 1,
             "blood_cost": 1,
             "evolution": "Grizzly",
-            "description": "Custom card by Limabean.\nCard art by syntaxevasion"
+            "description": "Custom card by Limabean.\nCard art by syntaxevasion",
+			"description_i18n": {
+				"en": "Custom card by Limabean.\nCard art by syntaxevasion",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Grizzly",
+			"name_i18n": {
+				"en": "Grizzly",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 4,
             "health": 6,
             "blood_cost": 3
         },
         {
             "name": "Porcupine",
+			"name_i18n": {
+				"en": "Porcupine",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 2,
             "sigils": ["Sharp Quills"],
             "blood_cost": 1,
-            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion."
+            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Pronghorn",
+			"name_i18n": {
+				"en": "Pronghorn",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 3,
             "sigils": ["Bifurcated Strike", "Sprinter"],
             "blood_cost": 2,
-            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion."
+            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Rattler",
+			"name_i18n": {
+				"en": "Rattler",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 3,
             "health": 1,
             "bone_cost": 6,
-            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion."
+            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Raven",
+			"name_i18n": {
+				"en": "Raven",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Airborne"],
             "attack": 2,
             "health": 3,
@@ -412,6 +747,11 @@
         },
         {
             "name": "Salmon",
+			"name_i18n": {
+				"en": "Salmon",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Waterborne", "Sprinter"],
             "attack": 2,
             "health": 2,
@@ -419,31 +759,66 @@
         },
         {
             "name": "River Snapper",
+			"name_i18n": {
+				"en": "River Snapper",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 6,
             "blood_cost": 1,
-            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion."
+            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Sparrow",
+			"name_i18n": {
+				"en": "Sparrow",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 2,
             "sigils": ["Airborne"],
             "blood_cost": 1,
-            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion."
+            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Strange Frog",
+			"name_i18n": {
+				"en": "Strange Frog",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Mighty Leap", "Frozen Away"],
             "attack": 1,
             "health": 2,
             "blood_cost": 1,
             "evolution": "Leaping Trap",
             "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+				"ru": "",
+				"fr": ""
+			},
             "nosac": true
         },
         {
             "name": "Leaping Trap",
+			"name_i18n": {
+				"en": "Leaping Trap",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Mighty Leap", "Steel Trap"],
             "attack": 0,
             "health": 1,
@@ -452,18 +827,33 @@
         },
         {
             "name": "Rabbit Pelt",
+			"name_i18n": {
+				"en": "Rabbit Pelt",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 1,
             "nosac": true
         },
         {
             "name": "Wolf Pelt",
+			"name_i18n": {
+				"en": "Wolf Pelt",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 2,
             "nosac": true
         },
         {
             "name": "Golden Pelt",
+			"name_i18n": {
+				"en": "Golden Pelt",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 3,
             "nosac": true,
@@ -471,6 +861,11 @@
         },
         {
             "name": "Pelt Lice",
+			"name_i18n": {
+				"en": "Pelt Lice",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 1,
             "blood_cost": 4,
@@ -479,16 +874,31 @@
         },
         {
             "name": "Strange Larva",
+			"name_i18n": {
+				"en": "Strange Larva",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Fledgling"],
             "attack": 0,
             "health": 3,
             "blood_cost": 1,
             "evolution": "Strange Pupa",
             "rare": true,
-            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion."
+            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Strange Pupa",
+			"name_i18n": {
+				"en": "Strange Pupa",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Fledgling"],
             "attack": 0,
             "health": 3,
@@ -499,6 +909,11 @@
         },
         {
             "name": "Mothman",
+			"name_i18n": {
+				"en": "Mothman",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Airborne"],
             "attack": 7,
             "health": 3,
@@ -508,14 +923,29 @@
         },
         {
             "name": "Turkey Vulture",
+			"name_i18n": {
+				"en": "Turkey Vulture",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 3,
             "health": 3,
             "sigils": ["Airborne"],
             "bone_cost": 8,
-            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion."
+            "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Bell Tentacle",
+			"name_i18n": {
+				"en": "Bell Tentacle",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Tentacle"],
             "attack": 0,
             "health": 3,
@@ -525,6 +955,11 @@
         },
         {
             "name": "Hand Tentacle",
+			"name_i18n": {
+				"en": "Hand Tentacle",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Tentacle"],
             "attack": 0,
             "health": 1,
@@ -534,6 +969,11 @@
         },
         {
             "name": "Mirror Tentacle",
+			"name_i18n": {
+				"en": "Mirror Tentacle",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Tentacle"],
             "attack": 0,
             "health": 3,
@@ -543,6 +983,11 @@
         },
         {
             "name": "Raccoon",
+			"name_i18n": {
+				"en": "Raccoon",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 1,
             "sigils": ["Scavenger"],
@@ -550,12 +995,22 @@
         },
         {
             "name": "Squirrel",
+			"name_i18n": {
+				"en": "Squirrel",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 1,
             "banned": true
         },
         {
             "name": "Squirrel Ball",
+			"name_i18n": {
+				"en": "Squirrel Ball",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Squirrel Shedder"],
             "attack": 0,
             "health": 1,
@@ -563,13 +1018,28 @@
         },
         {
             "name": "Stoat",
+			"name_i18n": {
+				"en": "Stoat",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 3,
             "blood_cost": 1,
-            "description": "Note: Health was increased to 3 to make it better than Bullfrog in at least one way. Bears a unique ability from Act 1."
+            "description": "Note: Health was increased to 3 to make it better than Bullfrog in at least one way. Bears a unique ability from Act 1.",
+			"description_i18n": {
+				"en": "Note: Health was increased to 3 to make it better than Bullfrog in at least one way. Bears a unique ability from Act 1.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Urayuli",
+			"name_i18n": {
+				"en": "Urayuli",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 7,
             "health": 7,
             "blood_cost": 4,
@@ -577,6 +1047,11 @@
         },
         {
             "name": "Warren",
+			"name_i18n": {
+				"en": "Warren",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Rabbit Hole"],
             "attack": 0,
             "health": 2,
@@ -584,12 +1059,22 @@
         },
         {
             "name": "Wolf",
+			"name_i18n": {
+				"en": "Wolf",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 3,
             "health": 2,
             "blood_cost": 2
         },
         {
             "name": "Wolf Cub",
+			"name_i18n": {
+				"en": "Wolf Cub",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Fledgling"],
             "attack": 1,
             "health": 2,
@@ -598,14 +1083,29 @@
         },
         {
             "name": "Fox",
+			"name_i18n": {
+				"en": "Fox",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Sprinter", "Side Hustle"],
             "attack": 1,
             "health": 2,
             "blood_cost": 2,
-            "description": "Custom card by FishGuy101.\nCard and sigil art by syntaxevasion"
+            "description": "Custom card by FishGuy101.\nCard and sigil art by syntaxevasion",
+			"description_i18n": {
+				"en": "Custom card by FishGuy101.\nCard and sigil art by syntaxevasion",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Worker Ant",
+			"name_i18n": {
+				"en": "Worker Ant",
+				"ru": "",
+				"fr": ""
+			},
             "attack": -1,
             "health": 2,
             "atkspecial": "ant",
@@ -613,6 +1113,11 @@
         },
         {
             "name": "Ant Queen",
+			"name_i18n": {
+				"en": "Ant Queen",
+				"ru": "",
+				"fr": ""
+			},
             "attack": -1,
             "health": 3,
             "atkspecial": "ant",
@@ -621,6 +1126,11 @@
         },
         {
             "name": "Flying Ant",
+			"name_i18n": {
+				"en": "Flying Ant",
+				"ru": "",
+				"fr": ""
+			},
             "attack": -1,
             "health": 1,
             "atkspecial": "ant",
@@ -629,15 +1139,30 @@
         },
         {
             "name": "Bullet Ant",
+			"name_i18n": {
+				"en": "Bullet Ant",
+				"ru": "",
+				"fr": ""
+			},
             "attack": -1,
             "health": 3,
             "atkspecial": "ant",
             "blood_cost": 3,
             "sigils": ["Double Strike"],
-            "description": "Custom card by FishGuy101.\nCard art by Mark"
+            "description": "Custom card by FishGuy101.\nCard art by Mark",
+			"description_i18n": {
+				"en": "Custom card by FishGuy101.\nCard art by Mark",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Mole Seaman",
+			"name_i18n": {
+				"en": "Mole Seaman",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 8,
             "blood_cost": 2,
@@ -646,6 +1171,11 @@
         },
         {
             "name": "Curve Hopper",
+			"name_i18n": {
+				"en": "Curve Hopper",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 2,
             "health": 3,
             "energy_cost": 4,
@@ -653,13 +1183,28 @@
         },
         {
             "name": "Automaton",
+			"name_i18n": {
+				"en": "Automaton",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 1,
             "energy_cost": 2,
-            "description": "Note: The energy cost of this card was reduced to make it less terrible."
+            "description": "Note: The energy cost of this card was reduced to make it less terrible.",
+			"description_i18n": {
+				"en": "Note: The energy cost of this card was reduced to make it less terrible.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Alarmbot",
+			"name_i18n": {
+				"en": "Alarmbot",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Annoying"],
             "attack": 2,
             "health": 1,
@@ -667,6 +1212,11 @@
         },
         {
             "name": "Energy Bot",
+			"name_i18n": {
+				"en": "Energy Bot",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Battery Bearer"],
             "attack": 0,
             "health": 1,
@@ -674,14 +1224,29 @@
         },
         {
             "name": "Bolthound",
+			"name_i18n": {
+				"en": "Bolthound",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Guardian"],
             "attack": 2,
             "health": 3,
             "energy_cost": 6,
-            "description": "Note: Health was increased to 3 to make it equivalent to other \"Hound\" cards."
+            "description": "Note: Health was increased to 3 to make it equivalent to other \"Hound\" cards.",
+			"description_i18n": {
+				"en": "Note: Health was increased to 3 to make it equivalent to other \"Hound\" cards.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Buff Conduit",
+			"name_i18n": {
+				"en": "Buff Conduit",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Attack Conduit"],
             "attack": 0,
             "health": 2,
@@ -690,6 +1255,11 @@
         },
         {
             "name": "Busted 3D Printer",
+			"name_i18n": {
+				"en": "Busted 3D Printer",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 3,
             "sigils": ["Vessel Printer"],
@@ -697,6 +1267,11 @@
         },
         {
             "name": "Double Gunner",
+			"name_i18n": {
+				"en": "Double Gunner",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Bifurcated Strike"],
             "attack": 2,
             "health": 1,
@@ -704,16 +1279,31 @@
         },
         {
             "name": "Energy Conduit",
+			"name_i18n": {
+				"en": "Energy Conduit",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Energy Conduit (+3)"],
             "attack": 1,
             "health": 2,
             "energy_cost": 3,
             "conduit": true,
             "rare": true,
-            "description": "Note: Effect was changed to prevent infinitely buffing stim mage."
+            "description": "Note: Effect was changed to prevent infinitely buffing stim mage.",
+			"description_i18n": {
+				"en": "Note: Effect was changed to prevent infinitely buffing stim mage.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Explode Bot",
+			"name_i18n": {
+				"en": "Explode Bot",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Detonator (5)"],
             "attack": 1,
             "health": 1,
@@ -722,6 +1312,11 @@
         },
         {
             "name": "Factory Conduit",
+			"name_i18n": {
+				"en": "Factory Conduit",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Spawn Conduit"],
             "attack": 0,
             "health": 2,
@@ -730,15 +1325,30 @@
         },
         {
             "name": "Gamblobot",
+			"name_i18n": {
+				"en": "Gamblobot",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Power Dice (2)"],
             "attack": 0,
             "health": 1,
             "energy_cost": 3,
             "active": true,
-            "description": "Note: The cost of this ability was increased to 2 energy due to this card being very strong for its cost."
+            "description": "Note: The cost of this ability was increased to 2 energy due to this card being very strong for its cost.",
+			"description_i18n": {
+				"en": "Note: The cost of this ability was increased to 2 energy due to this card being very strong for its cost.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "GR1ZZ",
+			"name_i18n": {
+				"en": "GR1ZZ",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Transformer"],
             "attack": 0,
             "health": 4,
@@ -747,6 +1357,11 @@
         },
         {
             "name": "GR1ZZ (beast)",
+			"name_i18n": {
+				"en": "GR1ZZ (beast)",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Transformer"],
             "attack": 4,
             "health": 4,
@@ -756,6 +1371,11 @@
         },
         {
             "name": "Insectodrone",
+			"name_i18n": {
+				"en": "Insectodrone",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Airborne"],
             "attack": 1,
             "health": 2,
@@ -763,14 +1383,29 @@
         },
         {
             "name": "Junkbot",
+			"name_i18n": {
+				"en": "Junkbot",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Depleting", "Brittle"],
             "attack": 2,
             "health": 1,
             "description": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
+			"description_i18n": {
+				"en": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
+				"ru": "",
+				"fr": ""
+			},
             "energy_cost": 1
         },
         {
             "name": "L33pB0t",
+			"name_i18n": {
+				"en": "L33pB0t",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Mighty Leap"],
             "attack": 1,
             "health": 2,
@@ -778,6 +1413,11 @@
         },
         {
             "name": "M3atB0t",
+			"name_i18n": {
+				"en": "M3atB0t",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Noble Sacrifice"],
             "attack": 0,
             "health": 1,
@@ -785,6 +1425,11 @@
         },
         {
             "name": "49er",
+			"name_i18n": {
+				"en": "49er",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Sprinter"],
             "attack": 1,
             "health": 1,
@@ -792,15 +1437,30 @@
         },
         {
             "name": "No Moon",
+			"name_i18n": {
+				"en": "No Moon",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Depleting", "Omni Strike"],
             "attack": 1,
             "health": 2,
             "rare": true,
             "description": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
+			"description_i18n": {
+				"en": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
+				"ru": "",
+				"fr": ""
+			},
             "energy_cost": 6
         },
         {
             "name": "Null Conduit",
+			"name_i18n": {
+				"en": "Null Conduit",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 1,
             "energy_cost": 1,
@@ -808,6 +1468,11 @@
         },
         {
             "name": "Plasma Jimmy",
+			"name_i18n": {
+				"en": "Plasma Jimmy",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Energy Gun"],
             "attack": 0,
             "health": 3,
@@ -817,38 +1482,83 @@
         },
         {
             "name": "Rustbucket",
+			"name_i18n": {
+				"en": "Rustbucket",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Depleting"],
             "attack": 2,
             "health": 2,
             "description": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
+			"description_i18n": {
+				"en": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
+				"ru": "",
+				"fr": ""
+			},
             "energy_cost": 4
         },
         {
             "name": "Scrap Golem",
+			"name_i18n": {
+				"en": "Scrap Golem",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Depleting", "Sharp Quills"],
             "attack": 1,
             "health": 3,
             "description": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
+			"description_i18n": {
+				"en": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
+				"ru": "",
+				"fr": ""
+			},
             "energy_cost": 3
         },
         {
             "name": "Steel Mice",
+			"name_i18n": {
+				"en": "Steel Mice",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Fecundity (Kaycee)"],
             "attack": 1,
             "health": 1,
             "energy_cost": 4,
-            "description": "Note: Fecundity (Kaycee) is nerfed as per Kaycee's Mod"
+            "description": "Note: Fecundity (Kaycee) is nerfed as per Kaycee's Mod",
+			"description_i18n": {
+				"en": "Note: Fecundity (Kaycee) is nerfed as per Kaycee's Mod",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Sentry Drone",
+			"name_i18n": {
+				"en": "Sentry Drone",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Sentry"],
             "attack": 0,
             "health": 1,
             "energy_cost": 1,
-            "description": "Note: The sentry sigil now triggers when this card is pushed by another card."
+            "description": "Note: The sentry sigil now triggers when this card is pushed by another card.",
+			"description_i18n": {
+				"en": "Note: The sentry sigil now triggers when this card is pushed by another card.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Sentry Spore",
+			"name_i18n": {
+				"en": "Sentry Spore",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Sentry", "Sentry"],
             "attack": 0,
             "health": 1,
@@ -857,6 +1567,11 @@
         },
         {
             "name": "QU177",
+			"name_i18n": {
+				"en": "QU177",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Transformer"],
             "attack": 2,
             "health": 2,
@@ -865,6 +1580,11 @@
         },
         {
             "name": "QU177 (beast)",
+			"name_i18n": {
+				"en": "QU177 (beast)",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Transformer", "Sharp Quills"],
             "attack": 1,
             "health": 2,
@@ -874,6 +1594,11 @@
         },
         {
             "name": "SON1A",
+			"name_i18n": {
+				"en": "SON1A",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Transformer"],
             "attack": 1,
             "health": 2,
@@ -882,6 +1607,11 @@
         },
         {
             "name": "SON1A (beast)",
+			"name_i18n": {
+				"en": "SON1A (beast)",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Transformer", "Airborne"],
             "attack": 2,
             "health": 2,
@@ -891,6 +1621,11 @@
         },
         {
             "name": "Mrs. Bomb",
+			"name_i18n": {
+				"en": "Mrs. Bomb",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Bomb Spewer"],
             "attack": 1,
             "health": 2,
@@ -899,15 +1634,30 @@
         },
         {
             "name": "Shutterbug",
+			"name_i18n": {
+				"en": "Shutterbug",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Touch of Death", "Sentry"],
             "attack": 1,
             "health": 1,
             "energy_cost": 5,
             "rare": true,
-            "description": "Note: The sentry sigil now triggers when this card is pushed by another card."
+            "description": "Note: The sentry sigil now triggers when this card is pushed by another card.",
+			"description_i18n": {
+				"en": "Note: The sentry sigil now triggers when this card is pushed by another card.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Sniper Bot",
+			"name_i18n": {
+				"en": "Sniper Bot",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Sniper"],
             "attack": 1,
             "health": 1,
@@ -915,6 +1665,11 @@
         },
         {
             "name": "Skel-E-Latcher",
+			"name_i18n": {
+				"en": "Skel-E-Latcher",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Brittle Latch"],
             "attack": 1,
             "health": 1,
@@ -923,6 +1678,11 @@
         },
         {
             "name": "Shield Latcher",
+			"name_i18n": {
+				"en": "Shield Latcher",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Shield Latch"],
             "attack": 0,
             "health": 1,
@@ -931,6 +1691,11 @@
         },
         {
             "name": "Bomb Latcher",
+			"name_i18n": {
+				"en": "Bomb Latcher",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Bomb Latch"],
             "attack": 0,
             "health": 1,
@@ -939,13 +1704,28 @@
         },
         {
             "name": "Steambot",
+			"name_i18n": {
+				"en": "Steambot",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 3,
             "health": 2,
             "energy_cost": 6,
-            "description": "Note: This card's attack was increased to make it worth 6 energy."
+            "description": "Note: This card's attack was increased to make it worth 6 energy.",
+			"description_i18n": {
+				"en": "Note: This card's attack was increased to make it worth 6 energy.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Mox Module",
+			"name_i18n": {
+				"en": "Mox Module",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Great Mox"],
             "attack": 0,
             "health": 3,
@@ -954,6 +1734,11 @@
         },
         {
             "name": "Mirror Bot",
+			"name_i18n": {
+				"en": "Mirror Bot",
+				"ru": "",
+				"fr": ""
+			},
             "energy_cost": 1,
             "atkspecial": "mirror",
             "attack": 0,
@@ -961,37 +1746,72 @@
         },
         {
             "name": "Thick Droid",
+			"name_i18n": {
+				"en": "Thick Droid",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 3,
             "energy_cost": 5,
             "description": "Damn Boi!",
+			"description_i18n": {
+				"en": "Damn Boi!",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Thick"],
             "left_half": "Thick",
             "right_half": "Droid"
         },
         {
             "name": "Thick",
+			"name_i18n": {
+				"en": "Thick",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 3,
             "banned": true
         },
         {
             "name": "Droid",
+			"name_i18n": {
+				"en": "Droid",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 3,
             "banned": true
         },
         {
             "name": "Jukebot",
+			"name_i18n": {
+				"en": "Jukebot",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 3,
             "energy_cost": 4,
             "rare": true,
             "sigils": ["Music Player"],
-            "description": "Art and sigils by syntaxevasion"
+            "description": "Art and sigils by syntaxevasion",
+			"description_i18n": {
+				"en": "Art and sigils by syntaxevasion",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Draugr",
+			"name_i18n": {
+				"en": "Draugr",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Frozen Away"],
             "attack": 0,
             "health": 1,
@@ -1001,6 +1821,11 @@
         },
         {
             "name": "Banshee",
+			"name_i18n": {
+				"en": "Banshee",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Airborne"],
             "attack": 1,
             "health": 3,
@@ -1008,6 +1833,11 @@
         },
         {
             "name": "Bonehound",
+			"name_i18n": {
+				"en": "Bonehound",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Guardian"],
             "attack": 2,
             "health": 3,
@@ -1015,16 +1845,31 @@
         },
         {
             "name": "Bone Lord's Horn",
+			"name_i18n": {
+				"en": "Bone Lord's Horn",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Bonehorn (1)"],
             "attack": 1,
             "health": 1,
             "bone_cost": 3,
             "rare": true,
             "active": true,
-            "description": "Note: This card gives only 1 bone per 1 energy due to the previous effect being overpowered in combination with Bone Heap."
+            "description": "Note: This card gives only 1 bone per 1 energy due to the previous effect being overpowered in combination with Bone Heap.",
+			"description_i18n": {
+				"en": "Note: This card gives only 1 bone per 1 energy due to the previous effect being overpowered in combination with Bone Heap.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Bone Heap",
+			"name_i18n": {
+				"en": "Bone Heap",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Enlarge (3)"],
             "attack": 0,
             "health": 1,
@@ -1033,6 +1878,11 @@
         },
         {
             "name": "Broken Obol 1",
+			"name_i18n": {
+				"en": "Broken Obol 1",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Sharp Quills"],
             "attack": 0,
             "health": 2,
@@ -1040,6 +1890,11 @@
         },
         {
             "name": "Broken Obol 2",
+			"name_i18n": {
+				"en": "Broken Obol 2",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Bone King"],
             "attack": 0,
             "health": 2,
@@ -1047,25 +1902,50 @@
         },
         {
             "name": "Dead Hand",
+			"name_i18n": {
+				"en": "Dead Hand",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Handy"],
             "attack": 1,
             "health": 1,
             "bone_cost": 5,
             "description": "Note: Was made common due to lack of use.\nThen rare again.",
+			"description_i18n": {
+				"en": "Note: Was made common due to lack of use.\nThen rare again.",
+				"ru": "",
+				"fr": ""
+			},
             "rare": true
         },
         {
             "name": "Pharaoh's Pets",
+			"name_i18n": {
+				"en": "Pharaoh's Pets",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Worthy Sacrifice", "Many Lives"],
             "attack": 0,
             "health": 1,
             "bone_cost": 6,
             "rare": true,
             "description": "Note: This card was made rare due to it's strength. This card will become a cat after its worthy sacrifice sigil is used.",
+			"description_i18n": {
+				"en": "Note: This card was made rare due to it's strength. This card will become a cat after its worthy sacrifice sigil is used.",
+				"ru": "",
+				"fr": ""
+			},
             "evolution": "Cat"
         },
         {
             "name": "Drowned Soul",
+			"name_i18n": {
+				"en": "Drowned Soul",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Waterborne", "Touch of Death"],
             "attack": 1,
             "health": 1,
@@ -1074,6 +1954,11 @@
         },
         {
             "name": "The Walkers",
+			"name_i18n": {
+				"en": "The Walkers",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Bone King"],
             "attack": 1,
             "health": 2,
@@ -1081,6 +1966,11 @@
         },
         {
             "name": "Frank & Stein",
+			"name_i18n": {
+				"en": "Frank & Stein",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 2,
             "health": 2,
             "bone_cost": 5,
@@ -1088,6 +1978,11 @@
         },
         {
             "name": "Ghost Ship",
+			"name_i18n": {
+				"en": "Ghost Ship",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Waterborne", "Skeleton Crew (Yarr)"],
             "attack": 0,
             "health": 1,
@@ -1095,6 +1990,11 @@
         },
         {
             "name": "Gravedigger",
+			"name_i18n": {
+				"en": "Gravedigger",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Bone Digger"],
             "attack": 0,
             "health": 3,
@@ -1102,6 +2002,11 @@
         },
         {
             "name": "Sporedigger",
+			"name_i18n": {
+				"en": "Sporedigger",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Bone Digger", "Bone Digger"],
             "attack": 0,
             "health": 3,
@@ -1110,6 +2015,11 @@
         },
         {
             "name": "Headless Horseman",
+			"name_i18n": {
+				"en": "Headless Horseman",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Airborne", "Sprinter"],
             "attack": 5,
             "health": 5,
@@ -1118,21 +2028,41 @@
         },
         {
             "name": "Mummy Lord",
+			"name_i18n": {
+				"en": "Mummy Lord",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 3,
             "health": 3,
             "bone_cost": 8
         },
         {
             "name": "Necromancer",
+			"name_i18n": {
+				"en": "Necromancer",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Double Death"],
             "attack": 1,
             "health": 2,
             "bone_cost": 3,
             "rare": true,
-            "description": "This was the most annoying card to program."
+            "description": "This was the most annoying card to program.",
+			"description_i18n": {
+				"en": "This was the most annoying card to program.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Revenant",
+			"name_i18n": {
+				"en": "Revenant",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Brittle"],
             "attack": 3,
             "health": 1,
@@ -1140,6 +2070,11 @@
         },
         {
             "name": "Sarcophagus",
+			"name_i18n": {
+				"en": "Sarcophagus",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Fledgling"],
             "attack": 0,
             "health": 2,
@@ -1148,6 +2083,11 @@
         },
         {
             "name": "Skeleton",
+			"name_i18n": {
+				"en": "Skeleton",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Brittle"],
             "attack": 1,
             "health": 1,
@@ -1155,48 +2095,103 @@
         },
         {
             "name": "Skelemagus",
+			"name_i18n": {
+				"en": "Skelemagus",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Brittle", "Gem Dependant"],
             "attack": 4,
             "health": 1,
             "bone_cost": 3,
-            "description": "Nerfed again."
+            "description": "Nerfed again.",
+			"description_i18n": {
+				"en": "Nerfed again.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Tomb Robber",
+			"name_i18n": {
+				"en": "Tomb Robber",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Disentomb (Corpses)"],
             "attack": 0,
             "health": 2,
             "rare": true,
             "active": true,
-            "description": "Note: Withered corpses have the Boneless sigil and will not drop bones.This change was made to prevent multiple infinite combos involving Tomb Robber."
+            "description": "Note: Withered corpses have the Boneless sigil and will not drop bones.This change was made to prevent multiple infinite combos involving Tomb Robber.",
+			"description_i18n": {
+				"en": "Note: Withered corpses have the Boneless sigil and will not drop bones.This change was made to prevent multiple infinite combos involving Tomb Robber.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Zombie",
+			"name_i18n": {
+				"en": "Zombie",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 1,
             "bone_cost": 3,
             "sigils": ["Stinky"],
-            "description": "This card was given the stinky sigil to differentiate it from Opossom. Suggested by FishGuy101."
+            "description": "This card was given the stinky sigil to differentiate it from Opossom. Suggested by FishGuy101.",
+			"description_i18n": {
+				"en": "This card was given the stinky sigil to differentiate it from Opossom. Suggested by FishGuy101.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Floating Eye",
+			"name_i18n": {
+				"en": "Floating Eye",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 3,
             "bone_cost": 5,
             "sigils": ["Airborne", "Sentry"],
-            "description": "Custom card by SYNTHIA_2000"
+            "description": "Custom card by SYNTHIA_2000",
+			"description_i18n": {
+				"en": "Custom card by SYNTHIA_2000",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Gargoyle",
+			"name_i18n": {
+				"en": "Gargoyle",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 3,
             "bone_cost": 3,
             "sigils": ["Guardian", "Made of Stone"],
             "description": "Custom card by syntaxevasion.\nLong overdue.",
+			"description_i18n": {
+				"en": "Custom card by syntaxevasion.\nLong overdue.",
+				"ru": "",
+				"fr": ""
+			},
             "nosac": true
         },
         {
             "name": "Skeleton Crew",
+			"name_i18n": {
+				"en": "Skeleton Crew",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 2,
             "health": 1,
             "sigils": ["Brittle"],
@@ -1204,6 +2199,11 @@
         },
         {
             "name": "Zombie Parrot",
+			"name_i18n": {
+				"en": "Zombie Parrot",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 2,
             "health": 3,
             "bone_cost": 3,
@@ -1211,15 +2211,30 @@
         },
         {
             "name": "Voodoo Doll",
+			"name_i18n": {
+				"en": "Voodoo Doll",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 1,
             "bone_cost": 3,
             "sigils": ["Acupuncture"],
             "active": true,
-            "description": "Custom card and art by ener."
+            "description": "Custom card and art by ener.",
+			"description_i18n": {
+				"en": "Custom card and art by ener.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Gourmage",
+			"name_i18n": {
+				"en": "Gourmage",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Enlarge"],
             "attack": 0,
             "health": 2,
@@ -1228,6 +2243,11 @@
         },
         {
             "name": "Blue Mage",
+			"name_i18n": {
+				"en": "Blue Mage",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Mental Gemnastics"],
             "attack": 0,
             "health": 1,
@@ -1236,6 +2256,11 @@
         },
         {
             "name": "Blue Sporemage",
+			"name_i18n": {
+				"en": "Blue Sporemage",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Mental Gemnastics", "Mental Gemnastics"],
             "attack": 0,
             "health": 1,
@@ -1244,6 +2269,11 @@
         },
         {
             "name": "Hover Mage",
+			"name_i18n": {
+				"en": "Hover Mage",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Airborne"],
             "attack": 1,
             "health": 2,
@@ -1251,14 +2281,29 @@
         },
         {
             "name": "Force Mage",
+			"name_i18n": {
+				"en": "Force Mage",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Repulsive"],
             "attack": 0,
             "health": 1,
             "mox_cost": ["Blue"],
-            "description": "Dies to removal."
+            "description": "Dies to removal.",
+			"description_i18n": {
+				"en": "Dies to removal.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Gem Detonator",
+			"name_i18n": {
+				"en": "Gem Detonator",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Gem Detonator (5)"],
             "attack": 1,
             "health": 2,
@@ -1266,6 +2311,11 @@
         },
         {
             "name": "Gem Fiend",
+			"name_i18n": {
+				"en": "Gem Fiend",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Gem Dependant"],
             "attack": 2,
             "health": 1,
@@ -1273,6 +2323,11 @@
         },
         {
             "name": "Gem Guardian",
+			"name_i18n": {
+				"en": "Gem Guardian",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Gem Guardian"],
             "attack": 1,
             "health": 2,
@@ -1280,20 +2335,40 @@
         },
         {
             "name": "Green Mage",
+			"name_i18n": {
+				"en": "Green Mage",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 2,
             "mox_cost": ["Green"],
             "atkspecial": "mox",
-            "description": "This card's attack is equal to the number of \"Mox\" cards you possess."
+            "description": "This card's attack is equal to the number of \"Mox\" cards you possess.",
+			"description_i18n": {
+				"en": "This card's attack is equal to the number of \"Mox\" cards you possess.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Junior Sage",
+			"name_i18n": {
+				"en": "Junior Sage",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 2,
             "mox_cost": ["Green"]
         },
         {
             "name": "Mage Knight",
+			"name_i18n": {
+				"en": "Mage Knight",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Gem Dependant"],
             "attack": 1,
             "health": 3,
@@ -1301,6 +2376,11 @@
         },
         {
             "name": "Master Bleene",
+			"name_i18n": {
+				"en": "Master Bleene",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["True Scholar"],
             "attack": 0,
             "health": 4,
@@ -1310,24 +2390,49 @@
         },
         {
             "name": "Master Goranj",
+			"name_i18n": {
+				"en": "Master Goranj",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Gem Dependant", "Bifurcated Strike"],
             "attack": 2,
             "health": 4,
             "mox_cost": ["Green", "Orange"],
             "rare": true,
-            "description": "He got buffed a while back. Thanks FishGuy101!"
+            "description": "He got buffed a while back. Thanks FishGuy101!",
+			"description_i18n": {
+				"en": "He got buffed a while back. Thanks FishGuy101!",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Master Orlu",
+			"name_i18n": {
+				"en": "Master Orlu",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Airborne", "Looter"],
             "attack": 1,
             "health": 3,
             "mox_cost": ["Orange", "Blue"],
             "rare": true,
-            "description": "Note: Attack was increased to make it an acceptable rare card and to demonstrate its sigil effect more clearly."
+            "description": "Note: Attack was increased to make it an acceptable rare card and to demonstrate its sigil effect more clearly.",
+			"description_i18n": {
+				"en": "Note: Attack was increased to make it an acceptable rare card and to demonstrate its sigil effect more clearly.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Bleene's Mox",
+			"name_i18n": {
+				"en": "Bleene's Mox",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Blue Mox", "Green Mox"],
             "attack": 0,
             "health": 2,
@@ -1336,6 +2441,11 @@
         },
         {
             "name": "Goranj's Mox",
+			"name_i18n": {
+				"en": "Goranj's Mox",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Green Mox", "Orange Mox"],
             "attack": 0,
             "health": 2,
@@ -1344,6 +2454,11 @@
         },
         {
             "name": "Orlu's Mox",
+			"name_i18n": {
+				"en": "Orlu's Mox",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Orange Mox", "Blue Mox"],
             "attack": 0,
             "health": 2,
@@ -1352,6 +2467,11 @@
         },
         {
             "name": "Emerald Mox",
+			"name_i18n": {
+				"en": "Emerald Mox",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Green Mox"],
             "attack": 0,
             "health": 1,
@@ -1360,6 +2480,11 @@
         },
         {
             "name": "Ruby Mox",
+			"name_i18n": {
+				"en": "Ruby Mox",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Orange Mox"],
             "attack": 0,
             "health": 1,
@@ -1368,6 +2493,11 @@
         },
         {
             "name": "Sapphire Mox",
+			"name_i18n": {
+				"en": "Sapphire Mox",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Blue Mox"],
             "attack": 0,
             "health": 1,
@@ -1376,6 +2506,11 @@
         },
         {
             "name": "Magnus Mox",
+			"name_i18n": {
+				"en": "Magnus Mox",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Great Mox"],
             "attack": 0,
             "health": 2,
@@ -1385,6 +2520,11 @@
         },
         {
             "name": "Muscle Mage",
+			"name_i18n": {
+				"en": "Muscle Mage",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Hefty"],
             "attack": 1,
             "health": 2,
@@ -1392,6 +2532,11 @@
         },
         {
             "name": "Orange Mage",
+			"name_i18n": {
+				"en": "Orange Mage",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Gem Animator"],
             "attack": 0,
             "health": 1,
@@ -1399,6 +2544,11 @@
         },
         {
             "name": "Practice Wizard",
+			"name_i18n": {
+				"en": "Practice Wizard",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 3,
             "sigils": ["Made of Stone"],
@@ -1406,12 +2556,22 @@
         },
         {
             "name": "Mage Pupil",
+			"name_i18n": {
+				"en": "Mage Pupil",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Gem Dependant"],
             "attack": 1,
             "health": 1
         },
         {
             "name": "Ruby Golem",
+			"name_i18n": {
+				"en": "Ruby Golem",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Ruby Heart"],
             "attack": 1,
             "health": 1,
@@ -1420,6 +2580,11 @@
         },
         {
             "name": "Stim Mage",
+			"name_i18n": {
+				"en": "Stim Mage",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Stimulate"],
             "attack": 0,
             "health": 2,
@@ -1428,56 +2593,121 @@
         },
         {
             "name": "Mox Tower",
+			"name_i18n": {
+				"en": "Mox Tower",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Sentry", "Orange Mox"],
             "attack": 0,
             "health": 2,
             "mox_cost": ["Orange"],
-            "description": "Custom card by FishGuy101"
+            "description": "Custom card by FishGuy101",
+			"description_i18n": {
+				"en": "Custom card by FishGuy101",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Mox Bunker",
+			"name_i18n": {
+				"en": "Mox Bunker",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Sharp Quills", "Blue Mox"],
             "attack": 0,
             "health": 2,
             "mox_cost": ["Blue"],
-            "description": "Custom Card by BishopAdams"
+            "description": "Custom Card by BishopAdams",
+			"description_i18n": {
+				"en": "Custom Card by BishopAdams",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Mox Encampment",
+			"name_i18n": {
+				"en": "Mox Encampment",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Stinky", "Green Mox"],
             "attack": 0,
             "health": 2,
             "mox_cost": ["Green"],
-            "description": "Custom Card by BishopAdams"
+            "description": "Custom Card by BishopAdams",
+			"description_i18n": {
+				"en": "Custom Card by BishopAdams",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Thief Mage",
+			"name_i18n": {
+				"en": "Thief Mage",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 1,
             "sigils": ["Side Hustle"],
             "mox_cost": ["Blue"],
-            "description": "Custom card by FishGuy101\nServed his sentence"
+            "description": "Custom card by FishGuy101\nServed his sentence",
+			"description_i18n": {
+				"en": "Custom card by FishGuy101\nServed his sentence",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Life Mage",
+			"name_i18n": {
+				"en": "Life Mage",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 1,
             "sigils": ["Unkillable"],
             "mox_cost": ["Blue"],
             "bone_cost": 3,
-            "description": "Custom card by FishGuy101"
+            "description": "Custom card by FishGuy101",
+			"description_i18n": {
+				"en": "Custom card by FishGuy101",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Dragon Egg",
+			"name_i18n": {
+				"en": "Dragon Egg",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 2,
             "sigils": ["Fledgling", "Gem Dependant"],
             "mox_cost": ["Orange"],
             "evolution": "Ruby Dragon",
-            "description": "Custom card by FishGuy101.\nUpdated art by syntaxevasion"
+            "description": "Custom card by FishGuy101.\nUpdated art by syntaxevasion",
+			"description_i18n": {
+				"en": "Custom card by FishGuy101.\nUpdated art by syntaxevasion",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Ruby Dragon",
+			"name_i18n": {
+				"en": "Ruby Dragon",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 2,
             "health": 2,
             "sigils": ["Bifurcated Strike", "Gem Dependant"],
@@ -1486,64 +2716,139 @@
         },
         {
             "name": "Shower Mage",
+			"name_i18n": {
+				"en": "Shower Mage",
+				"ru": "",
+				"fr": ""
+			},
             "mox_cost": ["Green"],
             "sigils": ["Stinky"],
             "attack": 1,
             "health": 1,
-            "description": "Custom card by FishGuy101"
+            "description": "Custom card by FishGuy101",
+			"description_i18n": {
+				"en": "Custom card by FishGuy101",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Holo Mox",
+			"name_i18n": {
+				"en": "Holo Mox",
+				"ru": "",
+				"fr": ""
+			},
             "mox_cost": ["Orange"],
             "sigils": ["Armored"],
             "energy_cost": 2,
             "attack": 0,
             "health": 1,
-            "description": "Custom card by FishGuy101"
+            "description": "Custom card by FishGuy101",
+			"description_i18n": {
+				"en": "Custom card by FishGuy101",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Horse Mage",
+			"name_i18n": {
+				"en": "Horse Mage",
+				"ru": "",
+				"fr": ""
+			},
             "mox_cost": ["Orange"],
             "blood_cost": 1,
             "sigils": ["Sprinter"],
             "attack": 2,
             "health": 2,
-            "description": "How hungry?\n\nCustom card by ener"
+            "description": "How hungry?\n\nCustom card by ener",
+			"description_i18n": {
+				"en": "How hungry?\n\nCustom card by ener",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Winged Guardian",
+			"name_i18n": {
+				"en": "Winged Guardian",
+				"ru": "",
+				"fr": ""
+			},
             "mox_cost": ["Orange", "Blue"],
             "attack": 1,
             "health": 3,
             "sigils": ["Airborne", "Mighty Leap"],
-            "description": "Custom card by Flare"
+            "description": "Custom card by Flare",
+			"description_i18n": {
+				"en": "Custom card by Flare",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Swift Sage",
+			"name_i18n": {
+				"en": "Swift Sage",
+				"ru": "",
+				"fr": ""
+			},
             "mox_cost": ["Green", "Blue"],
             "attack": 1,
             "health": 2,
             "sigils": ["Sharp Quills", "Sprinter"],
-            "description": "Custom card by Flare"
+            "description": "Custom card by Flare",
+			"description_i18n": {
+				"en": "Custom card by Flare",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Dark Knight",
+			"name_i18n": {
+				"en": "Dark Knight",
+				"ru": "",
+				"fr": ""
+			},
             "mox_cost": ["Orange", "Green"],
             "attack": 1,
             "health": 4,
             "sigils": ["Blood Lust"],
-            "description": "Custom card by Flare"
+            "description": "Custom card by Flare",
+			"description_i18n": {
+				"en": "Custom card by Flare",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Animox",
+			"name_i18n": {
+				"en": "Animox",
+				"ru": "",
+				"fr": ""
+			},
             "blood_cost": 1,
             "attack": 1,
             "health": 2,
             "sigils": ["Blue Mox", "Sprinter"],
-            "description": "Custom card by SYNTHIA_2000"
+            "description": "Custom card by SYNTHIA_2000",
+			"description_i18n": {
+				"en": "Custom card by SYNTHIA_2000",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Withered Corpse",
+			"name_i18n": {
+				"en": "Withered Corpse",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Brittle", "Boneless"],
             "attack": 1,
             "health": 1,
@@ -1551,6 +2856,11 @@
         },
         {
             "name": "Empty Vessel",
+			"name_i18n": {
+				"en": "Empty Vessel",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 3,
             "energy_cost": 1,
@@ -1559,6 +2869,11 @@
         },
         {
             "name": "Leaping Vessel",
+			"name_i18n": {
+				"en": "Leaping Vessel",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Mighty Leap"],
             "attack": 0,
             "health": 2,
@@ -1568,6 +2883,11 @@
         },
         {
             "name": "Energized Vessel",
+			"name_i18n": {
+				"en": "Energized Vessel",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Battery Bearer"],
             "attack": 0,
             "health": 2,
@@ -1577,15 +2897,30 @@
         },
         {
             "name": "Bloody Vessel",
+			"name_i18n": {
+				"en": "Bloody Vessel",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Noble Sacrifice"],
             "attack": 0,
             "health": 2,
             "energy_cost": 3,
             "banned": true,
-            "description": "Note: Energy cost increased due to opponent not having enough time to build a board before bloody vessel is usable."
+            "description": "Note: Energy cost increased due to opponent not having enough time to build a board before bloody vessel is usable.",
+			"description_i18n": {
+				"en": "Note: Energy cost increased due to opponent not having enough time to build a board before bloody vessel is usable.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Splintered Vessel",
+			"name_i18n": {
+				"en": "Splintered Vessel",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Sharp Quills"],
             "attack": 0,
             "health": 2,
@@ -1595,6 +2930,11 @@
         },
         {
             "name": "Conductive Vessel",
+			"name_i18n": {
+				"en": "Conductive Vessel",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 2,
             "energy_cost": 1,
@@ -1604,6 +2944,11 @@
         },
         {
             "name": "Contaminated Vessel",
+			"name_i18n": {
+				"en": "Contaminated Vessel",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Stinky"],
             "attack": 0,
             "health": 2,
@@ -1613,42 +2958,87 @@
         },
         {
             "name": "Geck",
+			"name_i18n": {
+				"en": "Geck",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 1,
             "health": 1,
             "rare": true,
             "banned": true,
-            "description": "Ported from Act 1. Act 2 sprite from Kaycee's Mod."
+            "description": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
+			"description_i18n": {
+				"en": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Acid Squirrel",
+			"name_i18n": {
+				"en": "Acid Squirrel",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 1,
             "sigils": ["Reconstitute", "Boneless"],
             "banned": true,
-            "description": "Card and art by Mark.\nThe most broken card, hopefully no longer."
+            "description": "Card and art by Mark.\nThe most broken card, hopefully no longer.",
+			"description_i18n": {
+				"en": "Card and art by Mark.\nThe most broken card, hopefully no longer.",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Shambling Cairn",
+			"name_i18n": {
+				"en": "Shambling Cairn",
+				"ru": "",
+				"fr": ""
+			},
             "attack": 0,
             "health": 1,
             "bone_cost": -1,
             "sigils": ["Sprinter", "Bone Digger"],
             "nosac": true,
             "banned": true,
-            "description": "Custom card by Garf, zpan0317, and Me!"
+            "description": "Custom card by Garf, zpan0317, and Me!",
+			"description_i18n": {
+				"en": "Custom card by Garf, zpan0317, and Me!",
+				"ru": "",
+				"fr": ""
+			}
         },
         {
             "name": "Moon Shard",
+			"name_i18n": {
+				"en": "Moon Shard",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Mighty Leap", "Made of Stone"],
             "energy_cost": 6,
             "attack": 0,
             "health": 5,
             "nosac": false,
             "description": "Emits a pale white light. You feel as though it calls to its brethren.",
+			"description_i18n": {
+				"en": "Emits a pale white light. You feel as though it calls to its brethren.",
+				"ru": "",
+				"fr": ""
+			},
             "banned": true
         },
         {
             "name": "The Moon",
+			"name_i18n": {
+				"en": "The Moon",
+				"ru": "",
+				"fr": ""
+			},
             "sigils": ["Made of Stone"],
             "attack": 1,
             "health": 40,
@@ -1657,105 +3047,605 @@
     ],
     "sigils": {
         "Acupuncture": "Pay 3 bones: Choose a creature to gain the Stitched sigil and give this card Armor.",
+		"Acupuncture_i18n": {
+			"en": "Pay 3 bones: Choose a creature to gain the Stitched sigil and give this card Armor.",
+			"ru": "",
+			"fr": ""
+		},
     	"Airborne": "A card bearing this sigil will strike an opponent directly, even if there is a creature opposing it.",
+		"Airborne_i18n": {
+			"en": "A card bearing this sigil will strike an opponent directly, even if there is a creature opposing it.",
+			"ru": "",
+			"fr": ""
+		},
     	"Amalgamation": "A card bearing this sigil assimilates the owner's other creatures, gaining their health, power and sigils.",
+		"Amalgamation_i18n": {
+			"en": "A card bearing this sigil assimilates the owner's other creatures, gaining their health, power and sigils.",
+			"ru": "",
+			"fr": ""
+		},
     	"Annoying": "The creature opposing a card bearing this sigil gains 1 Power.",
+		"Annoying_i18n": {
+			"en": "The creature opposing a card bearing this sigil gains 1 Power.",
+			"ru": "",
+			"fr": ""
+		},
     	"Ant Spawner": "When a card bearing this sigil is played, an ant is created in your hand.",
+		"Ant Spawner_i18n": {
+			"en": "When a card bearing this sigil is played, an ant is created in your hand.",
+			"ru": "",
+			"fr": ""
+		},
     	"Armored": "The first time a card bearing this sigil would take damage, prevent that damage.",
+		"Armored_i18n": {
+			"en": "The first time a card bearing this sigil would take damage, prevent that damage.",
+			"ru": "",
+			"fr": ""
+		},
     	"Attack Conduit": "Other creatures within a circuit completed by a card bearing this sigil gain 1 power.",
+		"Attack Conduit_i18n": {
+			"en": "Other creatures within a circuit completed by a card bearing this sigil gain 1 power.",
+			"ru": "",
+			"fr": ""
+		},
     	"Battery Bearer": "When a card bearing this sigil is played, it provides an energy cell to its owner.",
-    	"Bees Within": "Once a card bearing this sigil is struck, a Bee is created in your hand.",
+    	"Battery Bearer_i18n": {
+			"en": "When a card bearing this sigil is played, it provides an energy cell to its owner.",
+			"ru": "",
+			"fr": ""
+		},
+		"Bees Within": "Once a card bearing this sigil is struck, a Bee is created in your hand.",
+		"Bees Within_i18n": {
+			"en": "Once a card bearing this sigil is struck, a Bee is created in your hand.",
+			"ru": "",
+			"fr": ""
+		},
     	"Bellist": "When a card bearing this sigil is played, a Chime is created on each empty adjacent space. A card bearing this sigil will perform a retaliatory attack against any card striking a Chime.",
+		"Bellist_i18n": {
+			"en": "When a card bearing this sigil is played, a Chime is created on each empty adjacent space. A card bearing this sigil will perform a retaliatory attack against any card striking a Chime.",
+			"ru": "",
+			"fr": ""
+		},
     	"Bifurcated Strike": "A card bearing this sigil will strike each opposing space to the left and right of the space across from it.",
+		"Bifurcated Strike_i18n": {
+			"en": "A card bearing this sigil will strike each opposing space to the left and right of the space across from it.",
+			"ru": "",
+			"fr": ""
+		},
     	"Blood Lust": "When a card bearing this Sigil attacks an opposing creature and it perishes, this card gains 1 power.",
+		"Blood Lust_i18n": {
+			"en": "When a card bearing this Sigil attacks an opposing creature and it perishes, this card gains 1 power.",
+			"ru": "",
+			"fr": ""
+		},
     	"Blue Mox": "While a card bearing this sigil is on the board, it provides a blue gem to its owner.",
+		"Blue Mox_i18n": {
+			"en": "While a card bearing this sigil is on the board, it provides a blue gem to its owner.",
+			"ru": "",
+			"fr": ""
+		},
     	"Bomb Latch": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Detonator sigil.",
+		"Bomb Latch_i18n": {
+			"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Detonator sigil.",
+			"ru": "",
+			"fr": ""
+		},
     	"Bomb Spewer": "When a card bearing this sigil is played, fill all empty spaces with explode bots.",
+		"Bomb Spewer_i18n": {
+			"en": "When a card bearing this sigil is played, fill all empty spaces with explode bots.",
+			"ru": "",
+			"fr": ""
+		},
     	"Bomb Spewer (Eternal)": "When a card bearing this sigil is played, fill every empty space opposing a card with an explode bot.",
+		"Bomb Spewer (Eternal)_i18n": {
+			"en": "When a card bearing this sigil is played, fill every empty space opposing a card with an explode bot.",
+			"ru": "",
+			"fr": ""
+		},
     	"Bone Digger": "At the end of the owner's turn, a card bearing this sigil will generate 1 bone.",
+		"Bone Digger_i18n": {
+			"en": "At the end of the owner's turn, a card bearing this sigil will generate 1 bone.",
+			"ru": "",
+			"fr": ""
+		},
     	"Bone King": "When a card bearing this sigil dies, 4 bones are awarded instead of 1.",
+		"Bone King_i18n": {
+			"en": "When a card bearing this sigil dies, 4 bones are awarded instead of 1.",
+			"ru": "",
+			"fr": ""
+		},
     	"Bonehorn": "Pay 1 energy to gain 3 bones.",
+		"Bonehorn_i18n": {
+			"en": "Pay 1 energy to gain 3 bones.",
+			"ru": "",
+			"fr": ""
+		},
     	"Bonehorn (1)": "Pay 1 energy to gain 1 bone.",
+		"Bonehorn (1)_i18n": {
+			"en": "Pay 1 energy to gain 1 bone.",
+			"ru": "",
+			"fr": ""
+		},
     	"Boneless": "When a card bearing this sigil dies, no bones are awarded.",
+		"Boneless_i18n": {
+			"en": "When a card bearing this sigil dies, no bones are awarded.",
+			"ru": "",
+			"fr": ""
+		},
     	"Brittle": "After attacking, a card bearing this sigil perishes.",
+		"Brittle_i18n": {
+			"en": "After attacking, a card bearing this sigil perishes.",
+			"ru": "",
+			"fr": ""
+		},
     	"Brittle Latch": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Brittle sigil.",
+		"Brittle Latch_i18n": {
+			"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Brittle sigil.",
+			"ru": "",
+			"fr": ""
+		},
     	"Burrower": "When an empty space would be struck, a card bearing this sigil will move to that space to receive the strike instead.",
+		"Burrower_i18n": {
+			"en": "When an empty space would be struck, a card bearing this sigil will move to that space to receive the strike instead.",
+			"ru": "",
+			"fr": ""
+		},
     	"Corpse Eater": "If a creature that you own perishes by combat, a card bearing this sigil in your hand is automatically played in its place.",
+		"Corpse Eater_i18n": {
+			"en": "If a creature that you own perishes by combat, a card bearing this sigil in your hand is automatically played in its place.",
+			"ru": "",
+			"fr": ""
+		},
     	"Dam Builder": "When a card bearing this sigil is played, a Dam is created on each empty adjacent space.",
+		"Dam Builder_i18n": {
+			"en": "When a card bearing this sigil is played, a Dam is created on each empty adjacent space.",
+			"ru": "",
+			"fr": ""
+		},
     	"Depleting": "When a card bearing this sigil is played, 2 energy cells are removed from its owner",
+		"Depleting_i18n": {
+			"en": "When a card bearing this sigil is played, 2 energy cells are removed from its owner",
+			"ru": "",
+			"fr": ""
+		},
     	"Detonator": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 10 damage.",
+		"Detonator_i18n": {
+			"en": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 10 damage.",
+			"ru": "",
+			"fr": ""
+		},
     	"Detonator (5)": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 5 damage.",
+		"Detonator (5)_i18n": {
+			"en": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 5 damage.",
+			"ru": "",
+			"fr": ""
+		},
     	"Disentomb": "Pay 1 bone to create a skeleton in your hand.",
+		"Disentomb_i18n": {
+			"en": "Pay 1 bone to create a skeleton in your hand.",
+			"ru": "",
+			"fr": ""
+		},
     	"Disentomb (Corpses)": "Pay 2 bones to create a withered corpse in your hand.",
+		"Disentomb (Corpses)_i18n": {
+			"en": "Pay 2 bones to create a withered corpse in your hand.",
+			"ru": "",
+			"fr": ""
+		},
     	"Double Death": "When another creature you own dies, it is returned to life and dies again immediately.",
+		"Double Death_i18n": {
+			"en": "When another creature you own dies, it is returned to life and dies again immediately.",
+			"ru": "",
+			"fr": ""
+		},
     	"Double Strike": "A card bearing this Sigil will strike the opposing space an extra time when attacking.",
+		"Double Strike_i18n": {
+			"en": "A card bearing this Sigil will strike the opposing space an extra time when attacking.",
+			"ru": "",
+			"fr": ""
+		},
     	"Energy Conduit": "If a card bearing this sigil is part of a completed circuit, your energy never depletes.",
+		"Energy Conduit_i18n": {
+			"en": "If a card bearing this sigil is part of a completed circuit, your energy never depletes.",
+			"ru": "",
+			"fr": ""
+		},
     	"Energy Conduit (+3)": "If a card bearing this sigil is part of a completed circuit, your maximum energy increases by 3.",
+		"Energy Conduit (+3)_i18n": {
+			"en": "If a card bearing this sigil is part of a completed circuit, your maximum energy increases by 3.",
+			"ru": "",
+			"fr": ""
+		},
     	"Energy Gun": "Pay 1 energy to deal 1 damage to the creature across from a card bearing this sigil.",
+		"Energy Gun_i18n": {
+			"en": "Pay 1 energy to deal 1 damage to the creature across from a card bearing this sigil.",
+			"ru": "",
+			"fr": ""
+		},
     	"Energy Sniper": "Pay 1 energy, this card's owner chooses an opposing creature to take 1 damage.",
+		"Energy Sniper_i18n": {
+			"en": "Pay 1 energy, this card's owner chooses an opposing creature to take 1 damage.",
+			"ru": "",
+			"fr": ""
+		},
     	"Energy Gun (Eternal)": "Pay energy to damage the opposing creature until it dies or you run out.",
+		"Energy Gun (Eternal)_i18n": {
+			"en": "Pay energy to damage the opposing creature until it dies or you run out.",
+			"ru": "",
+			"fr": ""
+		},
     	"Enlarge": "Pay 2 bones to increase the power and health of a card bearing this sigil by 1.",
+		"Enlarge_i18n": {
+			"en": "Pay 2 bones to increase the power and health of a card bearing this sigil by 1.",
+			"ru": "",
+			"fr": ""
+		},
     	"Enlarge (3)": "Pay 3 bones to increase the power and health of a card bearing this sigil by 1.",
+		"Enlarge (3)_i18n": {
+			"en": "Pay 3 bones to increase the power and health of a card bearing this sigil by 1.",
+			"ru": "",
+			"fr": ""
+		},
     	"Fecundity": "When a card bearing this sigil is played, a copy of it is created in your hand.",
+		"Fecundity_i18n": {
+			"en": "When a card bearing this sigil is played, a copy of it is created in your hand.",
+			"ru": "",
+			"fr": ""
+		},
     	"Fecundity (Kaycee)": "When a card bearing this sigil is played, a copy of it is created in your hand without this sigil.",
+		"Fecundity (Kaycee)_i18n": {
+			"en": "When a card bearing this sigil is played, a copy of it is created in your hand without this sigil.",
+			"ru": "",
+			"fr": ""
+		},
     	"Fledgling": "A card bearing this sigil will grow into a more powerful form after 1 turn on the board.",
+		"Fledgling_i18n": {
+			"en": "A card bearing this sigil will grow into a more powerful form after 1 turn on the board.",
+			"ru": "",
+			"fr": ""
+		},
     	"Fledgling 2": "A card bearing this sigil will grow into a more powerful form after 2 turns on the board.",
+		"Fledgling 2_i18n": {
+			"en": "A card bearing this sigil will grow into a more powerful form after 2 turns on the board.",
+			"ru": "",
+			"fr": ""
+		},
     	"Frozen Away": "When a card bearing this sigil perishes, the creature inside is released in its place.",
+		"Frozen Away_i18n": {
+			"en": "When a card bearing this sigil perishes, the creature inside is released in its place.",
+			"ru": "",
+			"fr": ""
+		},
     	"Gem Animator": "Mox cards on the owner's side of the board gain 1 power.",
+		"Gem Animator_i18n": {
+			"en": "Mox cards on the owner's side of the board gain 1 power.",
+			"ru": "",
+			"fr": ""
+		},
     	"Gem Dependant": "If a card bearing this sigil's owner controls no mox cards, a card bearing this sigil perishes.",
+		"Gem Dependant_i18n": {
+			"en": "If a card bearing this sigil's owner controls no mox cards, a card bearing this sigil perishes.",
+			"ru": "",
+			"fr": ""
+		},
     	"Gem Detonator (5)": "When Mox cards on the owner's side of the board die, they Detonate (the creature opposing them, as well as adjacent friendly creatures, are dealt 5 damage).",
+		"Gem Detonator (5)_i18n": {
+			"en": "When Mox cards on the owner's side of the board die, they Detonate (the creature opposing them, as well as adjacent friendly creatures, are dealt 5 damage).",
+			"ru": "",
+			"fr": ""
+		},
     	"Gem Guardian": "When a card bearing this sigil is played, all Moxa cards on the owners' side of the board gain Nano Armor.",
+		"Gem Guardian_i18n": {
+			"en": "When a card bearing this sigil is played, all Moxa cards on the owners' side of the board gain Nano Armor.",
+			"ru": "",
+			"fr": ""
+		},
     	"Great Mox": "While a card bearing this sigil is on the board, it provides a green, orange, and blue gem to its owner.",
+		"Great Mox_i18n": {
+			"en": "While a card bearing this sigil is on the board, it provides a green, orange, and blue gem to its owner.",
+			"ru": "",
+			"fr": ""
+		},
     	"Green Mox": "While a card bearing this sigil is on the board, it provides a green gem to its owner.",
+		"Green Mox_i18n": {
+			"en": "While a card bearing this sigil is on the board, it provides a green gem to its owner.",
+			"ru": "",
+			"fr": ""
+		},
     	"Guardian": "When an opposing creature is placed opposite to an empty space, a card bearing this sigil will move to that empty space.",
+		"Guardian_i18n": {
+			"en": "When an opposing creature is placed opposite to an empty space, a card bearing this sigil will move to that empty space.",
+			"ru": "",
+			"fr": ""
+		},
     	"Handy": "When a card bearing this sigil is played, discard your hand then draw a new hand of 4 cards.",
+		"Handy_i18n": {
+			"en": "When a card bearing this sigil is played, discard your hand then draw a new hand of 4 cards.",
+			"ru": "",
+			"fr": ""
+		},
     	"Hefty": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. creatures in the way will be pushed in the same direction.",
+		"Hefty_i18n": {
+			"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. creatures in the way will be pushed in the same direction.",
+			"ru": "",
+			"fr": ""
+		},
     	"Hoarder": "When a card bearing this sigil is played, you may search your deck for any card and take it into your hand.",
+		"Hoarder_i18n": {
+			"en": "When a card bearing this sigil is played, you may search your deck for any card and take it into your hand.",
+			"ru": "",
+			"fr": ""
+		},
     	"Leader": "Creatures adjacent to a card bearing this sigil gain 1 Power.",
+		"Leader_i18n": {
+			"en": "Creatures adjacent to a card bearing this sigil gain 1 Power.",
+			"ru": "",
+			"fr": ""
+		},
     	"Looter": "When a card bearing this sigil deals damage directly, draw a card for each damage dealt.",
+		"Looter_i18n": {
+			"en": "When a card bearing this sigil deals damage directly, draw a card for each damage dealt.",
+			"ru": "",
+			"fr": ""
+		},
     	"Made of Stone": "A card bearing this sigil is immune to the effects of touch of death, stinky, annoying and Steel Trap.",
+		"Made of Stone_i18n": {
+			"en": "A card bearing this sigil is immune to the effects of touch of death, stinky, annoying and Steel Trap.",
+			"ru": "",
+			"fr": ""
+		},
     	"Many Lives": "When a card bearing this sigil is sacrificed it does not perish.",
+		"Many Lives_i18n": {
+			"en": "When a card bearing this sigil is sacrificed it does not perish.",
+			"ru": "",
+			"fr": ""
+		},
     	"Marrow Sucker": "Pay 2 bones to heal a card bearing this sigil.",
+		"Marrow Sucker_i18n": {
+			"en": "Pay 2 bones to heal a card bearing this sigil.",
+			"ru": "",
+			"fr": ""
+		},
     	"Mental Gemnastics": "When a card bearing this sigil is played, you draw cards equal to the amount of mox cards on your side of the board.",
+		"Mental Gemnastics_i18n": {
+			"en": "When a card bearing this sigil is played, you draw cards equal to the amount of mox cards on your side of the board.",
+			"ru": "",
+			"fr": ""
+		},
     	"Mighty Leap": "A card bearing this sigil will block an opposing creature bearing the airborne sigil.",
+		"Mighty Leap_i18n": {
+			"en": "A card bearing this sigil will block an opposing creature bearing the airborne sigil.",
+			"ru": "",
+			"fr": ""
+		},
     	"Music Player": "A card bearing this sigil plays a song of your choice when played",
+		"Music Player_i18n": {
+			"en": "A card bearing this sigil plays a song of your choice when played",
+			"ru": "",
+			"fr": ""
+		},
     	"Noble Sacrifice": "A card bearing this sigil is counted as 2 blood rather than 1 blood when sacrificed.",
+		"Noble Sacrifice_i18n": {
+			"en": "A card bearing this sigil is counted as 2 blood rather than 1 blood when sacrificed.",
+			"ru": "",
+			"fr": ""
+		},
     	"Orange Mox": "While a card bearing this sigil is on the board, it provides an orange gem to its owner.",
+		"Orange Mox_i18n": {
+			"en": "While a card bearing this sigil is on the board, it provides an orange gem to its owner.",
+			"ru": "",
+			"fr": ""
+		},
     	"Omni Strike": "A card bearing this sigil will strike all opposing spaces.",
+		"Omni Strike_i18n": {
+			"en": "A card bearing this sigil will strike all opposing spaces.",
+			"ru": "",
+			"fr": ""
+		},
     	"Power Dice": "Pay 1 energy to set the power of a card bearing this sigil randomly between 1 and 6.",
+		"Power Dice_i18n": {
+			"en": "Pay 1 energy to set the power of a card bearing this sigil randomly between 1 and 6.",
+			"ru": "",
+			"fr": ""
+		},
     	"Power Dice (2)": "Pay 2 energy to set the power of a card bearing this sigil randomly between 1 and 6.",
+		"Power Dice (2)_i18n": {
+			"en": "Pay 2 energy to set the power of a card bearing this sigil randomly between 1 and 6.",
+			"ru": "",
+			"fr": ""
+		},
     	"Rabbit Hole": "When a card bearing this sigil is played, a Rabbit is created in your hand.",
+		"Rabbit Hole_i18n": {
+			"en": "When a card bearing this sigil is played, a Rabbit is created in your hand.",
+			"ru": "",
+			"fr": ""
+		},
     	"Reconstitute": "A card bearing this sigil returns to your hand 2 turns after it persihes.",
+		"Reconstitute_i18n": {
+			"en": "A card bearing this sigil returns to your hand 2 turns after it persihes.",
+			"ru": "",
+			"fr": ""
+		},
     	"Repulsive": "If a creature would attack a card bearing this sigil, it does not.",
+		"Repulsive_i18n": {
+			"en": "If a creature would attack a card bearing this sigil, it does not.",
+			"ru": "",
+			"fr": ""
+		},
     	"Ruby Heart": "When a card bearing this sigil perishes, a ruby mox is created in its place.",
+		"Ruby Heart_i18n": {
+			"en": "When a card bearing this sigil perishes, a ruby mox is created in its place.",
+			"ru": "",
+			"fr": ""
+		},
     	"Scavenger": "While a card bearing this sigil is alive on the board, opposing creatures also grant you Bones upon death.",
+		"Scavenger_i18n": {
+			"en": "While a card bearing this sigil is alive on the board, opposing creatures also grant you Bones upon death.",
+			"ru": "",
+			"fr": ""
+		},
     	"Sentry": "When a creature moves into the space opposing a card bearing this sigil, they are dealt 1 damage.",
+		"Sentry_i18n": {
+			"en": "When a creature moves into the space opposing a card bearing this sigil, they are dealt 1 damage.",
+			"ru": "",
+			"fr": ""
+		},
     	"Sharp Quills": "Once a card bearing this sigil is struck, the striker is then dealt a single damage point.",
+		"Sharp Quills_i18n": {
+			"en": "Once a card bearing this sigil is struck, the striker is then dealt a single damage point.",
+			"ru": "",
+			"fr": ""
+		},
     	"Shield Latch": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Armored sigil.",
+		"Shield Latch_i18n": {
+			"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Armored sigil.",
+			"ru": "",
+			"fr": ""
+		},
     	"Side Hustle": "When a card bearing this sigil deals damage directly, draw a card from your side deck for each damage dealt.",
+		"Side Hustle_i18n": {
+			"en": "When a card bearing this sigil deals damage directly, draw a card from your side deck for each damage dealt.",
+			"ru": "",
+			"fr": ""
+		},
     	"Skeleton Crew": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a skeleton in its old space.",
+		"Skeleton Crew_i18n": {
+			"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a skeleton in its old space.",
+			"ru": "",
+			"fr": ""
+		},
     	"Skeleton Crew (Yarr)": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a pirate skeleton in its old space.",
+		"Skeleton Crew (Yarr)_i18n": {
+			"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a pirate skeleton in its old space.",
+			"ru": "",
+			"fr": ""
+		},
     	"Sniper": "You may choose which opposing card a card bearing this sigil strikes.",
+		"Sniper_i18n": {
+			"en": "You may choose which opposing card a card bearing this sigil strikes.",
+			"ru": "",
+			"fr": ""
+		},
     	"Spawn Conduit": "Empty spaces within a circuit completed by a card bearing this sigil spawn L33pB0ts at the end of the owner's turn.",
+		"Spawn Conduit_i18n": {
+			"en": "Empty spaces within a circuit completed by a card bearing this sigil spawn L33pB0ts at the end of the owner's turn.",
+			"ru": "",
+			"fr": ""
+		},
     	"Sprinter": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil.",
+		"Sprinter_i18n": {
+			"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil.",
+			"ru": "",
+			"fr": ""
+		},
     	"Squirrel Shedder": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a squirrel in their old space.",
+		"Squirrel Shedder_i18n": {
+			"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a squirrel in their old space.",
+			"ru": "",
+			"fr": ""
+		},
     	"Steel Trap": "When a card bearing this sigil perishes, the creature opposing it perishes as well. A Pelt is created in your oppenent's hand.",
+		"Steel Trap_i18n": {
+			"en": "When a card bearing this sigil perishes, the creature opposing it perishes as well. A Pelt is created in your oppenent's hand.",
+			"ru": "",
+			"fr": ""
+		},
     	"Stinky": "The creature opposing a card bearing this sigil loses 1 Power.",
+		"Stinky_i18n": {
+			"en": "The creature opposing a card bearing this sigil loses 1 Power.",
+			"ru": "",
+			"fr": ""
+		},
     	"Stimulate": "Pay 3 energy to increase the power and health of a card bearing this sigil by 1.",
+		"Stimulate_i18n": {
+			"en": "Pay 3 energy to increase the power and health of a card bearing this sigil by 1.",
+			"ru": "",
+			"fr": ""
+		},
     	"Stimulate (4)": "Pay 4 energy to increase the power and health of a card bearing this sigil by 1.",
+		"Stimulate (4)_i18n": {
+			"en": "Pay 4 energy to increase the power and health of a card bearing this sigil by 1.",
+			"ru": "",
+			"fr": ""
+		},
     	"Stitched": "Whenever a card bearing the Acupuncture sigil is damaged, this card recieves that damage, and the Acupuncture card recieves 1 damage instead.",
+		"Stitched_i18n": {
+			"en": "Whenever a card bearing the Acupuncture sigil is damaged, this card recieves that damage, and the Acupuncture card recieves 1 damage instead.",
+			"ru": "",
+			"fr": ""
+		},
     	"Tentacle": "Includes effect of Waterborne. In addition, a card bearing this sigil will transform into a random tentacle at the start of each turn.",
+		"Tentacle_i18n": {
+			"en": "Includes effect of Waterborne. In addition, a card bearing this sigil will transform into a random tentacle at the start of each turn.",
+			"ru": "",
+			"fr": ""
+		},
     	"Thick": "A card bearing this sigil is juicy, and takes up 2 spaces.",
+		"Thick_i18n": {
+			"en": "A card bearing this sigil is juicy, and takes up 2 spaces.",
+			"ru": "",
+			"fr": ""
+		},
     	"Touch of Death": "When a card bearing this sigil damages another creature, that creature perishes.",
+		"Touch of Death_i18n": {
+			"en": "When a card bearing this sigil damages another creature, that creature perishes.",
+			"ru": "",
+			"fr": ""
+		},
     	"Transformer": "At the beginning of your turn a card bearing this sigil will transform to, or from, Beast mode.",
+		"Transformer_i18n": {
+			"en": "At the beginning of your turn a card bearing this sigil will transform to, or from, Beast mode.",
+			"ru": "",
+			"fr": ""
+		},
     	"Trifurcated Strike": "A card bearing this sigil will strike each opposing space to the left, right, and center of it.",
+		"Trifurcated Strike_i18n": {
+			"en": "A card bearing this sigil will strike each opposing space to the left, right, and center of it.",
+			"ru": "",
+			"fr": ""
+		},
     	"True Scholar": "If you have a blue gem, sacrifice a card bearing this sigil to draw 3 cards.",
+		"True Scholar_i18n": {
+			"en": "If you have a blue gem, sacrifice a card bearing this sigil to draw 3 cards.",
+			"ru": "",
+			"fr": ""
+		},
     	"Unkillable": "When a card bearing this sigil perishes, a copy of it is created in your hand.",
+		"Unkillable_i18n": {
+			"en": "When a card bearing this sigil perishes, a copy of it is created in your hand.",
+			"ru": "",
+			"fr": ""
+		},
     	"Unkillable (Eternal)": "When a card bearing this sigil perishes, a copy of it is created in your hand without this sigil.",
+		"Unkillable (Eternal)_i18n": {
+			"en": "When a card bearing this sigil perishes, a copy of it is created in your hand without this sigil.",
+			"ru": "",
+			"fr": ""
+		},
     	"Vessel Printer": "Once a card bearing this sigil is struck, draw a card from your side deck.",
+		"Vessel Printer_i18n": {
+			"en": "Once a card bearing this sigil is struck, draw a card from your side deck.",
+			"ru": "",
+			"fr": ""
+		},
     	"Warded": "A card bearing this sigil takes only 1 damage from attacks and card effects.",
+		"Warded_i18n": {
+			"en": "A card bearing this sigil takes only 1 damage from attacks and card effects.",
+			"ru": "",
+			"fr": ""
+		},
     	"Waterborne": "A card bearing this sigil submerges itself during its opponent's turn. while submerged, opposing creatures attack its owner directly.",
-    	"Worthy Sacrifice": "A card bearing this sigil is counted as 3 blood rather than 1 blood when sacrificed."
+		"Waterborne_i18n": {
+			"en": "A card bearing this sigil submerges itself during its opponent's turn. while submerged, opposing creatures attack its owner directly.",
+			"ru": "",
+			"fr": ""
+		},
+    	"Worthy Sacrifice": "A card bearing this sigil is counted as 3 blood rather than 1 blood when sacrificed.",
+		"Worthy Sacrifice_i18n": {
+			"en": "A card bearing this sigil is counted as 3 blood rather than 1 blood when sacrificed.",
+			"ru": "",
+			"fr": ""
+		}
     },
     "working_sigils": [
         "Airborne",
@@ -1915,6 +3805,11 @@
     "custom_sigils": {
         "Chungus": {
             "description": "Big",
+			"description_i18n": {
+				"en": "",
+				"ru": "",
+				"fr": ""
+			},
             "author": "107zxz",
             "url": "https://raw.githubusercontent.com/dkodnik/data_op/main/scripts/Chungus.gd",
             "icon_url": "https://raw.githubusercontent.com/dkodnik/data_op/main/gfx/sigils/Airborne.png"
