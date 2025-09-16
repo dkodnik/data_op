@@ -3048,603 +3048,1303 @@
     "sigils": {
         "Acupuncture": "Pay 3 bones: Choose a creature to gain the Stitched sigil and give this card Armor.",
 		"Acupuncture_i18n": {
-			"en": "Pay 3 bones: Choose a creature to gain the Stitched sigil and give this card Armor.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Acupuncture",
+				"ru": "Иглоукалывание",
+				"fr": "Acupuncture"
+			},
+			"description": {
+				"en": "Pay 3 bones: Choose a creature to gain the Stitched sigil and give this card Armor.",
+				"ru": "Заплатите 3 кости: Выберите существо, которое получит Вышитый символ и броню с этой картой.",
+				"fr": "Payez 3 os: choisissez une créature pour obtenir le sceau cousu et donnez à cette carte une armure."
+			}
 		},
     	"Airborne": "A card bearing this sigil will strike an opponent directly, even if there is a creature opposing it.",
 		"Airborne_i18n": {
-			"en": "A card bearing this sigil will strike an opponent directly, even if there is a creature opposing it.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Airborne",
+				"ru": "Воздушнодесантный",
+				"fr": "Aéroporté"
+			},
+			"description": {
+				"en": "A card bearing this sigil will strike an opponent directly, even if there is a creature opposing it.",
+				"ru": "Карта с этим символом нанесет прямой удар противнику, даже если на ее пути находится существо.",
+				"fr": "Une carte portant ce sceau frappera directement un adversaire, même s'il y a une créature qui s'y oppose."
+			}
 		},
     	"Amalgamation": "A card bearing this sigil assimilates the owner's other creatures, gaining their health, power and sigils.",
 		"Amalgamation_i18n": {
-			"en": "A card bearing this sigil assimilates the owner's other creatures, gaining their health, power and sigils.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Amalgamation",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil assimilates the owner's other creatures, gaining their health, power and sigils.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Annoying": "The creature opposing a card bearing this sigil gains 1 Power.",
 		"Annoying_i18n": {
-			"en": "The creature opposing a card bearing this sigil gains 1 Power.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Annoying",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "The creature opposing a card bearing this sigil gains 1 Power.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Ant Spawner": "When a card bearing this sigil is played, an ant is created in your hand.",
 		"Ant Spawner_i18n": {
-			"en": "When a card bearing this sigil is played, an ant is created in your hand.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Ant Spawner",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is played, an ant is created in your hand.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Armored": "The first time a card bearing this sigil would take damage, prevent that damage.",
 		"Armored_i18n": {
-			"en": "The first time a card bearing this sigil would take damage, prevent that damage.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Armored",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "The first time a card bearing this sigil would take damage, prevent that damage.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Attack Conduit": "Other creatures within a circuit completed by a card bearing this sigil gain 1 power.",
 		"Attack Conduit_i18n": {
-			"en": "Other creatures within a circuit completed by a card bearing this sigil gain 1 power.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Attack Conduit",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Other creatures within a circuit completed by a card bearing this sigil gain 1 power.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Battery Bearer": "When a card bearing this sigil is played, it provides an energy cell to its owner.",
     	"Battery Bearer_i18n": {
-			"en": "When a card bearing this sigil is played, it provides an energy cell to its owner.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Battery Bearer",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is played, it provides an energy cell to its owner.",
+				"ru": "",
+				"fr": ""
+			}
 		},
 		"Bees Within": "Once a card bearing this sigil is struck, a Bee is created in your hand.",
 		"Bees Within_i18n": {
-			"en": "Once a card bearing this sigil is struck, a Bee is created in your hand.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Bees Within",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Once a card bearing this sigil is struck, a Bee is created in your hand.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Bellist": "When a card bearing this sigil is played, a Chime is created on each empty adjacent space. A card bearing this sigil will perform a retaliatory attack against any card striking a Chime.",
 		"Bellist_i18n": {
-			"en": "When a card bearing this sigil is played, a Chime is created on each empty adjacent space. A card bearing this sigil will perform a retaliatory attack against any card striking a Chime.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Bellist",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is played, a Chime is created on each empty adjacent space. A card bearing this sigil will perform a retaliatory attack against any card striking a Chime.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Bifurcated Strike": "A card bearing this sigil will strike each opposing space to the left and right of the space across from it.",
 		"Bifurcated Strike_i18n": {
-			"en": "A card bearing this sigil will strike each opposing space to the left and right of the space across from it.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Bifurcated Strike",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil will strike each opposing space to the left and right of the space across from it.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Blood Lust": "When a card bearing this Sigil attacks an opposing creature and it perishes, this card gains 1 power.",
 		"Blood Lust_i18n": {
-			"en": "When a card bearing this Sigil attacks an opposing creature and it perishes, this card gains 1 power.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Blood Lust",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this Sigil attacks an opposing creature and it perishes, this card gains 1 power.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Blue Mox": "While a card bearing this sigil is on the board, it provides a blue gem to its owner.",
 		"Blue Mox_i18n": {
-			"en": "While a card bearing this sigil is on the board, it provides a blue gem to its owner.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Blue Mox",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "While a card bearing this sigil is on the board, it provides a blue gem to its owner.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Bomb Latch": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Detonator sigil.",
 		"Bomb Latch_i18n": {
-			"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Detonator sigil.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Bomb Latch",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Detonator sigil.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Bomb Spewer": "When a card bearing this sigil is played, fill all empty spaces with explode bots.",
 		"Bomb Spewer_i18n": {
-			"en": "When a card bearing this sigil is played, fill all empty spaces with explode bots.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Bomb Spewer",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is played, fill all empty spaces with explode bots.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Bomb Spewer (Eternal)": "When a card bearing this sigil is played, fill every empty space opposing a card with an explode bot.",
 		"Bomb Spewer (Eternal)_i18n": {
-			"en": "When a card bearing this sigil is played, fill every empty space opposing a card with an explode bot.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Bomb Spewer (Eternal)",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is played, fill every empty space opposing a card with an explode bot.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Bone Digger": "At the end of the owner's turn, a card bearing this sigil will generate 1 bone.",
 		"Bone Digger_i18n": {
-			"en": "At the end of the owner's turn, a card bearing this sigil will generate 1 bone.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Bone Digger",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "At the end of the owner's turn, a card bearing this sigil will generate 1 bone.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Bone King": "When a card bearing this sigil dies, 4 bones are awarded instead of 1.",
 		"Bone King_i18n": {
-			"en": "When a card bearing this sigil dies, 4 bones are awarded instead of 1.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Bone King",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil dies, 4 bones are awarded instead of 1.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Bonehorn": "Pay 1 energy to gain 3 bones.",
 		"Bonehorn_i18n": {
-			"en": "Pay 1 energy to gain 3 bones.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Bonehorn",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Pay 1 energy to gain 3 bones.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Bonehorn (1)": "Pay 1 energy to gain 1 bone.",
 		"Bonehorn (1)_i18n": {
-			"en": "Pay 1 energy to gain 1 bone.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Bonehorn (1)",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Pay 1 energy to gain 1 bone.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Boneless": "When a card bearing this sigil dies, no bones are awarded.",
 		"Boneless_i18n": {
-			"en": "When a card bearing this sigil dies, no bones are awarded.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Boneless",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil dies, no bones are awarded.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Brittle": "After attacking, a card bearing this sigil perishes.",
 		"Brittle_i18n": {
-			"en": "After attacking, a card bearing this sigil perishes.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Brittle",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "After attacking, a card bearing this sigil perishes.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Brittle Latch": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Brittle sigil.",
 		"Brittle Latch_i18n": {
-			"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Brittle sigil.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Brittle Latch",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Brittle sigil.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Burrower": "When an empty space would be struck, a card bearing this sigil will move to that space to receive the strike instead.",
 		"Burrower_i18n": {
-			"en": "When an empty space would be struck, a card bearing this sigil will move to that space to receive the strike instead.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Burrower",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When an empty space would be struck, a card bearing this sigil will move to that space to receive the strike instead.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Corpse Eater": "If a creature that you own perishes by combat, a card bearing this sigil in your hand is automatically played in its place.",
 		"Corpse Eater_i18n": {
-			"en": "If a creature that you own perishes by combat, a card bearing this sigil in your hand is automatically played in its place.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Corpse Eater",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "If a creature that you own perishes by combat, a card bearing this sigil in your hand is automatically played in its place.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Dam Builder": "When a card bearing this sigil is played, a Dam is created on each empty adjacent space.",
 		"Dam Builder_i18n": {
-			"en": "When a card bearing this sigil is played, a Dam is created on each empty adjacent space.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Dam Builder",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is played, a Dam is created on each empty adjacent space.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Depleting": "When a card bearing this sigil is played, 2 energy cells are removed from its owner",
 		"Depleting_i18n": {
-			"en": "When a card bearing this sigil is played, 2 energy cells are removed from its owner",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Depleting",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is played, 2 energy cells are removed from its owner",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Detonator": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 10 damage.",
 		"Detonator_i18n": {
-			"en": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 10 damage.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Detonator",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 10 damage.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Detonator (5)": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 5 damage.",
 		"Detonator (5)_i18n": {
-			"en": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 5 damage.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Detonator (5)",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 5 damage.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Disentomb": "Pay 1 bone to create a skeleton in your hand.",
 		"Disentomb_i18n": {
-			"en": "Pay 1 bone to create a skeleton in your hand.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Disentomb",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Pay 1 bone to create a skeleton in your hand.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Disentomb (Corpses)": "Pay 2 bones to create a withered corpse in your hand.",
 		"Disentomb (Corpses)_i18n": {
-			"en": "Pay 2 bones to create a withered corpse in your hand.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Disentomb (Corpses)",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Pay 2 bones to create a withered corpse in your hand.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Double Death": "When another creature you own dies, it is returned to life and dies again immediately.",
 		"Double Death_i18n": {
-			"en": "When another creature you own dies, it is returned to life and dies again immediately.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Double Death",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When another creature you own dies, it is returned to life and dies again immediately.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Double Strike": "A card bearing this Sigil will strike the opposing space an extra time when attacking.",
 		"Double Strike_i18n": {
-			"en": "A card bearing this Sigil will strike the opposing space an extra time when attacking.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Double Strike":,
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this Sigil will strike the opposing space an extra time when attacking.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Energy Conduit": "If a card bearing this sigil is part of a completed circuit, your energy never depletes.",
 		"Energy Conduit_i18n": {
-			"en": "If a card bearing this sigil is part of a completed circuit, your energy never depletes.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Energy Conduit",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "If a card bearing this sigil is part of a completed circuit, your energy never depletes.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Energy Conduit (+3)": "If a card bearing this sigil is part of a completed circuit, your maximum energy increases by 3.",
 		"Energy Conduit (+3)_i18n": {
-			"en": "If a card bearing this sigil is part of a completed circuit, your maximum energy increases by 3.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Energy Conduit (+3)",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "If a card bearing this sigil is part of a completed circuit, your maximum energy increases by 3.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Energy Gun": "Pay 1 energy to deal 1 damage to the creature across from a card bearing this sigil.",
 		"Energy Gun_i18n": {
-			"en": "Pay 1 energy to deal 1 damage to the creature across from a card bearing this sigil.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Energy Gun",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Pay 1 energy to deal 1 damage to the creature across from a card bearing this sigil.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Energy Sniper": "Pay 1 energy, this card's owner chooses an opposing creature to take 1 damage.",
 		"Energy Sniper_i18n": {
-			"en": "Pay 1 energy, this card's owner chooses an opposing creature to take 1 damage.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Energy Sniper",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Pay 1 energy, this card's owner chooses an opposing creature to take 1 damage.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Energy Gun (Eternal)": "Pay energy to damage the opposing creature until it dies or you run out.",
 		"Energy Gun (Eternal)_i18n": {
-			"en": "Pay energy to damage the opposing creature until it dies or you run out.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Energy Gun (Eternal)",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Pay energy to damage the opposing creature until it dies or you run out.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Enlarge": "Pay 2 bones to increase the power and health of a card bearing this sigil by 1.",
 		"Enlarge_i18n": {
-			"en": "Pay 2 bones to increase the power and health of a card bearing this sigil by 1.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Enlarge",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Pay 2 bones to increase the power and health of a card bearing this sigil by 1.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Enlarge (3)": "Pay 3 bones to increase the power and health of a card bearing this sigil by 1.",
 		"Enlarge (3)_i18n": {
-			"en": "Pay 3 bones to increase the power and health of a card bearing this sigil by 1.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Enlarge (3)",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Pay 3 bones to increase the power and health of a card bearing this sigil by 1.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Fecundity": "When a card bearing this sigil is played, a copy of it is created in your hand.",
 		"Fecundity_i18n": {
-			"en": "When a card bearing this sigil is played, a copy of it is created in your hand.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Fecundity",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is played, a copy of it is created in your hand.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Fecundity (Kaycee)": "When a card bearing this sigil is played, a copy of it is created in your hand without this sigil.",
 		"Fecundity (Kaycee)_i18n": {
-			"en": "When a card bearing this sigil is played, a copy of it is created in your hand without this sigil.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Fecundity (Kaycee)",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is played, a copy of it is created in your hand without this sigil.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Fledgling": "A card bearing this sigil will grow into a more powerful form after 1 turn on the board.",
 		"Fledgling_i18n": {
-			"en": "A card bearing this sigil will grow into a more powerful form after 1 turn on the board.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Fledgling",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil will grow into a more powerful form after 1 turn on the board.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Fledgling 2": "A card bearing this sigil will grow into a more powerful form after 2 turns on the board.",
 		"Fledgling 2_i18n": {
-			"en": "A card bearing this sigil will grow into a more powerful form after 2 turns on the board.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Fledgling 2",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil will grow into a more powerful form after 2 turns on the board.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Frozen Away": "When a card bearing this sigil perishes, the creature inside is released in its place.",
 		"Frozen Away_i18n": {
-			"en": "When a card bearing this sigil perishes, the creature inside is released in its place.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Frozen Away",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil perishes, the creature inside is released in its place.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Gem Animator": "Mox cards on the owner's side of the board gain 1 power.",
 		"Gem Animator_i18n": {
-			"en": "Mox cards on the owner's side of the board gain 1 power.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Gem Animator",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Mox cards on the owner's side of the board gain 1 power.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Gem Dependant": "If a card bearing this sigil's owner controls no mox cards, a card bearing this sigil perishes.",
 		"Gem Dependant_i18n": {
-			"en": "If a card bearing this sigil's owner controls no mox cards, a card bearing this sigil perishes.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Gem Dependant",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "If a card bearing this sigil's owner controls no mox cards, a card bearing this sigil perishes.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Gem Detonator (5)": "When Mox cards on the owner's side of the board die, they Detonate (the creature opposing them, as well as adjacent friendly creatures, are dealt 5 damage).",
 		"Gem Detonator (5)_i18n": {
-			"en": "When Mox cards on the owner's side of the board die, they Detonate (the creature opposing them, as well as adjacent friendly creatures, are dealt 5 damage).",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Gem Detonator (5)",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When Mox cards on the owner's side of the board die, they Detonate (the creature opposing them, as well as adjacent friendly creatures, are dealt 5 damage).",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Gem Guardian": "When a card bearing this sigil is played, all Moxa cards on the owners' side of the board gain Nano Armor.",
 		"Gem Guardian_i18n": {
-			"en": "When a card bearing this sigil is played, all Moxa cards on the owners' side of the board gain Nano Armor.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Gem Guardian",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is played, all Moxa cards on the owners' side of the board gain Nano Armor.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Great Mox": "While a card bearing this sigil is on the board, it provides a green, orange, and blue gem to its owner.",
 		"Great Mox_i18n": {
-			"en": "While a card bearing this sigil is on the board, it provides a green, orange, and blue gem to its owner.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Great Mox",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "While a card bearing this sigil is on the board, it provides a green, orange, and blue gem to its owner.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Green Mox": "While a card bearing this sigil is on the board, it provides a green gem to its owner.",
 		"Green Mox_i18n": {
-			"en": "While a card bearing this sigil is on the board, it provides a green gem to its owner.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Green Mox",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "While a card bearing this sigil is on the board, it provides a green gem to its owner.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Guardian": "When an opposing creature is placed opposite to an empty space, a card bearing this sigil will move to that empty space.",
 		"Guardian_i18n": {
-			"en": "When an opposing creature is placed opposite to an empty space, a card bearing this sigil will move to that empty space.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Guardian",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When an opposing creature is placed opposite to an empty space, a card bearing this sigil will move to that empty space.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Handy": "When a card bearing this sigil is played, discard your hand then draw a new hand of 4 cards.",
 		"Handy_i18n": {
-			"en": "When a card bearing this sigil is played, discard your hand then draw a new hand of 4 cards.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Handy",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is played, discard your hand then draw a new hand of 4 cards.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Hefty": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. creatures in the way will be pushed in the same direction.",
 		"Hefty_i18n": {
-			"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. creatures in the way will be pushed in the same direction.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Hefty",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. creatures in the way will be pushed in the same direction.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Hoarder": "When a card bearing this sigil is played, you may search your deck for any card and take it into your hand.",
 		"Hoarder_i18n": {
-			"en": "When a card bearing this sigil is played, you may search your deck for any card and take it into your hand.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Hoarder",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is played, you may search your deck for any card and take it into your hand.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Leader": "Creatures adjacent to a card bearing this sigil gain 1 Power.",
 		"Leader_i18n": {
-			"en": "Creatures adjacent to a card bearing this sigil gain 1 Power.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Leader",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Creatures adjacent to a card bearing this sigil gain 1 Power.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Looter": "When a card bearing this sigil deals damage directly, draw a card for each damage dealt.",
 		"Looter_i18n": {
-			"en": "When a card bearing this sigil deals damage directly, draw a card for each damage dealt.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Looter",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil deals damage directly, draw a card for each damage dealt.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Made of Stone": "A card bearing this sigil is immune to the effects of touch of death, stinky, annoying and Steel Trap.",
 		"Made of Stone_i18n": {
-			"en": "A card bearing this sigil is immune to the effects of touch of death, stinky, annoying and Steel Trap.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Made of Stone",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil is immune to the effects of touch of death, stinky, annoying and Steel Trap.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Many Lives": "When a card bearing this sigil is sacrificed it does not perish.",
 		"Many Lives_i18n": {
-			"en": "When a card bearing this sigil is sacrificed it does not perish.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Many Lives",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is sacrificed it does not perish.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Marrow Sucker": "Pay 2 bones to heal a card bearing this sigil.",
 		"Marrow Sucker_i18n": {
-			"en": "Pay 2 bones to heal a card bearing this sigil.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Marrow Sucker",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Pay 2 bones to heal a card bearing this sigil.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Mental Gemnastics": "When a card bearing this sigil is played, you draw cards equal to the amount of mox cards on your side of the board.",
 		"Mental Gemnastics_i18n": {
-			"en": "When a card bearing this sigil is played, you draw cards equal to the amount of mox cards on your side of the board.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Mental Gemnastics",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is played, you draw cards equal to the amount of mox cards on your side of the board.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Mighty Leap": "A card bearing this sigil will block an opposing creature bearing the airborne sigil.",
 		"Mighty Leap_i18n": {
-			"en": "A card bearing this sigil will block an opposing creature bearing the airborne sigil.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Mighty Leap",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil will block an opposing creature bearing the airborne sigil.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Music Player": "A card bearing this sigil plays a song of your choice when played",
 		"Music Player_i18n": {
-			"en": "A card bearing this sigil plays a song of your choice when played",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Music Player",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil plays a song of your choice when played",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Noble Sacrifice": "A card bearing this sigil is counted as 2 blood rather than 1 blood when sacrificed.",
 		"Noble Sacrifice_i18n": {
-			"en": "A card bearing this sigil is counted as 2 blood rather than 1 blood when sacrificed.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Noble Sacrifice",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil is counted as 2 blood rather than 1 blood when sacrificed.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Orange Mox": "While a card bearing this sigil is on the board, it provides an orange gem to its owner.",
 		"Orange Mox_i18n": {
-			"en": "While a card bearing this sigil is on the board, it provides an orange gem to its owner.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Orange Mox",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "While a card bearing this sigil is on the board, it provides an orange gem to its owner.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Omni Strike": "A card bearing this sigil will strike all opposing spaces.",
 		"Omni Strike_i18n": {
-			"en": "A card bearing this sigil will strike all opposing spaces.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Omni Strike",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil will strike all opposing spaces.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Power Dice": "Pay 1 energy to set the power of a card bearing this sigil randomly between 1 and 6.",
 		"Power Dice_i18n": {
-			"en": "Pay 1 energy to set the power of a card bearing this sigil randomly between 1 and 6.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Power Dice",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Pay 1 energy to set the power of a card bearing this sigil randomly between 1 and 6.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Power Dice (2)": "Pay 2 energy to set the power of a card bearing this sigil randomly between 1 and 6.",
 		"Power Dice (2)_i18n": {
-			"en": "Pay 2 energy to set the power of a card bearing this sigil randomly between 1 and 6.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Power Dice (2)",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Pay 2 energy to set the power of a card bearing this sigil randomly between 1 and 6.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Rabbit Hole": "When a card bearing this sigil is played, a Rabbit is created in your hand.",
 		"Rabbit Hole_i18n": {
-			"en": "When a card bearing this sigil is played, a Rabbit is created in your hand.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Rabbit Hole",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil is played, a Rabbit is created in your hand.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Reconstitute": "A card bearing this sigil returns to your hand 2 turns after it persihes.",
 		"Reconstitute_i18n": {
-			"en": "A card bearing this sigil returns to your hand 2 turns after it persihes.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Reconstitute",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil returns to your hand 2 turns after it persihes.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Repulsive": "If a creature would attack a card bearing this sigil, it does not.",
 		"Repulsive_i18n": {
-			"en": "If a creature would attack a card bearing this sigil, it does not.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Repulsive",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "If a creature would attack a card bearing this sigil, it does not.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Ruby Heart": "When a card bearing this sigil perishes, a ruby mox is created in its place.",
 		"Ruby Heart_i18n": {
-			"en": "When a card bearing this sigil perishes, a ruby mox is created in its place.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Ruby Heart",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil perishes, a ruby mox is created in its place.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Scavenger": "While a card bearing this sigil is alive on the board, opposing creatures also grant you Bones upon death.",
 		"Scavenger_i18n": {
-			"en": "While a card bearing this sigil is alive on the board, opposing creatures also grant you Bones upon death.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Scavenger",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "While a card bearing this sigil is alive on the board, opposing creatures also grant you Bones upon death.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Sentry": "When a creature moves into the space opposing a card bearing this sigil, they are dealt 1 damage.",
 		"Sentry_i18n": {
-			"en": "When a creature moves into the space opposing a card bearing this sigil, they are dealt 1 damage.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Sentry",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a creature moves into the space opposing a card bearing this sigil, they are dealt 1 damage.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Sharp Quills": "Once a card bearing this sigil is struck, the striker is then dealt a single damage point.",
 		"Sharp Quills_i18n": {
-			"en": "Once a card bearing this sigil is struck, the striker is then dealt a single damage point.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Sharp Quills",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Once a card bearing this sigil is struck, the striker is then dealt a single damage point.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Shield Latch": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Armored sigil.",
 		"Shield Latch_i18n": {
-			"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Armored sigil.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Shield Latch",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Armored sigil.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Side Hustle": "When a card bearing this sigil deals damage directly, draw a card from your side deck for each damage dealt.",
 		"Side Hustle_i18n": {
-			"en": "When a card bearing this sigil deals damage directly, draw a card from your side deck for each damage dealt.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Side Hustle",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil deals damage directly, draw a card from your side deck for each damage dealt.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Skeleton Crew": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a skeleton in its old space.",
 		"Skeleton Crew_i18n": {
-			"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a skeleton in its old space.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Skeleton Crew",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a skeleton in its old space.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Skeleton Crew (Yarr)": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a pirate skeleton in its old space.",
 		"Skeleton Crew (Yarr)_i18n": {
-			"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a pirate skeleton in its old space.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Skeleton Crew (Yarr)",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a pirate skeleton in its old space.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Sniper": "You may choose which opposing card a card bearing this sigil strikes.",
 		"Sniper_i18n": {
-			"en": "You may choose which opposing card a card bearing this sigil strikes.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Sniper",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "You may choose which opposing card a card bearing this sigil strikes.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Spawn Conduit": "Empty spaces within a circuit completed by a card bearing this sigil spawn L33pB0ts at the end of the owner's turn.",
 		"Spawn Conduit_i18n": {
-			"en": "Empty spaces within a circuit completed by a card bearing this sigil spawn L33pB0ts at the end of the owner's turn.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Spawn Conduit",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Empty spaces within a circuit completed by a card bearing this sigil spawn L33pB0ts at the end of the owner's turn.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Sprinter": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil.",
 		"Sprinter_i18n": {
-			"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Sprinter",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Squirrel Shedder": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a squirrel in their old space.",
 		"Squirrel Shedder_i18n": {
-			"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a squirrel in their old space.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Squirrel Shedder",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a squirrel in their old space.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Steel Trap": "When a card bearing this sigil perishes, the creature opposing it perishes as well. A Pelt is created in your oppenent's hand.",
 		"Steel Trap_i18n": {
-			"en": "When a card bearing this sigil perishes, the creature opposing it perishes as well. A Pelt is created in your oppenent's hand.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Steel Trap",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil perishes, the creature opposing it perishes as well. A Pelt is created in your oppenent's hand.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Stinky": "The creature opposing a card bearing this sigil loses 1 Power.",
 		"Stinky_i18n": {
+			"name": {
+				"en": "Stinky",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
 			"en": "The creature opposing a card bearing this sigil loses 1 Power.",
 			"ru": "",
 			"fr": ""
+			}
 		},
     	"Stimulate": "Pay 3 energy to increase the power and health of a card bearing this sigil by 1.",
 		"Stimulate_i18n": {
-			"en": "Pay 3 energy to increase the power and health of a card bearing this sigil by 1.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Stimulate",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Pay 3 energy to increase the power and health of a card bearing this sigil by 1.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Stimulate (4)": "Pay 4 energy to increase the power and health of a card bearing this sigil by 1.",
 		"Stimulate (4)_i18n": {
-			"en": "Pay 4 energy to increase the power and health of a card bearing this sigil by 1.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Stimulate (4)",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Pay 4 energy to increase the power and health of a card bearing this sigil by 1.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Stitched": "Whenever a card bearing the Acupuncture sigil is damaged, this card recieves that damage, and the Acupuncture card recieves 1 damage instead.",
 		"Stitched_i18n": {
-			"en": "Whenever a card bearing the Acupuncture sigil is damaged, this card recieves that damage, and the Acupuncture card recieves 1 damage instead.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Stitched",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Whenever a card bearing the Acupuncture sigil is damaged, this card recieves that damage, and the Acupuncture card recieves 1 damage instead.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Tentacle": "Includes effect of Waterborne. In addition, a card bearing this sigil will transform into a random tentacle at the start of each turn.",
 		"Tentacle_i18n": {
-			"en": "Includes effect of Waterborne. In addition, a card bearing this sigil will transform into a random tentacle at the start of each turn.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Tentacle",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Includes effect of Waterborne. In addition, a card bearing this sigil will transform into a random tentacle at the start of each turn.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Thick": "A card bearing this sigil is juicy, and takes up 2 spaces.",
 		"Thick_i18n": {
-			"en": "A card bearing this sigil is juicy, and takes up 2 spaces.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Thick",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil is juicy, and takes up 2 spaces.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Touch of Death": "When a card bearing this sigil damages another creature, that creature perishes.",
 		"Touch of Death_i18n": {
-			"en": "When a card bearing this sigil damages another creature, that creature perishes.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Touch of Death",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil damages another creature, that creature perishes.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Transformer": "At the beginning of your turn a card bearing this sigil will transform to, or from, Beast mode.",
 		"Transformer_i18n": {
-			"en": "At the beginning of your turn a card bearing this sigil will transform to, or from, Beast mode.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Transformer",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "At the beginning of your turn a card bearing this sigil will transform to, or from, Beast mode.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Trifurcated Strike": "A card bearing this sigil will strike each opposing space to the left, right, and center of it.",
 		"Trifurcated Strike_i18n": {
-			"en": "A card bearing this sigil will strike each opposing space to the left, right, and center of it.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Trifurcated Strike",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil will strike each opposing space to the left, right, and center of it.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"True Scholar": "If you have a blue gem, sacrifice a card bearing this sigil to draw 3 cards.",
 		"True Scholar_i18n": {
-			"en": "If you have a blue gem, sacrifice a card bearing this sigil to draw 3 cards.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "True Scholar",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "If you have a blue gem, sacrifice a card bearing this sigil to draw 3 cards.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Unkillable": "When a card bearing this sigil perishes, a copy of it is created in your hand.",
 		"Unkillable_i18n": {
-			"en": "When a card bearing this sigil perishes, a copy of it is created in your hand.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Unkillable",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil perishes, a copy of it is created in your hand.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Unkillable (Eternal)": "When a card bearing this sigil perishes, a copy of it is created in your hand without this sigil.",
 		"Unkillable (Eternal)_i18n": {
-			"en": "When a card bearing this sigil perishes, a copy of it is created in your hand without this sigil.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Unkillable (Eternal)",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "When a card bearing this sigil perishes, a copy of it is created in your hand without this sigil.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Vessel Printer": "Once a card bearing this sigil is struck, draw a card from your side deck.",
 		"Vessel Printer_i18n": {
-			"en": "Once a card bearing this sigil is struck, draw a card from your side deck.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Vessel Printer",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "Once a card bearing this sigil is struck, draw a card from your side deck.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Warded": "A card bearing this sigil takes only 1 damage from attacks and card effects.",
 		"Warded_i18n": {
-			"en": "A card bearing this sigil takes only 1 damage from attacks and card effects.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Warded",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil takes only 1 damage from attacks and card effects.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Waterborne": "A card bearing this sigil submerges itself during its opponent's turn. while submerged, opposing creatures attack its owner directly.",
 		"Waterborne_i18n": {
-			"en": "A card bearing this sigil submerges itself during its opponent's turn. while submerged, opposing creatures attack its owner directly.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Waterborne",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil submerges itself during its opponent's turn. while submerged, opposing creatures attack its owner directly.",
+				"ru": "",
+				"fr": ""
+			}
 		},
     	"Worthy Sacrifice": "A card bearing this sigil is counted as 3 blood rather than 1 blood when sacrificed.",
 		"Worthy Sacrifice_i18n": {
-			"en": "A card bearing this sigil is counted as 3 blood rather than 1 blood when sacrificed.",
-			"ru": "",
-			"fr": ""
+			"name": {
+				"en": "Worthy Sacrifice",
+				"ru": "",
+				"fr": ""
+			},
+			"description": {
+				"en": "A card bearing this sigil is counted as 3 blood rather than 1 blood when sacrificed.",
+				"ru": "",
+				"fr": ""
+			}
 		}
     },
     "working_sigils": [
