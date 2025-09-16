@@ -53,8 +53,8 @@
             "name": "Adder",
 			"name_i18n": {
 				"en": "Adder",
-				"ru": "",
-				"fr": ""
+				"ru": "Сумматор",
+				"fr": "Additionneur"
 			},
             "sigils": ["Touch of Death"],
             "attack": 1,
@@ -65,8 +65,8 @@
             "name": "Amalgam",
 			"name_i18n": {
 				"en": "Amalgam",
-				"ru": "",
-				"fr": ""
+				"ru": "Амальгама",
+				"fr": "Amalgame"
 			},
             "sigils": ["Amalgamation"],
             "attack": 0,
@@ -78,8 +78,8 @@
             "name": "Bat",
 			"name_i18n": {
 				"en": "Bat",
-				"ru": "",
-				"fr": ""
+				"ru": "Летучая мышь",
+				"fr": "Batte"
 			},
             "sigils": ["Airborne"],
             "attack": 2,
@@ -90,8 +90,8 @@
             "name": "Beaver",
 			"name_i18n": {
 				"en": "Beaver",
-				"ru": "",
-				"fr": ""
+				"ru": "Бобр",
+				"fr": "Castor"
 			},
             "sigils": ["Dam Builder"],
             "attack": 1,
@@ -102,8 +102,8 @@
             "name": "Dam",
 			"name_i18n": {
 				"en": "Dam",
-				"ru": "",
-				"fr": ""
+				"ru": "Плотина",
+				"fr": "Barrage"
 			},
             "attack": 0,
             "health": 2,
@@ -115,8 +115,8 @@
             "name": "Bee",
 			"name_i18n": {
 				"en": "Bee",
-				"ru": "",
-				"fr": ""
+				"ru": "Пчела",
+				"fr": "Abeille"
 			},
             "sigils": ["Airborne"],
             "attack": 1,
@@ -127,8 +127,8 @@
             "name": "Beehive",
 			"name_i18n": {
 				"en": "Beehive",
-				"ru": "",
-				"fr": ""
+				"ru": "Улей",
+				"fr": "Ruche"
 			},
             "sigils": ["Bees Within", "Mighty Leap"],
             "attack": 0,
@@ -139,8 +139,8 @@
             "name": "Black Goat",
 			"name_i18n": {
 				"en": "Black Goat",
-				"ru": "",
-				"fr": ""
+				"ru": "Черная коза",
+				"fr": "Chèvre noire"
 			},
             "attack": 0,
             "health": 1,
@@ -157,8 +157,8 @@
             "name": "Bloodhound",
 			"name_i18n": {
 				"en": "Bloodhound",
-				"ru": "",
-				"fr": ""
+				"ru": "Ищейка",
+				"fr": "Limier"
 			},
             "sigils": ["Guardian"],
             "attack": 2,
@@ -169,8 +169,8 @@
             "name": "Bullfrog",
 			"name_i18n": {
 				"en": "Bullfrog",
-				"ru": "",
-				"fr": ""
+				"ru": "Лягушка-бык",
+				"fr": "Grenouille taureau"
 			},
             "sigils": ["Mighty Leap"],
             "attack": 1,
@@ -181,8 +181,8 @@
             "name": "Burrowing Trap",
 			"name_i18n": {
 				"en": "Burrowing Trap",
-				"ru": "",
-				"fr": ""
+				"ru": "Роющая ловушка",
+				"fr": "Piège à terriers"
 			},
             "sigils": ["Burrower", "Steel Trap"],
             "attack": 0,
@@ -195,8 +195,8 @@
             "name": "Cat",
 			"name_i18n": {
 				"en": "Cat",
-				"ru": "",
-				"fr": ""
+				"ru": "Кот",
+				"fr": "Chat"
 			},
             "sigils": ["Many Lives"],
             "attack": 0,
@@ -207,8 +207,8 @@
             "name": "Undead Cat",
 			"name_i18n": {
 				"en": "Undead Cat",
-				"ru": "",
-				"fr": ""
+				"ru": "Кот-нежить",
+				"fr": "Chat mort-vivant"
 			},
             "attack": 3,
             "health": 6,
@@ -219,8 +219,8 @@
             "name": "Cockroach",
 			"name_i18n": {
 				"en": "Cockroach",
-				"ru": "",
-				"fr": ""
+				"ru": "Таракан",
+				"fr": "Cafard"
 			},
             "attack": 1,
             "health": 1,
@@ -237,8 +237,8 @@
             "name": "Corpse Maggots",
 			"name_i18n": {
 				"en": "Corpse Maggots",
-				"ru": "",
-				"fr": ""
+				"ru": "Трупные черви",
+				"fr": "Asticots cadavériques"
 			},
             "sigils": ["Corpse Eater"],
             "attack": 1,
@@ -249,8 +249,8 @@
             "name": "The Daus",
 			"name_i18n": {
 				"en": "The Daus",
-				"ru": "",
-				"fr": ""
+				"ru": "Даус",
+				"fr": "Les Daus"
 			},
             "sigils": ["Bellist"],
             "attack": 2,
@@ -262,8 +262,8 @@
             "name": "Chime",
 			"name_i18n": {
 				"en": "Chime",
-				"ru": "",
-				"fr": ""
+				"ru": "Звонок",
+				"fr": "Carillon"
 			},
             "attack": 0,
             "health": 1,
@@ -275,8 +275,8 @@
             "name": "Dire Wolf Pup",
 			"name_i18n": {
 				"en": "Dire Wolf Pup",
-				"ru": "",
-				"fr": ""
+				"ru": "Щенок ужасного волка",
+				"fr": "Louveteau redoutable"
 			},
             "attack": 1,
             "health": 2,
@@ -288,8 +288,8 @@
             "name": "Dire Wolf",
 			"name_i18n": {
 				"en": "Dire Wolf",
-				"ru": "",
-				"fr": ""
+				"ru": "Ужасный волк",
+				"fr": "Loup redoutable"
 			},
             "attack": 2,
             "health": 5,
@@ -300,8 +300,8 @@
             "name": "Elk",
 			"name_i18n": {
 				"en": "Elk",
-				"ru": "",
-				"fr": ""
+				"ru": "Лось",
+				"fr": "Wapiti"
 			},
             "sigils": ["Sprinter"],
             "attack": 2,
@@ -312,8 +312,8 @@
             "name": "Elk Fawn",
 			"name_i18n": {
 				"en": "Elk Fawn",
-				"ru": "",
-				"fr": ""
+				"ru": "Олененок лося",
+				"fr": "Faon d'élan"
 			},
             "sigils": ["Sprinter", "Fledgling"],
             "attack": 1,
@@ -325,8 +325,8 @@
             "name": "Field Mice",
 			"name_i18n": {
 				"en": "Field Mice",
-				"ru": "",
-				"fr": ""
+				"ru": "Полевые мыши",
+				"fr": "Mulots"
 			},
             "sigils": ["Fecundity (Kaycee)"],
             "attack": 2,
@@ -337,8 +337,8 @@
             "name": "Spore Mice",
 			"name_i18n": {
 				"en": "Spore Mice",
-				"ru": "",
-				"fr": ""
+				"ru": "Споровые мыши",
+				"fr": "Souris Spore"
 			},
             "sigils": ["Fecundity (Kaycee)", "Fecundity (Kaycee)"],
             "attack": 2,
@@ -350,8 +350,8 @@
             "name": "Hawk",
 			"name_i18n": {
 				"en": "Hawk",
-				"ru": "",
-				"fr": ""
+				"ru": "Ястреб",
+				"fr": "Faucon"
 			},
             "sigils": ["Airborne"],
             "attack": 3,
@@ -362,8 +362,8 @@
             "name": "Hrokkall",
 			"name_i18n": {
 				"en": "Hrokkall",
-				"ru": "",
-				"fr": ""
+				"ru": "Хроккалл",
+				"fr": "Hrokkall"
 			},
             "sigils": ["Waterborne", "Battery Bearer"],
             "attack": 1,
@@ -375,8 +375,8 @@
             "name": "Rat King",
 			"name_i18n": {
 				"en": "Rat King",
-				"ru": "",
-				"fr": ""
+				"ru": "Крысиный король",
+				"fr": "Roi des rats"
 			},
             "sigils": ["Bone King"],
             "attack": 2,
@@ -387,8 +387,8 @@
             "name": "Raven Egg",
 			"name_i18n": {
 				"en": "Raven Egg",
-				"ru": "",
-				"fr": ""
+				"ru": "Яйцо ворона",
+				"fr": "Œuf de corbeau"
 			},
             "sigils": ["Fledgling"],
             "attack": 0,
@@ -400,8 +400,8 @@
             "name": "Kingfisher",
 			"name_i18n": {
 				"en": "Kingfisher",
-				"ru": "",
-				"fr": ""
+				"ru": "Зимородок",
+				"fr": "Martin-pêcheur"
 			},
             "sigils": ["Airborne", "Waterborne"],
             "attack": 1,
@@ -412,8 +412,8 @@
             "name": "Great Kraken",
 			"name_i18n": {
 				"en": "Great Kraken",
-				"ru": "",
-				"fr": ""
+				"ru": "Великий Кракен",
+				"fr": "Grand Kraken"
 			},
             "sigils": ["Tentacle"],
             "attack": 1,
@@ -431,8 +431,8 @@
             "name": "Long Elk",
 			"name_i18n": {
 				"en": "Long Elk",
-				"ru": "",
-				"fr": ""
+				"ru": "Длинный лось",
+				"fr": "Long Elk"
 			},
             "attack": 1,
             "health": 2,
@@ -445,8 +445,8 @@
             "name": "Vertebrae",
 			"name_i18n": {
 				"en": "Vertebrae",
-				"ru": "",
-				"fr": ""
+				"ru": "Позвонки",
+				"fr": "Vertèbres"
 			},
             "attack": 0,
             "health": 1,
@@ -456,8 +456,8 @@
             "name": "Alpha",
 			"name_i18n": {
 				"en": "Alpha",
-				"ru": "",
-				"fr": ""
+				"ru": "Альфа",
+				"fr": "Alpha"
 			},
             "attack": 1,
             "health": 2,
@@ -468,8 +468,8 @@
             "name": "Magpie",
 			"name_i18n": {
 				"en": "Magpie",
-				"ru": "",
-				"fr": ""
+				"ru": "Сорока",
+				"fr": "Pie"
 			},
             "sigils": ["Airborne", "Hoarder"],
             "attack": 1,
@@ -487,8 +487,8 @@
             "name": "Mantis",
 			"name_i18n": {
 				"en": "Mantis",
-				"ru": "",
-				"fr": ""
+				"ru": "Богомол",
+				"fr": "Mante"
 			},
             "sigils": ["Bifurcated Strike"],
             "attack": 1,
@@ -499,8 +499,8 @@
             "name": "Mantis God",
 			"name_i18n": {
 				"en": "Mantis God",
-				"ru": "",
-				"fr": ""
+				"ru": "Бог-богомол",
+				"fr": "Dieu Mante"
 			},
             "sigils": ["Trifurcated Strike"],
             "attack": 1,
@@ -512,8 +512,8 @@
             "name": "Mole",
 			"name_i18n": {
 				"en": "Mole",
-				"ru": "",
-				"fr": ""
+				"ru": "Крот",
+				"fr": "Taupe"
 			},
             "sigils": ["Burrower"],
             "attack": 0,
@@ -524,8 +524,8 @@
             "name": "Mole Man",
 			"name_i18n": {
 				"en": "Mole Man",
-				"ru": "",
-				"fr": ""
+				"ru": "Человек-крот",
+				"fr": "L'homme-taupe"
 			},
             "sigils": ["Burrower", "Mighty Leap"],
             "attack": 0,
@@ -537,8 +537,8 @@
             "name": "Moose Buck",
 			"name_i18n": {
 				"en": "Moose Buck",
-				"ru": "",
-				"fr": ""
+				"ru": "Самец лося",
+				"fr": "Orignal mâle"
 			},
             "attack": 3,
             "health": 7,
@@ -555,8 +555,8 @@
             "name": "Mud Turtle",
 			"name_i18n": {
 				"en": "Mud Turtle",
-				"ru": "",
-				"fr": ""
+				"ru": "Грязевая черепаха",
+				"fr": "Tortue de boue"
 			},
             "sigils": ["Armored"],
             "attack": 2,
@@ -567,8 +567,8 @@
             "name": "Opossum",
 			"name_i18n": {
 				"en": "Opossum",
-				"ru": "",
-				"fr": ""
+				"ru": "Опоссум",
+				"fr": "Opossum"
 			},
             "attack": 1,
             "health": 1,
@@ -578,8 +578,8 @@
             "name": "Ouroboros",
 			"name_i18n": {
 				"en": "Ouroboros",
-				"ru": "",
-				"fr": ""
+				"ru": "Уроборос",
+				"fr": "Ouroboros"
 			},
             "sigils": ["Reconstitute"],
             "attack": 1,
@@ -597,8 +597,8 @@
             "name": "Rabbit",
 			"name_i18n": {
 				"en": "Rabbit",
-				"ru": "",
-				"fr": ""
+				"ru": "Кролик",
+				"fr": "Lapin"
 			},
             "attack": 0,
             "health": 1
@@ -607,8 +607,8 @@
             "name": "Skunk",
 			"name_i18n": {
 				"en": "Skunk",
-				"ru": "",
-				"fr": ""
+				"ru": "Скунс",
+				"fr": "Mouffette"
 			},
             "attack": 0,
             "health": 3,
@@ -625,8 +625,8 @@
             "name": "Coyote",
 			"name_i18n": {
 				"en": "Coyote",
-				"ru": "",
-				"fr": ""
+				"ru": "Койот",
+				"fr": "Coyote"
 			},
             "attack": 2,
             "health": 1,
@@ -636,8 +636,8 @@
             "name": "Great White",
 			"name_i18n": {
 				"en": "Great White",
-				"ru": "",
-				"fr": ""
+				"ru": "Великий Белый",
+				"fr": "Grand Blanc"
 			},
             "attack": 4,
             "health": 2,
@@ -654,8 +654,8 @@
             "name": "Grizzly Cub",
 			"name_i18n": {
 				"en": "Grizzly Cub",
-				"ru": "",
-				"fr": ""
+				"ru": "Детеныш гризли",
+				"fr": "Bébé grizzly"
 			},
             "sigils": ["Fledgling 2"],
             "attack": 2,
@@ -673,8 +673,8 @@
             "name": "Grizzly",
 			"name_i18n": {
 				"en": "Grizzly",
-				"ru": "",
-				"fr": ""
+				"ru": "Гризли",
+				"fr": "Grizzly"
 			},
             "attack": 4,
             "health": 6,
@@ -684,8 +684,8 @@
             "name": "Porcupine",
 			"name_i18n": {
 				"en": "Porcupine",
-				"ru": "",
-				"fr": ""
+				"ru": "Дикобраз",
+				"fr": "Porc-épic"
 			},
             "attack": 1,
             "health": 2,
@@ -702,8 +702,8 @@
             "name": "Pronghorn",
 			"name_i18n": {
 				"en": "Pronghorn",
-				"ru": "",
-				"fr": ""
+				"ru": "Вилорог",
+				"fr": "Antilope d'Amérique"
 			},
             "attack": 1,
             "health": 3,
@@ -720,8 +720,8 @@
             "name": "Rattler",
 			"name_i18n": {
 				"en": "Rattler",
-				"ru": "",
-				"fr": ""
+				"ru": "Гремучая змея",
+				"fr": "Crotale"
 			},
             "attack": 3,
             "health": 1,
@@ -737,8 +737,8 @@
             "name": "Raven",
 			"name_i18n": {
 				"en": "Raven",
-				"ru": "",
-				"fr": ""
+				"ru": "Ворон",
+				"fr": "Corbeau"
 			},
             "sigils": ["Airborne"],
             "attack": 2,
@@ -749,8 +749,8 @@
             "name": "Salmon",
 			"name_i18n": {
 				"en": "Salmon",
-				"ru": "",
-				"fr": ""
+				"ru": "Лосось",
+				"fr": "Saumon"
 			},
             "sigils": ["Waterborne", "Sprinter"],
             "attack": 2,
@@ -761,8 +761,8 @@
             "name": "River Snapper",
 			"name_i18n": {
 				"en": "River Snapper",
-				"ru": "",
-				"fr": ""
+				"ru": "Речной окунь",
+				"fr": "Vivaneau de rivière"
 			},
             "attack": 1,
             "health": 6,
@@ -778,8 +778,8 @@
             "name": "Sparrow",
 			"name_i18n": {
 				"en": "Sparrow",
-				"ru": "",
-				"fr": ""
+				"ru": "Воробей",
+				"fr": "Moineau"
 			},
             "attack": 1,
             "health": 2,
@@ -796,8 +796,8 @@
             "name": "Strange Frog",
 			"name_i18n": {
 				"en": "Strange Frog",
-				"ru": "",
-				"fr": ""
+				"ru": "Странная лягушка",
+				"fr": "Étrange grenouille"
 			},
             "sigils": ["Mighty Leap", "Frozen Away"],
             "attack": 1,
@@ -816,8 +816,8 @@
             "name": "Leaping Trap",
 			"name_i18n": {
 				"en": "Leaping Trap",
-				"ru": "",
-				"fr": ""
+				"ru": "Прыгающая ловушка",
+				"fr": "Piège à saut"
 			},
             "sigils": ["Mighty Leap", "Steel Trap"],
             "attack": 0,
@@ -829,8 +829,8 @@
             "name": "Rabbit Pelt",
 			"name_i18n": {
 				"en": "Rabbit Pelt",
-				"ru": "",
-				"fr": ""
+				"ru": "Шкура кролика",
+				"fr": "Peau de lapin"
 			},
             "attack": 0,
             "health": 1,
@@ -840,8 +840,8 @@
             "name": "Wolf Pelt",
 			"name_i18n": {
 				"en": "Wolf Pelt",
-				"ru": "",
-				"fr": ""
+				"ru": "Волчья шкура",
+				"fr": "Peau de loup"
 			},
             "attack": 0,
             "health": 2,
@@ -851,8 +851,8 @@
             "name": "Golden Pelt",
 			"name_i18n": {
 				"en": "Golden Pelt",
-				"ru": "",
-				"fr": ""
+				"ru": "Золотая шкура",
+				"fr": "Peau d'or"
 			},
             "attack": 0,
             "health": 3,
@@ -863,8 +863,8 @@
             "name": "Pelt Lice",
 			"name_i18n": {
 				"en": "Pelt Lice",
-				"ru": "",
-				"fr": ""
+				"ru": "Шкурные вши",
+				"fr": "Poux de fourrure"
 			},
             "attack": 1,
             "health": 1,
@@ -876,8 +876,8 @@
             "name": "Strange Larva",
 			"name_i18n": {
 				"en": "Strange Larva",
-				"ru": "",
-				"fr": ""
+				"ru": "Странная личинка",
+				"fr": "Larve étrange"
 			},
             "sigils": ["Fledgling"],
             "attack": 0,
@@ -896,8 +896,8 @@
             "name": "Strange Pupa",
 			"name_i18n": {
 				"en": "Strange Pupa",
-				"ru": "",
-				"fr": ""
+				"ru": "Странная куколка",
+				"fr": "Chrysalide étrange"
 			},
             "sigils": ["Fledgling"],
             "attack": 0,
@@ -911,8 +911,8 @@
             "name": "Mothman",
 			"name_i18n": {
 				"en": "Mothman",
-				"ru": "",
-				"fr": ""
+				"ru": "Человек-мотылек",
+				"fr": "Homme-papillon"
 			},
             "sigils": ["Airborne"],
             "attack": 7,
@@ -925,8 +925,8 @@
             "name": "Turkey Vulture",
 			"name_i18n": {
 				"en": "Turkey Vulture",
-				"ru": "",
-				"fr": ""
+				"ru": "Стервятник-индейка",
+				"fr": "Urubu à tête rouge"
 			},
             "attack": 3,
             "health": 3,
@@ -943,8 +943,8 @@
             "name": "Bell Tentacle",
 			"name_i18n": {
 				"en": "Bell Tentacle",
-				"ru": "",
-				"fr": ""
+				"ru": "Колокольчик Щупальца",
+				"fr": "Tentacule de cloche"
 			},
             "sigils": ["Tentacle"],
             "attack": 0,
@@ -957,8 +957,8 @@
             "name": "Hand Tentacle",
 			"name_i18n": {
 				"en": "Hand Tentacle",
-				"ru": "",
-				"fr": ""
+				"ru": "Ручное щупальце",
+				"fr": "Tentacule de la main"
 			},
             "sigils": ["Tentacle"],
             "attack": 0,
@@ -971,8 +971,8 @@
             "name": "Mirror Tentacle",
 			"name_i18n": {
 				"en": "Mirror Tentacle",
-				"ru": "",
-				"fr": ""
+				"ru": "Зеркальное щупальце",
+				"fr": "Tentacule miroir"
 			},
             "sigils": ["Tentacle"],
             "attack": 0,
@@ -985,8 +985,8 @@
             "name": "Raccoon",
 			"name_i18n": {
 				"en": "Raccoon",
-				"ru": "",
-				"fr": ""
+				"ru": "Енот",
+				"fr": "Raton laveur"
 			},
             "attack": 1,
             "health": 1,
@@ -997,8 +997,8 @@
             "name": "Squirrel",
 			"name_i18n": {
 				"en": "Squirrel",
-				"ru": "",
-				"fr": ""
+				"ru": "Белка",
+				"fr": "Écureuil"
 			},
             "attack": 0,
             "health": 1,
@@ -1008,8 +1008,8 @@
             "name": "Squirrel Ball",
 			"name_i18n": {
 				"en": "Squirrel Ball",
-				"ru": "",
-				"fr": ""
+				"ru": "Беличий шар",
+				"fr": "Boule d'écureuil"
 			},
             "sigils": ["Squirrel Shedder"],
             "attack": 0,
@@ -1020,8 +1020,8 @@
             "name": "Stoat",
 			"name_i18n": {
 				"en": "Stoat",
-				"ru": "",
-				"fr": ""
+				"ru": "Горностай",
+				"fr": "Hermine"
 			},
             "attack": 1,
             "health": 3,
@@ -1037,8 +1037,8 @@
             "name": "Urayuli",
 			"name_i18n": {
 				"en": "Urayuli",
-				"ru": "",
-				"fr": ""
+				"ru": "Ураюли",
+				"fr": "Urayuli"
 			},
             "attack": 7,
             "health": 7,
@@ -1049,8 +1049,8 @@
             "name": "Warren",
 			"name_i18n": {
 				"en": "Warren",
-				"ru": "",
-				"fr": ""
+				"ru": "Кроличий садок",
+				"fr": "Garenne"
 			},
             "sigils": ["Rabbit Hole"],
             "attack": 0,
@@ -1061,8 +1061,8 @@
             "name": "Wolf",
 			"name_i18n": {
 				"en": "Wolf",
-				"ru": "",
-				"fr": ""
+				"ru": "Волк",
+				"fr": "Loup"
 			},
             "attack": 3,
             "health": 2,
@@ -1072,8 +1072,8 @@
             "name": "Wolf Cub",
 			"name_i18n": {
 				"en": "Wolf Cub",
-				"ru": "",
-				"fr": ""
+				"ru": "Волчонок",
+				"fr": "Petit loup"
 			},
             "sigils": ["Fledgling"],
             "attack": 1,
@@ -1085,8 +1085,8 @@
             "name": "Fox",
 			"name_i18n": {
 				"en": "Fox",
-				"ru": "",
-				"fr": ""
+				"ru": "Лиса",
+				"fr": "Renard"
 			},
             "sigils": ["Sprinter", "Side Hustle"],
             "attack": 1,
@@ -1103,8 +1103,8 @@
             "name": "Worker Ant",
 			"name_i18n": {
 				"en": "Worker Ant",
-				"ru": "",
-				"fr": ""
+				"ru": "Рабочий муравей",
+				"fr": "Fourmi ouvrière"
 			},
             "attack": -1,
             "health": 2,
@@ -1115,8 +1115,8 @@
             "name": "Ant Queen",
 			"name_i18n": {
 				"en": "Ant Queen",
-				"ru": "",
-				"fr": ""
+				"ru": "Королева муравьев",
+				"fr": "Reine des fourmis"
 			},
             "attack": -1,
             "health": 3,
@@ -1128,8 +1128,8 @@
             "name": "Flying Ant",
 			"name_i18n": {
 				"en": "Flying Ant",
-				"ru": "",
-				"fr": ""
+				"ru": "Летающий Муравей",
+				"fr": "Fourmi volante"
 			},
             "attack": -1,
             "health": 1,
@@ -1141,8 +1141,8 @@
             "name": "Bullet Ant",
 			"name_i18n": {
 				"en": "Bullet Ant",
-				"ru": "",
-				"fr": ""
+				"ru": "Муравей-пуля",
+				"fr": "Fourmi balle"
 			},
             "attack": -1,
             "health": 3,
@@ -1160,8 +1160,8 @@
             "name": "Mole Seaman",
 			"name_i18n": {
 				"en": "Mole Seaman",
-				"ru": "",
-				"fr": ""
+				"ru": "Моряк-крот",
+				"fr": "Matelot taupe"
 			},
             "attack": 1,
             "health": 8,
@@ -1173,8 +1173,8 @@
             "name": "Curve Hopper",
 			"name_i18n": {
 				"en": "Curve Hopper",
-				"ru": "",
-				"fr": ""
+				"ru": "Изогнутый бункер",
+				"fr": "Trémie courbe"
 			},
             "attack": 2,
             "health": 3,
@@ -1185,8 +1185,8 @@
             "name": "Automaton",
 			"name_i18n": {
 				"en": "Automaton",
-				"ru": "",
-				"fr": ""
+				"ru": "Автоматон",
+				"fr": "Automate"
 			},
             "attack": 1,
             "health": 1,
@@ -1202,8 +1202,8 @@
             "name": "Alarmbot",
 			"name_i18n": {
 				"en": "Alarmbot",
-				"ru": "",
-				"fr": ""
+				"ru": "Сигнализатор",
+				"fr": "Alarmbot"
 			},
             "sigils": ["Annoying"],
             "attack": 2,
@@ -1214,8 +1214,8 @@
             "name": "Energy Bot",
 			"name_i18n": {
 				"en": "Energy Bot",
-				"ru": "",
-				"fr": ""
+				"ru": "Энергетический бот",
+				"fr": "Robot énergétique"
 			},
             "sigils": ["Battery Bearer"],
             "attack": 0,
@@ -1226,8 +1226,8 @@
             "name": "Bolthound",
 			"name_i18n": {
 				"en": "Bolthound",
-				"ru": "",
-				"fr": ""
+				"ru": "Бегущий пес",
+				"fr": "Bolthound"
 			},
             "sigils": ["Guardian"],
             "attack": 2,
@@ -1244,8 +1244,8 @@
             "name": "Buff Conduit",
 			"name_i18n": {
 				"en": "Buff Conduit",
-				"ru": "",
-				"fr": ""
+				"ru": "Буферный канал",
+				"fr": "Conduit chamois"
 			},
             "sigils": ["Attack Conduit"],
             "attack": 0,
@@ -1257,8 +1257,8 @@
             "name": "Busted 3D Printer",
 			"name_i18n": {
 				"en": "Busted 3D Printer",
-				"ru": "",
-				"fr": ""
+				"ru": "Сломанный 3D-принтер",
+				"fr": "Imprimante 3D cassée"
 			},
             "attack": 0,
             "health": 3,
@@ -1269,8 +1269,8 @@
             "name": "Double Gunner",
 			"name_i18n": {
 				"en": "Double Gunner",
-				"ru": "",
-				"fr": ""
+				"ru": "Двойной стрелок",
+				"fr": "Double mitrailleur"
 			},
             "sigils": ["Bifurcated Strike"],
             "attack": 2,
@@ -1281,8 +1281,8 @@
             "name": "Energy Conduit",
 			"name_i18n": {
 				"en": "Energy Conduit",
-				"ru": "",
-				"fr": ""
+				"ru": "Энергетический канал",
+				"fr": "Conduit d'énergie"
 			},
             "sigils": ["Energy Conduit (+3)"],
             "attack": 1,
@@ -1301,8 +1301,8 @@
             "name": "Explode Bot",
 			"name_i18n": {
 				"en": "Explode Bot",
-				"ru": "",
-				"fr": ""
+				"ru": "Взрывной бот",
+				"fr": "Exploser le robot"
 			},
             "sigils": ["Detonator (5)"],
             "attack": 1,
@@ -1314,8 +1314,8 @@
             "name": "Factory Conduit",
 			"name_i18n": {
 				"en": "Factory Conduit",
-				"ru": "",
-				"fr": ""
+				"ru": "Заводской канал",
+				"fr": "Conduit d'usine"
 			},
             "sigils": ["Spawn Conduit"],
             "attack": 0,
@@ -1327,8 +1327,8 @@
             "name": "Gamblobot",
 			"name_i18n": {
 				"en": "Gamblobot",
-				"ru": "",
-				"fr": ""
+				"ru": "Гамблобот",
+				"fr": "Gamblobot"
 			},
             "sigils": ["Power Dice (2)"],
             "attack": 0,
@@ -1346,8 +1346,8 @@
             "name": "GR1ZZ",
 			"name_i18n": {
 				"en": "GR1ZZ",
-				"ru": "",
-				"fr": ""
+				"ru": "ГР133",
+				"fr": "GR1ZZ"
 			},
             "sigils": ["Transformer"],
             "attack": 0,
@@ -1359,8 +1359,8 @@
             "name": "GR1ZZ (beast)",
 			"name_i18n": {
 				"en": "GR1ZZ (beast)",
-				"ru": "",
-				"fr": ""
+				"ru": "ГР133 (зверь)",
+				"fr": "GR1ZZ (bête)"
 			},
             "sigils": ["Transformer"],
             "attack": 4,
@@ -1373,8 +1373,8 @@
             "name": "Insectodrone",
 			"name_i18n": {
 				"en": "Insectodrone",
-				"ru": "",
-				"fr": ""
+				"ru": "Насекомодрон",
+				"fr": "Insectodrone"
 			},
             "sigils": ["Airborne"],
             "attack": 1,
@@ -1385,8 +1385,8 @@
             "name": "Junkbot",
 			"name_i18n": {
 				"en": "Junkbot",
-				"ru": "",
-				"fr": ""
+				"ru": "Мусорбот",
+				"fr": "Junkbot"
 			},
             "sigils": ["Depleting", "Brittle"],
             "attack": 2,
@@ -1403,8 +1403,8 @@
             "name": "L33pB0t",
 			"name_i18n": {
 				"en": "L33pB0t",
-				"ru": "",
-				"fr": ""
+				"ru": "ЛипкийБ0т",
+				"fr": "L33pB0t"
 			},
             "sigils": ["Mighty Leap"],
             "attack": 1,
@@ -1415,8 +1415,8 @@
             "name": "M3atB0t",
 			"name_i18n": {
 				"en": "M3atB0t",
-				"ru": "",
-				"fr": ""
+				"ru": "МRснойБ0т",
+				"fr": "M3atB0t"
 			},
             "sigils": ["Noble Sacrifice"],
             "attack": 0,
@@ -1427,8 +1427,8 @@
             "name": "49er",
 			"name_i18n": {
 				"en": "49er",
-				"ru": "",
-				"fr": ""
+				"ru": "49ер",
+				"fr": "49er"
 			},
             "sigils": ["Sprinter"],
             "attack": 1,
@@ -1439,8 +1439,8 @@
             "name": "No Moon",
 			"name_i18n": {
 				"en": "No Moon",
-				"ru": "",
-				"fr": ""
+				"ru": "Луны нет",
+				"fr": "Pas de lune"
 			},
             "sigils": ["Depleting", "Omni Strike"],
             "attack": 1,
@@ -1458,8 +1458,8 @@
             "name": "Null Conduit",
 			"name_i18n": {
 				"en": "Null Conduit",
-				"ru": "",
-				"fr": ""
+				"ru": "Нулевой канал",
+				"fr": "Conduit nul"
 			},
             "attack": 0,
             "health": 1,
@@ -1470,8 +1470,8 @@
             "name": "Plasma Jimmy",
 			"name_i18n": {
 				"en": "Plasma Jimmy",
-				"ru": "",
-				"fr": ""
+				"ru": "Плазма Джимми",
+				"fr": "Plasma Jimmy"
 			},
             "sigils": ["Energy Gun"],
             "attack": 0,
@@ -1484,8 +1484,8 @@
             "name": "Rustbucket",
 			"name_i18n": {
 				"en": "Rustbucket",
-				"ru": "",
-				"fr": ""
+				"ru": "Ржавое ведро",
+				"fr": "Tas de rouille"
 			},
             "sigils": ["Depleting"],
             "attack": 2,
@@ -1502,8 +1502,8 @@
             "name": "Scrap Golem",
 			"name_i18n": {
 				"en": "Scrap Golem",
-				"ru": "",
-				"fr": ""
+				"ru": "Голем из металлолома",
+				"fr": "Golem de ferraille"
 			},
             "sigils": ["Depleting", "Sharp Quills"],
             "attack": 1,
@@ -1520,8 +1520,8 @@
             "name": "Steel Mice",
 			"name_i18n": {
 				"en": "Steel Mice",
-				"ru": "",
-				"fr": ""
+				"ru": "Стальные мыши",
+				"fr": "Souris d'acier"
 			},
             "sigils": ["Fecundity (Kaycee)"],
             "attack": 1,
@@ -1538,8 +1538,8 @@
             "name": "Sentry Drone",
 			"name_i18n": {
 				"en": "Sentry Drone",
-				"ru": "",
-				"fr": ""
+				"ru": "Сторожевой дрон",
+				"fr": "Drone sentinelle"
 			},
             "sigils": ["Sentry"],
             "attack": 0,
@@ -1556,8 +1556,8 @@
             "name": "Sentry Spore",
 			"name_i18n": {
 				"en": "Sentry Spore",
-				"ru": "",
-				"fr": ""
+				"ru": "Сторожевая спора",
+				"fr": "Spore sentinelle"
 			},
             "sigils": ["Sentry", "Sentry"],
             "attack": 0,
@@ -1569,8 +1569,8 @@
             "name": "QU177",
 			"name_i18n": {
 				"en": "QU177",
-				"ru": "",
-				"fr": ""
+				"ru": "УЙ7N",
+				"fr": "QU177er"
 			},
             "sigils": ["Transformer"],
             "attack": 2,
@@ -1582,8 +1582,8 @@
             "name": "QU177 (beast)",
 			"name_i18n": {
 				"en": "QU177 (beast)",
-				"ru": "",
-				"fr": ""
+				"ru": "УЙ7N (зверь)",
+				"fr": "QU177er (bête)"
 			},
             "sigils": ["Transformer", "Sharp Quills"],
             "attack": 1,
@@ -1596,8 +1596,8 @@
             "name": "SON1A",
 			"name_i18n": {
 				"en": "SON1A",
-				"ru": "",
-				"fr": ""
+				"ru": "С0нЯ",
+				"fr": "SON1A"
 			},
             "sigils": ["Transformer"],
             "attack": 1,
@@ -1609,8 +1609,8 @@
             "name": "SON1A (beast)",
 			"name_i18n": {
 				"en": "SON1A (beast)",
-				"ru": "",
-				"fr": ""
+				"ru": "С0нЯ (зверь)",
+				"fr": "SON1A (bête)"
 			},
             "sigils": ["Transformer", "Airborne"],
             "attack": 2,
@@ -1623,8 +1623,8 @@
             "name": "Mrs. Bomb",
 			"name_i18n": {
 				"en": "Mrs. Bomb",
-				"ru": "",
-				"fr": ""
+				"ru": "Мисс Бомба",
+				"fr": "Mme Bombe"
 			},
             "sigils": ["Bomb Spewer"],
             "attack": 1,
@@ -1636,8 +1636,8 @@
             "name": "Shutterbug",
 			"name_i18n": {
 				"en": "Shutterbug",
-				"ru": "",
-				"fr": ""
+				"ru": "Задвижка",
+				"fr": "Bug de l'obturateur"
 			},
             "sigils": ["Touch of Death", "Sentry"],
             "attack": 1,
@@ -1655,8 +1655,8 @@
             "name": "Sniper Bot",
 			"name_i18n": {
 				"en": "Sniper Bot",
-				"ru": "",
-				"fr": ""
+				"ru": "Бот-снайпер",
+				"fr": "Bot Sniper"
 			},
             "sigils": ["Sniper"],
             "attack": 1,
@@ -1667,8 +1667,8 @@
             "name": "Skel-E-Latcher",
 			"name_i18n": {
 				"en": "Skel-E-Latcher",
-				"ru": "",
-				"fr": ""
+				"ru": "Фиксатор Cкел-Эта",
+				"fr": "Loquet Squelett-E"
 			},
             "sigils": ["Brittle Latch"],
             "attack": 1,
@@ -1680,8 +1680,8 @@
             "name": "Shield Latcher",
 			"name_i18n": {
 				"en": "Shield Latcher",
-				"ru": "",
-				"fr": ""
+				"ru": "Фиксатор щита",
+				"fr": "Verrou de bouclier"
 			},
             "sigils": ["Shield Latch"],
             "attack": 0,
@@ -1693,8 +1693,8 @@
             "name": "Bomb Latcher",
 			"name_i18n": {
 				"en": "Bomb Latcher",
-				"ru": "",
-				"fr": ""
+				"ru": "Фиксатор бомбы",
+				"fr": "Loquet à bombe"
 			},
             "sigils": ["Bomb Latch"],
             "attack": 0,
@@ -1706,8 +1706,8 @@
             "name": "Steambot",
 			"name_i18n": {
 				"en": "Steambot",
-				"ru": "",
-				"fr": ""
+				"ru": "Паровой робот",
+				"fr": "Vapeur"
 			},
             "attack": 3,
             "health": 2,
@@ -1723,8 +1723,8 @@
             "name": "Mox Module",
 			"name_i18n": {
 				"en": "Mox Module",
-				"ru": "",
-				"fr": ""
+				"ru": "Модуль Мокс",
+				"fr": "Module Mox"
 			},
             "sigils": ["Great Mox"],
             "attack": 0,
@@ -1736,8 +1736,8 @@
             "name": "Mirror Bot",
 			"name_i18n": {
 				"en": "Mirror Bot",
-				"ru": "",
-				"fr": ""
+				"ru": "Зеркальный бот",
+				"fr": "Bot miroir"
 			},
             "energy_cost": 1,
             "atkspecial": "mirror",
@@ -1748,8 +1748,8 @@
             "name": "Thick Droid",
 			"name_i18n": {
 				"en": "Thick Droid",
-				"ru": "",
-				"fr": ""
+				"ru": "Толстый дроид",
+				"fr": "Droïde épais"
 			},
             "attack": 1,
             "health": 3,
@@ -1768,8 +1768,8 @@
             "name": "Thick",
 			"name_i18n": {
 				"en": "Thick",
-				"ru": "",
-				"fr": ""
+				"ru": "Толстый",
+				"fr": "Épais"
 			},
             "attack": 1,
             "health": 3,
@@ -1779,8 +1779,8 @@
             "name": "Droid",
 			"name_i18n": {
 				"en": "Droid",
-				"ru": "",
-				"fr": ""
+				"ru": "Дроид",
+				"fr": "Droïde"
 			},
             "attack": 1,
             "health": 3,
@@ -1790,8 +1790,8 @@
             "name": "Jukebot",
 			"name_i18n": {
 				"en": "Jukebot",
-				"ru": "",
-				"fr": ""
+				"ru": "Музыкабот",
+				"fr": "Jukebot"
 			},
             "attack": 0,
             "health": 3,
@@ -1809,8 +1809,8 @@
             "name": "Draugr",
 			"name_i18n": {
 				"en": "Draugr",
-				"ru": "",
-				"fr": ""
+				"ru": "Драугр",
+				"fr": "Draugr"
 			},
             "sigils": ["Frozen Away"],
             "attack": 0,
@@ -1823,8 +1823,8 @@
             "name": "Banshee",
 			"name_i18n": {
 				"en": "Banshee",
-				"ru": "",
-				"fr": ""
+				"ru": "Банши",
+				"fr": "Banshee"
 			},
             "sigils": ["Airborne"],
             "attack": 1,
@@ -1835,8 +1835,8 @@
             "name": "Bonehound",
 			"name_i18n": {
 				"en": "Bonehound",
-				"ru": "",
-				"fr": ""
+				"ru": "Гончая",
+				"fr": "Chien d'os"
 			},
             "sigils": ["Guardian"],
             "attack": 2,
@@ -1847,8 +1847,8 @@
             "name": "Bone Lord's Horn",
 			"name_i18n": {
 				"en": "Bone Lord's Horn",
-				"ru": "",
-				"fr": ""
+				"ru": "Рог Костяного Лорда",
+				"fr": "Corne du Seigneur des Os"
 			},
             "sigils": ["Bonehorn (1)"],
             "attack": 1,
@@ -1880,8 +1880,8 @@
             "name": "Broken Obol 1",
 			"name_i18n": {
 				"en": "Broken Obol 1",
-				"ru": "",
-				"fr": ""
+				"ru": "Сломанный Оболь 1",
+				"fr": "Obol brisé 1"
 			},
             "sigils": ["Sharp Quills"],
             "attack": 0,
@@ -1892,8 +1892,8 @@
             "name": "Broken Obol 2",
 			"name_i18n": {
 				"en": "Broken Obol 2",
-				"ru": "",
-				"fr": ""
+				"ru": "Сломанный Оболь 2",
+				"fr": "Obol brisé 2"
 			},
             "sigils": ["Bone King"],
             "attack": 0,
@@ -1904,8 +1904,8 @@
             "name": "Dead Hand",
 			"name_i18n": {
 				"en": "Dead Hand",
-				"ru": "",
-				"fr": ""
+				"ru": "Мертвая рука",
+				"fr": "Main morte"
 			},
             "sigils": ["Handy"],
             "attack": 1,
@@ -1923,8 +1923,8 @@
             "name": "Pharaoh's Pets",
 			"name_i18n": {
 				"en": "Pharaoh's Pets",
-				"ru": "",
-				"fr": ""
+				"ru": "Питомцы фараона",
+				"fr": "Animaux de pharaon"
 			},
             "sigils": ["Worthy Sacrifice", "Many Lives"],
             "attack": 0,
@@ -1943,8 +1943,8 @@
             "name": "Drowned Soul",
 			"name_i18n": {
 				"en": "Drowned Soul",
-				"ru": "",
-				"fr": ""
+				"ru": "Утопленная душа",
+				"fr": "Âme noyée"
 			},
             "sigils": ["Waterborne", "Touch of Death"],
             "attack": 1,
@@ -1956,8 +1956,8 @@
             "name": "The Walkers",
 			"name_i18n": {
 				"en": "The Walkers",
-				"ru": "",
-				"fr": ""
+				"ru": "Ходоки",
+				"fr": "Les marcheurs"
 			},
             "sigils": ["Bone King"],
             "attack": 1,
@@ -1968,8 +1968,8 @@
             "name": "Frank & Stein",
 			"name_i18n": {
 				"en": "Frank & Stein",
-				"ru": "",
-				"fr": ""
+				"ru": "Фрэнк и Штейн",
+				"fr": "Frank et Stein"
 			},
             "attack": 2,
             "health": 2,
@@ -1980,8 +1980,8 @@
             "name": "Ghost Ship",
 			"name_i18n": {
 				"en": "Ghost Ship",
-				"ru": "",
-				"fr": ""
+				"ru": "Корабль-призрак",
+				"fr": "Navire fantôme"
 			},
             "sigils": ["Waterborne", "Skeleton Crew (Yarr)"],
             "attack": 0,
@@ -1992,8 +1992,8 @@
             "name": "Gravedigger",
 			"name_i18n": {
 				"en": "Gravedigger",
-				"ru": "",
-				"fr": ""
+				"ru": "Могильщик",
+				"fr": "Fossoyeur"
 			},
             "sigils": ["Bone Digger"],
             "attack": 0,
@@ -2004,8 +2004,8 @@
             "name": "Sporedigger",
 			"name_i18n": {
 				"en": "Sporedigger",
-				"ru": "",
-				"fr": ""
+				"ru": "Спорокопал",
+				"fr": "Chercheur de spores"
 			},
             "sigils": ["Bone Digger", "Bone Digger"],
             "attack": 0,
@@ -2017,8 +2017,8 @@
             "name": "Headless Horseman",
 			"name_i18n": {
 				"en": "Headless Horseman",
-				"ru": "",
-				"fr": ""
+				"ru": "Всадник без головы",
+				"fr": "Cavalier sans tête"
 			},
             "sigils": ["Airborne", "Sprinter"],
             "attack": 5,
@@ -2030,8 +2030,8 @@
             "name": "Mummy Lord",
 			"name_i18n": {
 				"en": "Mummy Lord",
-				"ru": "",
-				"fr": ""
+				"ru": "Мумия Лорд",
+				"fr": "Seigneur Maman"
 			},
             "attack": 3,
             "health": 3,
@@ -2041,8 +2041,8 @@
             "name": "Necromancer",
 			"name_i18n": {
 				"en": "Necromancer",
-				"ru": "",
-				"fr": ""
+				"ru": "Некромант",
+				"fr": "Nécromancien"
 			},
             "sigils": ["Double Death"],
             "attack": 1,
@@ -2060,8 +2060,8 @@
             "name": "Revenant",
 			"name_i18n": {
 				"en": "Revenant",
-				"ru": "",
-				"fr": ""
+				"ru": "Привидение",
+				"fr": "Revenant"
 			},
             "sigils": ["Brittle"],
             "attack": 3,
@@ -2072,8 +2072,8 @@
             "name": "Sarcophagus",
 			"name_i18n": {
 				"en": "Sarcophagus",
-				"ru": "",
-				"fr": ""
+				"ru": "Саркофаг",
+				"fr": "Sarcophage"
 			},
             "sigils": ["Fledgling"],
             "attack": 0,
@@ -2085,8 +2085,8 @@
             "name": "Skeleton",
 			"name_i18n": {
 				"en": "Skeleton",
-				"ru": "",
-				"fr": ""
+				"ru": "Скелет",
+				"fr": "Squelette"
 			},
             "sigils": ["Brittle"],
             "attack": 1,
@@ -2097,8 +2097,8 @@
             "name": "Skelemagus",
 			"name_i18n": {
 				"en": "Skelemagus",
-				"ru": "",
-				"fr": ""
+				"ru": "Скелемаг",
+				"fr": "Mage squelette"
 			},
             "sigils": ["Brittle", "Gem Dependant"],
             "attack": 4,
@@ -2134,8 +2134,8 @@
             "name": "Zombie",
 			"name_i18n": {
 				"en": "Zombie",
-				"ru": "",
-				"fr": ""
+				"ru": "Зомби",
+				"fr": "Zombi"
 			},
             "attack": 1,
             "health": 1,
@@ -2152,8 +2152,8 @@
             "name": "Floating Eye",
 			"name_i18n": {
 				"en": "Floating Eye",
-				"ru": "",
-				"fr": ""
+				"ru": "Плавающий глаз",
+				"fr": "Œil flottant"
 			},
             "attack": 1,
             "health": 3,
@@ -2170,8 +2170,8 @@
             "name": "Gargoyle",
 			"name_i18n": {
 				"en": "Gargoyle",
-				"ru": "",
-				"fr": ""
+				"ru": "Горгулья",
+				"fr": "Gargouille"
 			},
             "attack": 1,
             "health": 3,
@@ -2189,8 +2189,8 @@
             "name": "Skeleton Crew",
 			"name_i18n": {
 				"en": "Skeleton Crew",
-				"ru": "",
-				"fr": ""
+				"ru": "Команда скелетов",
+				"fr": "Équipage squelette"
 			},
             "attack": 2,
             "health": 1,
@@ -2201,8 +2201,8 @@
             "name": "Zombie Parrot",
 			"name_i18n": {
 				"en": "Zombie Parrot",
-				"ru": "",
-				"fr": ""
+				"ru": "Зомбипопугай",
+				"fr": "Perroquet zombie"
 			},
             "attack": 2,
             "health": 3,
@@ -2213,8 +2213,8 @@
             "name": "Voodoo Doll",
 			"name_i18n": {
 				"en": "Voodoo Doll",
-				"ru": "",
-				"fr": ""
+				"ru": "Кукла Вуду",
+				"fr": "Poupée vaudou"
 			},
             "attack": 0,
             "health": 1,
@@ -2232,8 +2232,8 @@
             "name": "Gourmage",
 			"name_i18n": {
 				"en": "Gourmage",
-				"ru": "",
-				"fr": ""
+				"ru": "Гурмаг",
+				"fr": "Gourmage"
 			},
             "sigils": ["Enlarge"],
             "attack": 0,
@@ -2245,8 +2245,8 @@
             "name": "Blue Mage",
 			"name_i18n": {
 				"en": "Blue Mage",
-				"ru": "",
-				"fr": ""
+				"ru": "Синий Маг",
+				"fr": "Mage bleu"
 			},
             "sigils": ["Mental Gemnastics"],
             "attack": 0,
@@ -2258,8 +2258,8 @@
             "name": "Blue Sporemage",
 			"name_i18n": {
 				"en": "Blue Sporemage",
-				"ru": "",
-				"fr": ""
+				"ru": "Синий споромаг",
+				"fr": "Sporemage bleu"
 			},
             "sigils": ["Mental Gemnastics", "Mental Gemnastics"],
             "attack": 0,
@@ -2271,8 +2271,8 @@
             "name": "Hover Mage",
 			"name_i18n": {
 				"en": "Hover Mage",
-				"ru": "",
-				"fr": ""
+				"ru": "Парящий Маг",
+				"fr": "Mage flottant"
 			},
             "sigils": ["Airborne"],
             "attack": 1,
@@ -2283,8 +2283,8 @@
             "name": "Force Mage",
 			"name_i18n": {
 				"en": "Force Mage",
-				"ru": "",
-				"fr": ""
+				"ru": "Маг Силы",
+				"fr": "Mage de la Force"
 			},
             "sigils": ["Repulsive"],
             "attack": 0,
@@ -2301,8 +2301,8 @@
             "name": "Gem Detonator",
 			"name_i18n": {
 				"en": "Gem Detonator",
-				"ru": "",
-				"fr": ""
+				"ru": "Драгоценный детонатор",
+				"fr": "Détonateur de gemmes"
 			},
             "sigils": ["Gem Detonator (5)"],
             "attack": 1,
@@ -2313,8 +2313,8 @@
             "name": "Gem Fiend",
 			"name_i18n": {
 				"en": "Gem Fiend",
-				"ru": "",
-				"fr": ""
+				"ru": "Драгоценный демон",
+				"fr": "Démon des gemmes"
 			},
             "sigils": ["Gem Dependant"],
             "attack": 2,
@@ -2325,8 +2325,8 @@
             "name": "Gem Guardian",
 			"name_i18n": {
 				"en": "Gem Guardian",
-				"ru": "",
-				"fr": ""
+				"ru": "Драгоценный хранитель",
+				"fr": "Gardien des gemmes."
 			},
             "sigils": ["Gem Guardian"],
             "attack": 1,
@@ -2337,8 +2337,8 @@
             "name": "Green Mage",
 			"name_i18n": {
 				"en": "Green Mage",
-				"ru": "",
-				"fr": ""
+				"ru": "Зеленый Маг",
+				"fr": "Mage vert"
 			},
             "attack": 0,
             "health": 2,
@@ -2355,8 +2355,8 @@
             "name": "Junior Sage",
 			"name_i18n": {
 				"en": "Junior Sage",
-				"ru": "",
-				"fr": ""
+				"ru": "Младший Мудрец",
+				"fr": "Junior Sage"
 			},
             "attack": 1,
             "health": 2,
@@ -2366,8 +2366,8 @@
             "name": "Mage Knight",
 			"name_i18n": {
 				"en": "Mage Knight",
-				"ru": "",
-				"fr": ""
+				"ru": "Рыцарь-маг",
+				"fr": "Chevalier mage"
 			},
             "sigils": ["Gem Dependant"],
             "attack": 1,
@@ -2378,8 +2378,8 @@
             "name": "Master Bleene",
 			"name_i18n": {
 				"en": "Master Bleene",
-				"ru": "",
-				"fr": ""
+				"ru": "Мастер Блин",
+				"fr": "Maître Bleene"
 			},
             "sigils": ["True Scholar"],
             "attack": 0,
@@ -2392,8 +2392,8 @@
             "name": "Master Goranj",
 			"name_i18n": {
 				"en": "Master Goranj",
-				"ru": "",
-				"fr": ""
+				"ru": "Мастер Горань",
+				"fr": "Maître Goranj"
 			},
             "sigils": ["Gem Dependant", "Bifurcated Strike"],
             "attack": 2,
@@ -2411,8 +2411,8 @@
             "name": "Master Orlu",
 			"name_i18n": {
 				"en": "Master Orlu",
-				"ru": "",
-				"fr": ""
+				"ru": "Мастер Орлу",
+				"fr": "Maître Orlu"
 			},
             "sigils": ["Airborne", "Looter"],
             "attack": 1,
@@ -2430,8 +2430,8 @@
             "name": "Bleene's Mox",
 			"name_i18n": {
 				"en": "Bleene's Mox",
-				"ru": "",
-				"fr": ""
+				"ru": "Мокс Блина",
+				"fr": "Mox de Bleene"
 			},
             "sigils": ["Blue Mox", "Green Mox"],
             "attack": 0,
@@ -2443,8 +2443,8 @@
             "name": "Goranj's Mox",
 			"name_i18n": {
 				"en": "Goranj's Mox",
-				"ru": "",
-				"fr": ""
+				"ru": "Мокс Горанжа",
+				"fr": "Mox de Goranj"
 			},
             "sigils": ["Green Mox", "Orange Mox"],
             "attack": 0,
@@ -2456,8 +2456,8 @@
             "name": "Orlu's Mox",
 			"name_i18n": {
 				"en": "Orlu's Mox",
-				"ru": "",
-				"fr": ""
+				"ru": "Мокс Орлу",
+				"fr": "Mox d'Orlu"
 			},
             "sigils": ["Orange Mox", "Blue Mox"],
             "attack": 0,
@@ -2469,8 +2469,8 @@
             "name": "Emerald Mox",
 			"name_i18n": {
 				"en": "Emerald Mox",
-				"ru": "",
-				"fr": ""
+				"ru": "Изумрудный Мокс",
+				"fr": "Émeraude Mox"
 			},
             "sigils": ["Green Mox"],
             "attack": 0,
@@ -2482,8 +2482,8 @@
             "name": "Ruby Mox",
 			"name_i18n": {
 				"en": "Ruby Mox",
-				"ru": "",
-				"fr": ""
+				"ru": "Рубиновый Мокс",
+				"fr": "Ruby Mox"
 			},
             "sigils": ["Orange Mox"],
             "attack": 0,
@@ -2495,8 +2495,8 @@
             "name": "Sapphire Mox",
 			"name_i18n": {
 				"en": "Sapphire Mox",
-				"ru": "",
-				"fr": ""
+				"ru": "Сапфировый Мокс",
+				"fr": "Saphir Mox"
 			},
             "sigils": ["Blue Mox"],
             "attack": 0,
@@ -2508,8 +2508,8 @@
             "name": "Magnus Mox",
 			"name_i18n": {
 				"en": "Magnus Mox",
-				"ru": "",
-				"fr": ""
+				"ru": "Магнус Мокс",
+				"fr": "Magnus Mox"
 			},
             "sigils": ["Great Mox"],
             "attack": 0,
@@ -2522,8 +2522,8 @@
             "name": "Muscle Mage",
 			"name_i18n": {
 				"en": "Muscle Mage",
-				"ru": "",
-				"fr": ""
+				"ru": "Мускулистый Маг",
+				"fr": "Muscle Mage"
 			},
             "sigils": ["Hefty"],
             "attack": 1,
@@ -2534,8 +2534,8 @@
             "name": "Orange Mage",
 			"name_i18n": {
 				"en": "Orange Mage",
-				"ru": "",
-				"fr": ""
+				"ru": "Оранжевый Маг",
+				"fr": "Mage orange"
 			},
             "sigils": ["Gem Animator"],
             "attack": 0,
@@ -2546,8 +2546,8 @@
             "name": "Practice Wizard",
 			"name_i18n": {
 				"en": "Practice Wizard",
-				"ru": "",
-				"fr": ""
+				"ru": "Практикующий волшебник",
+				"fr": "Assistant de pratique"
 			},
             "attack": 0,
             "health": 3,
@@ -2558,8 +2558,8 @@
             "name": "Mage Pupil",
 			"name_i18n": {
 				"en": "Mage Pupil",
-				"ru": "",
-				"fr": ""
+				"ru": "Ученик Мага",
+				"fr": "Élève mage"
 			},
             "sigils": ["Gem Dependant"],
             "attack": 1,
@@ -2569,8 +2569,8 @@
             "name": "Ruby Golem",
 			"name_i18n": {
 				"en": "Ruby Golem",
-				"ru": "",
-				"fr": ""
+				"ru": "Рубиновый Голем",
+				"fr": "Golem de rubis"
 			},
             "sigils": ["Ruby Heart"],
             "attack": 1,
@@ -2582,8 +2582,8 @@
             "name": "Stim Mage",
 			"name_i18n": {
 				"en": "Stim Mage",
-				"ru": "",
-				"fr": ""
+				"ru": "Стимулирующий маг",
+				"fr": "Mage stimulant"
 			},
             "sigils": ["Stimulate"],
             "attack": 0,
@@ -2595,8 +2595,8 @@
             "name": "Mox Tower",
 			"name_i18n": {
 				"en": "Mox Tower",
-				"ru": "",
-				"fr": ""
+				"ru": "Башня Мокс",
+				"fr": "Tour Mox"
 			},
             "sigils": ["Sentry", "Orange Mox"],
             "attack": 0,
@@ -2613,8 +2613,8 @@
             "name": "Mox Bunker",
 			"name_i18n": {
 				"en": "Mox Bunker",
-				"ru": "",
-				"fr": ""
+				"ru": "Бункер Мокс",
+				"fr": "Bunker Mox"
 			},
             "sigils": ["Sharp Quills", "Blue Mox"],
             "attack": 0,
@@ -2631,8 +2631,8 @@
             "name": "Mox Encampment",
 			"name_i18n": {
 				"en": "Mox Encampment",
-				"ru": "",
-				"fr": ""
+				"ru": "Лагерь Мокс",
+				"fr": "Campement de Mox"
 			},
             "sigils": ["Stinky", "Green Mox"],
             "attack": 0,
@@ -2649,8 +2649,8 @@
             "name": "Thief Mage",
 			"name_i18n": {
 				"en": "Thief Mage",
-				"ru": "",
-				"fr": ""
+				"ru": "Вор-маг",
+				"fr": "Mage voleur"
 			},
             "attack": 1,
             "health": 1,
@@ -2667,8 +2667,8 @@
             "name": "Life Mage",
 			"name_i18n": {
 				"en": "Life Mage",
-				"ru": "",
-				"fr": ""
+				"ru": "Маг Жизни",
+				"fr": "Mage de la vie"
 			},
             "attack": 1,
             "health": 1,
@@ -2686,8 +2686,8 @@
             "name": "Dragon Egg",
 			"name_i18n": {
 				"en": "Dragon Egg",
-				"ru": "",
-				"fr": ""
+				"ru": "Яйцо дракона",
+				"fr": "Œuf de dragon"
 			},
             "attack": 0,
             "health": 2,
@@ -2705,8 +2705,8 @@
             "name": "Ruby Dragon",
 			"name_i18n": {
 				"en": "Ruby Dragon",
-				"ru": "",
-				"fr": ""
+				"ru": "Рубиновый дракон",
+				"fr": "Dragon Rubis"
 			},
             "attack": 2,
             "health": 2,
@@ -2718,8 +2718,8 @@
             "name": "Shower Mage",
 			"name_i18n": {
 				"en": "Shower Mage",
-				"ru": "",
-				"fr": ""
+				"ru": "Маг душа",
+				"fr": "Mage de la douche"
 			},
             "mox_cost": ["Green"],
             "sigils": ["Stinky"],
@@ -2736,8 +2736,8 @@
             "name": "Holo Mox",
 			"name_i18n": {
 				"en": "Holo Mox",
-				"ru": "",
-				"fr": ""
+				"ru": "Голо Мокс",
+				"fr": "Holô Mox"
 			},
             "mox_cost": ["Orange"],
             "sigils": ["Armored"],
@@ -2755,8 +2755,8 @@
             "name": "Horse Mage",
 			"name_i18n": {
 				"en": "Horse Mage",
-				"ru": "",
-				"fr": ""
+				"ru": "Лошадиный маг",
+				"fr": "Mage du cheval"
 			},
             "mox_cost": ["Orange"],
             "blood_cost": 1,
@@ -2774,8 +2774,8 @@
             "name": "Winged Guardian",
 			"name_i18n": {
 				"en": "Winged Guardian",
-				"ru": "",
-				"fr": ""
+				"ru": "Крылатый Страж",
+				"fr": "Gardien ailé"
 			},
             "mox_cost": ["Orange", "Blue"],
             "attack": 1,
@@ -2792,8 +2792,8 @@
             "name": "Swift Sage",
 			"name_i18n": {
 				"en": "Swift Sage",
-				"ru": "",
-				"fr": ""
+				"ru": "Быстрый мудрец",
+				"fr": "Sage rapide"
 			},
             "mox_cost": ["Green", "Blue"],
             "attack": 1,
@@ -2810,8 +2810,8 @@
             "name": "Dark Knight",
 			"name_i18n": {
 				"en": "Dark Knight",
-				"ru": "",
-				"fr": ""
+				"ru": "Темный рыцарь",
+				"fr": "Chevalier noir"
 			},
             "mox_cost": ["Orange", "Green"],
             "attack": 1,
@@ -2828,8 +2828,8 @@
             "name": "Animox",
 			"name_i18n": {
 				"en": "Animox",
-				"ru": "",
-				"fr": ""
+				"ru": "Анимокс",
+				"fr": "Animox"
 			},
             "blood_cost": 1,
             "attack": 1,
@@ -2846,8 +2846,8 @@
             "name": "Withered Corpse",
 			"name_i18n": {
 				"en": "Withered Corpse",
-				"ru": "",
-				"fr": ""
+				"ru": "Иссохший труп",
+				"fr": "Cadavre flétri"
 			},
             "sigils": ["Brittle", "Boneless"],
             "attack": 1,
@@ -2858,8 +2858,8 @@
             "name": "Empty Vessel",
 			"name_i18n": {
 				"en": "Empty Vessel",
-				"ru": "",
-				"fr": ""
+				"ru": "Пустой сосуд",
+				"fr": "Récipient vide"
 			},
             "attack": 0,
             "health": 3,
@@ -2871,8 +2871,8 @@
             "name": "Leaping Vessel",
 			"name_i18n": {
 				"en": "Leaping Vessel",
-				"ru": "",
-				"fr": ""
+				"ru": "Прыгающий сосуд",
+				"fr": "Navire bondissant"
 			},
             "sigils": ["Mighty Leap"],
             "attack": 0,
@@ -2885,8 +2885,8 @@
             "name": "Energized Vessel",
 			"name_i18n": {
 				"en": "Energized Vessel",
-				"ru": "",
-				"fr": ""
+				"ru": "Энергетическое сосуд",
+				"fr": "Vaisseau énergisé"
 			},
             "sigils": ["Battery Bearer"],
             "attack": 0,
@@ -2899,8 +2899,8 @@
             "name": "Bloody Vessel",
 			"name_i18n": {
 				"en": "Bloody Vessel",
-				"ru": "",
-				"fr": ""
+				"ru": "Кровавый сосуд",
+				"fr": "Vaisseau sanglant"
 			},
             "sigils": ["Noble Sacrifice"],
             "attack": 0,
@@ -2918,8 +2918,8 @@
             "name": "Splintered Vessel",
 			"name_i18n": {
 				"en": "Splintered Vessel",
-				"ru": "",
-				"fr": ""
+				"ru": "Расколотый сосуд",
+				"fr": "Vaisseau éclaté"
 			},
             "sigils": ["Sharp Quills"],
             "attack": 0,
@@ -2932,8 +2932,8 @@
             "name": "Conductive Vessel",
 			"name_i18n": {
 				"en": "Conductive Vessel",
-				"ru": "",
-				"fr": ""
+				"ru": "Проводящий сосуд",
+				"fr": "Récipient conducteur"
 			},
             "attack": 0,
             "health": 2,
@@ -2946,8 +2946,8 @@
             "name": "Contaminated Vessel",
 			"name_i18n": {
 				"en": "Contaminated Vessel",
-				"ru": "",
-				"fr": ""
+				"ru": "Загрязненный сосуд",
+				"fr": "Récipient contaminé"
 			},
             "sigils": ["Stinky"],
             "attack": 0,
@@ -2960,8 +2960,8 @@
             "name": "Geck",
 			"name_i18n": {
 				"en": "Geck",
-				"ru": "",
-				"fr": ""
+				"ru": "Гек",
+				"fr": "Geck"
 			},
             "attack": 1,
             "health": 1,
@@ -2978,8 +2978,8 @@
             "name": "Acid Squirrel",
 			"name_i18n": {
 				"en": "Acid Squirrel",
-				"ru": "",
-				"fr": ""
+				"ru": "Кислотная белка",
+				"fr": "Écureuil acide"
 			},
             "attack": 0,
             "health": 1,
@@ -2996,8 +2996,8 @@
             "name": "Shambling Cairn",
 			"name_i18n": {
 				"en": "Shambling Cairn",
-				"ru": "",
-				"fr": ""
+				"ru": "Шаркающая Пирамида",
+				"fr": "Cairn chancelant"
 			},
             "attack": 0,
             "health": 1,
@@ -3016,8 +3016,8 @@
             "name": "Moon Shard",
 			"name_i18n": {
 				"en": "Moon Shard",
-				"ru": "",
-				"fr": ""
+				"ru": "Лунный осколок",
+				"fr": "Éclat de lune"
 			},
             "sigils": ["Mighty Leap", "Made of Stone"],
             "energy_cost": 6,
@@ -3036,8 +3036,8 @@
             "name": "The Moon",
 			"name_i18n": {
 				"en": "The Moon",
-				"ru": "",
-				"fr": ""
+				"ru": "Луна",
+				"fr": "La Lune"
 			},
             "sigils": ["Made of Stone"],
             "attack": 1,
