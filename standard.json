@@ -22,8 +22,8 @@
             "name": "Starvation",
 			"name_i18n": {
 				"en": "Starvation",
-				"ru": "",
-				"fr": ""
+				"ru": "Голод",
+				"fr": "Famine"
 			},
             "sigils": ["Repulsive"],
             "attack": 1,
@@ -34,8 +34,8 @@
             "name": "Greater Smoke",
 			"name_i18n": {
 				"en": "Greater Smoke",
-				"ru": "",
-				"fr": ""
+				"ru": "Большой дым",
+				"fr": "Plus de fumée"
 			},
             "sigils": ["Bone King"],
             "attack": 1,
@@ -45,8 +45,8 @@
             "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от syntaxevasion.",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par syntaxevasion."
 			}
         },
         {
@@ -149,8 +149,8 @@
             "description": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от Kaycee's Mod.",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par Kaycee's Mod."
 			}
         },
         {
@@ -229,8 +229,8 @@
             "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от syntaxevasion.",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par syntaxevasion"
 			}
         },
         {
@@ -423,8 +423,8 @@
             "description": "Note: This card's effect was changed due to it sucking.",
 			"description_i18n": {
 				"en": "Note: This card's effect was changed due to it sucking.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: Эффект этой карты был изменен, так как она отстойная.",
+				"fr": "Remarque: l'effet de cette carte a été modifié en raison de son effet d'aspiration."
 			}
         },
         {
@@ -478,8 +478,8 @@
             "description": "This card was unused in act 2, but had art.",
 			"description_i18n": {
 				"en": "This card was unused in act 2, but had art.",
-				"ru": "",
-				"fr": ""
+				"ru": "Эта карта не использовалась в акте 2, но имела иллюстрацию.",
+				"fr": "Cette carte n'a pas été utilisée dans l'acte 2, mais elle contenait de l'art."
 			},
             "rare": true
         },
@@ -547,8 +547,8 @@
             "description": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от Kaycee's Mod.",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par Kaycee's Mod."
 			}
         },
         {
@@ -589,8 +589,8 @@
             "description": "This card gains 1 power and 1 health each time it perishes.",
 			"description_i18n": {
 				"en": "This card gains 1 power and 1 health each time it perishes.",
-				"ru": "",
-				"fr": ""
+				"ru": "Эта карта получает 1 единицу силы и 1 единицу здоровья каждый раз, когда она погибает.",
+				"fr": "Cette carte gagne 1 force et 1 santé à chaque fois qu'elle périt."
 			}
         },
         {
@@ -617,8 +617,8 @@
             "description": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от Kaycee's Mod.",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par Kaycee's Mod."
 			}
         },
         {
@@ -646,8 +646,8 @@
             "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от syntaxevasion",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par syntaxevasion"
 			}
         },
         {
@@ -665,8 +665,8 @@
             "description": "Custom card by Limabean.\nCard art by syntaxevasion",
 			"description_i18n": {
 				"en": "Custom card by Limabean.\nCard art by syntaxevasion",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от Limabean.\nДизайн карты от syntaxevasion",
+				"fr": "Carte personnalisée par Limabean.\nIllustration de la carte par syntaxevasion"
 			}
         },
         {
@@ -694,8 +694,8 @@
             "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от syntaxevasion",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par syntaxevasion"
 			}
         },
         {
@@ -712,8 +712,8 @@
             "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от syntaxevasion",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par syntaxevasion"
 			}
         },
         {
@@ -729,8 +729,8 @@
             "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от syntaxevasion",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par syntaxevasion"
 			}
         },
         {
@@ -770,8 +770,8 @@
             "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от syntaxevasion",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par syntaxevasion"
 			}
         },
         {
@@ -788,8 +788,8 @@
             "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от syntaxevasion",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par syntaxevasion"
 			}
         },
         {
@@ -807,8 +807,8 @@
             "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от syntaxevasion",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par syntaxevasion"
 			},
             "nosac": true
         },
@@ -888,8 +888,8 @@
             "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от syntaxevasion",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par syntaxevasion"
 			}
         },
         {
@@ -935,8 +935,8 @@
             "description": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite by syntaxevasion.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от syntaxevasion",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par syntaxevasion"
 			}
         },
         {
@@ -1029,8 +1029,8 @@
             "description": "Note: Health was increased to 3 to make it better than Bullfrog in at least one way. Bears a unique ability from Act 1.",
 			"description_i18n": {
 				"en": "Note: Health was increased to 3 to make it better than Bullfrog in at least one way. Bears a unique ability from Act 1.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: Здоровье увеличено до 3, чтобы превзойти Лягушку-Быка хотя бы в одном отношении. Обладает уникальной способностью из Акта 1.",
+				"fr": "Remarque: La santé a été augmentée à 3 pour la rendre supérieure à Bullfrog sur au moins un point. Possède une capacité unique de l'acte 1."
 			}
         },
         {
@@ -1095,8 +1095,8 @@
             "description": "Custom card by FishGuy101.\nCard and sigil art by syntaxevasion",
 			"description_i18n": {
 				"en": "Custom card by FishGuy101.\nCard and sigil art by syntaxevasion",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от FishGuy101.\nКартинка и символ от syntaxevasion",
+				"fr": "Carte personnalisée par FishGuy101.\nIllustration de la carte et du sceau par syntaxevasion"
 			}
         },
         {
@@ -1152,8 +1152,8 @@
             "description": "Custom card by FishGuy101.\nCard art by Mark",
 			"description_i18n": {
 				"en": "Custom card by FishGuy101.\nCard art by Mark",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от FishGuy101.\nАрт карты от Mark",
+				"fr": "Carte personnalisée par FishGuy101.\nIllustration de Mark."
 			}
         },
         {
@@ -1194,8 +1194,8 @@
             "description": "Note: The energy cost of this card was reduced to make it less terrible.",
 			"description_i18n": {
 				"en": "Note: The energy cost of this card was reduced to make it less terrible.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: Энергетическая стоимость этой карты была снижена, чтобы сделать ее менее ужасной.",
+				"fr": "Remarque: le coût en énergie de cette carte a été réduit pour la rendre moins terrible."
 			}
         },
         {
@@ -1236,8 +1236,8 @@
             "description": "Note: Health was increased to 3 to make it equivalent to other \"Hound\" cards.",
 			"description_i18n": {
 				"en": "Note: Health was increased to 3 to make it equivalent to other \"Hound\" cards.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: Здоровье карты увеличено до 3, чтобы сделать ее эквивалентной другим картам \"Гончая\".",
+				"fr": "Remarque: la santé a été augmentée à 3 pour la rendre équivalente aux autres cartes \"Chien\"."
 			}
         },
         {
@@ -1293,8 +1293,8 @@
             "description": "Note: Effect was changed to prevent infinitely buffing stim mage.",
 			"description_i18n": {
 				"en": "Note: Effect was changed to prevent infinitely buffing stim mage.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: эффект был изменен, чтобы предотвратить бесконечное усиление стимулятора.",
+				"fr": "Remarque: l'effet a été modifié pour empêcher le mage de stimulation de bénéficier d'un buff infini."
 			}
         },
         {
@@ -1338,8 +1338,8 @@
             "description": "Note: The cost of this ability was increased to 2 energy due to this card being very strong for its cost.",
 			"description_i18n": {
 				"en": "Note: The cost of this ability was increased to 2 energy due to this card being very strong for its cost.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: стоимость этой способности была увеличена до 2 единиц энергии, поскольку эта карта очень сильна за свою стоимость.",
+				"fr": "Remarque: le coût de cette capacité a été augmenté à 2 points d'énergie car cette carte est très puissante pour son coût."
 			}
         },
         {
@@ -1394,8 +1394,8 @@
             "description": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
 			"description_i18n": {
 				"en": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от EternalHours и syntaxevasion.\nДавно пора.",
+				"fr": "Carte personnalisée par EternalHours et Syntaxevasion.\nAttendue depuis longtemps."
 			},
             "energy_cost": 1
         },
@@ -1449,8 +1449,8 @@
             "description": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
 			"description_i18n": {
 				"en": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от EternalHours и syntaxevasion.\nДавно пора.",
+				"fr": "Carte personnalisée par EternalHours et Syntaxevasion.\nAttendue depuis longtemps."
 			},
             "energy_cost": 6
         },
@@ -1493,8 +1493,8 @@
             "description": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
 			"description_i18n": {
 				"en": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от EternalHours и syntaxevasion.\nДавно пора.",
+				"fr": "Carte personnalisée par EternalHours et Syntaxevasion.\nAttendue depuis longtemps."
 			},
             "energy_cost": 4
         },
@@ -1511,8 +1511,8 @@
             "description": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
 			"description_i18n": {
 				"en": "Custom card by EternalHours and syntaxevasion.\nLong overdue.",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от EternalHours и syntaxevasion.\nДавно пора.",
+				"fr": "Carte personnalisée par EternalHours et Syntaxevasion.\nAttendue depuis longtemps."
 			},
             "energy_cost": 3
         },
@@ -1530,8 +1530,8 @@
             "description": "Note: Fecundity (Kaycee) is nerfed as per Kaycee's Mod",
 			"description_i18n": {
 				"en": "Note: Fecundity (Kaycee) is nerfed as per Kaycee's Mod",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: Плодовитость (Kaycee) ослаблена согласно Kaycee's Mod.",
+				"fr": "Remarque: la fécondité (Kaycee) est nerfée conformément au mod de Kaycee"
 			}
         },
         {
@@ -1548,8 +1548,8 @@
             "description": "Note: The sentry sigil now triggers when this card is pushed by another card.",
 			"description_i18n": {
 				"en": "Note: The sentry sigil now triggers when this card is pushed by another card.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: теперь символ часового срабатывает, когда эта карта толкается другой картой.",
+				"fr": "Remarque: le sceau de sentinelle se déclenche désormais lorsque cette carte est poussée par une autre carte."
 			}
         },
         {
@@ -1647,8 +1647,8 @@
             "description": "Note: The sentry sigil now triggers when this card is pushed by another card.",
 			"description_i18n": {
 				"en": "Note: The sentry sigil now triggers when this card is pushed by another card.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: теперь символ часового срабатывает, когда эта карта толкается другой картой.",
+				"fr": "Remarque: le sceau de sentinelle se déclenche désormais lorsque cette carte est poussée par une autre carte."
 			}
         },
         {
@@ -1715,8 +1715,8 @@
             "description": "Note: This card's attack was increased to make it worth 6 energy.",
 			"description_i18n": {
 				"en": "Note: This card's attack was increased to make it worth 6 energy.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: Атака этой карты была увеличена, и теперь ее стоимость составляет 6 единиц энергии.",
+				"fr": "Remarque: l'attaque de cette carte a été augmentée pour lui donner une valeur de 6 points d'énergie."
 			}
         },
         {
@@ -1757,8 +1757,8 @@
             "description": "Damn Boi!",
 			"description_i18n": {
 				"en": "Damn Boi!",
-				"ru": "",
-				"fr": ""
+				"ru": "Черт возьми!",
+				"fr": "Putain mec!"
 			},
             "sigils": ["Thick"],
             "left_half": "Thick",
@@ -1801,8 +1801,8 @@
             "description": "Art and sigils by syntaxevasion",
 			"description_i18n": {
 				"en": "Art and sigils by syntaxevasion",
-				"ru": "",
-				"fr": ""
+				"ru": "Арт и символы от syntaxevasion",
+				"fr": "Art et sceaux par syntaxevasion"
 			}
         },
         {
@@ -1859,16 +1859,16 @@
             "description": "Note: This card gives only 1 bone per 1 energy due to the previous effect being overpowered in combination with Bone Heap.",
 			"description_i18n": {
 				"en": "Note: This card gives only 1 bone per 1 energy due to the previous effect being overpowered in combination with Bone Heap.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: эта карта дает только 1 кость за 1 энергию, поскольку предыдущий эффект слишком силен в сочетании с Кучей костей.",
+				"fr": "Remarque: cette carte ne donne qu'un os par énergie car l'effet précédent est surpuissant en combinaison avec Tas d'os."
 			}
         },
         {
             "name": "Bone Heap",
 			"name_i18n": {
 				"en": "Bone Heap",
-				"ru": "",
-				"fr": ""
+				"ru": "Куча костей",
+				"fr": "Tas d'os"
 			},
             "sigils": ["Enlarge (3)"],
             "attack": 0,
@@ -1914,8 +1914,8 @@
             "description": "Note: Was made common due to lack of use.\nThen rare again.",
 			"description_i18n": {
 				"en": "Note: Was made common due to lack of use.\nThen rare again.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: стал распространённым из-за редкого использования.\nЗатем снова стал редким.",
+				"fr": "Remarque: Ce phénomène est devenu courant en raison de son manque d'utilisation.\nPuis il est redevenu rare."
 			},
             "rare": true
         },
@@ -1934,8 +1934,8 @@
             "description": "Note: This card was made rare due to it's strength. This card will become a cat after its worthy sacrifice sigil is used.",
 			"description_i18n": {
 				"en": "Note: This card was made rare due to it's strength. This card will become a cat after its worthy sacrifice sigil is used.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: Эта карта стала редкой из-за своей силы. Эта карта превратится в кошку после того, как будет использован ее символ достойной жертвы.",
+				"fr": "Remarque: cette carte est devenue rare en raison de sa puissance. Elle deviendra un chat après l'utilisation de son sceau de sacrifice."
 			},
             "evolution": "Cat"
         },
@@ -2052,8 +2052,8 @@
             "description": "This was the most annoying card to program.",
 			"description_i18n": {
 				"en": "This was the most annoying card to program.",
-				"ru": "",
-				"fr": ""
+				"ru": "Программирование этой карты оказалось самым сложным.",
+				"fr": "C'était la carte la plus ennuyeuse à programmer."
 			}
         },
         {
@@ -2107,16 +2107,16 @@
             "description": "Nerfed again.",
 			"description_i18n": {
 				"en": "Nerfed again.",
-				"ru": "",
-				"fr": ""
+				"ru": "Опять понерфили.",
+				"fr": "Nerfé à nouveau."
 			}
         },
         {
             "name": "Tomb Robber",
 			"name_i18n": {
 				"en": "Tomb Robber",
-				"ru": "",
-				"fr": ""
+				"ru": "Грабитель Гробниц",
+				"fr": "Pilleur de Tombes"
 			},
             "sigils": ["Disentomb (Corpses)"],
             "attack": 0,
@@ -2126,8 +2126,8 @@
             "description": "Note: Withered corpses have the Boneless sigil and will not drop bones.This change was made to prevent multiple infinite combos involving Tomb Robber.",
 			"description_i18n": {
 				"en": "Note: Withered corpses have the Boneless sigil and will not drop bones.This change was made to prevent multiple infinite combos involving Tomb Robber.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: Иссохшие трупы имеют символ «Без костей» и не оставляют костей. Это изменение было сделано для предотвращения множественных бесконечных комбинаций с участием Грабителя Гробниц.",
+				"fr": "Remarque: les cadavres flétris ont le sceau Désossé et ne laisseront pas tomber d'os. Ce changement a été apporté pour empêcher plusieurs combos infinis impliquant Pilleur de Tombes."
 			}
         },
         {
@@ -2144,8 +2144,8 @@
             "description": "This card was given the stinky sigil to differentiate it from Opossom. Suggested by FishGuy101.",
 			"description_i18n": {
 				"en": "This card was given the stinky sigil to differentiate it from Opossom. Suggested by FishGuy101.",
-				"ru": "",
-				"fr": ""
+				"ru": "Эта карта получила вонючий символ, чтобы отличать её от Опоссома. Предложено FishGuy101.",
+				"fr": "Cette carte a reçu le sceau puant pour la différencier d'Opossom. Suggéré par FishGuy101."
 			}
         },
         {
@@ -2162,8 +2162,8 @@
             "description": "Custom card by SYNTHIA_2000",
 			"description_i18n": {
 				"en": "Custom card by SYNTHIA_2000",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от SYNTHIA_2000",
+				"fr": "Carte personnalisée par SYNTHIA_2000"
 			}
         },
         {
@@ -2180,8 +2180,8 @@
             "description": "Custom card by syntaxevasion.\nLong overdue.",
 			"description_i18n": {
 				"en": "Custom card by syntaxevasion.\nLong overdue.",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от syntaxevasion.\nДавно пора.",
+				"fr": "Carte personnalisée par syntaxevasion.\nAttendue depuis longtemps."
 			},
             "nosac": true
         },
@@ -2224,8 +2224,8 @@
             "description": "Custom card and art by ener.",
 			"description_i18n": {
 				"en": "Custom card and art by ener.",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта и арт от ener.",
+				"fr": "Carte et art personnalisés par ener."
 			}
         },
         {
@@ -2293,8 +2293,8 @@
             "description": "Dies to removal.",
 			"description_i18n": {
 				"en": "Dies to removal.",
-				"ru": "",
-				"fr": ""
+				"ru": "Умирает при удалении.",
+				"fr": "Meurt à enlever."
 			}
         },
         {
@@ -2347,8 +2347,8 @@
             "description": "This card's attack is equal to the number of \"Mox\" cards you possess.",
 			"description_i18n": {
 				"en": "This card's attack is equal to the number of \"Mox\" cards you possess.",
-				"ru": "",
-				"fr": ""
+				"ru": "Атака этой карты равна количеству имеющихся у вас карт \"Мокс\".",
+				"fr": "L'attaque de cette carte est égale au nombre de cartes \"Mox\" que vous possédez."
 			}
         },
         {
@@ -2403,8 +2403,8 @@
             "description": "He got buffed a while back. Thanks FishGuy101!",
 			"description_i18n": {
 				"en": "He got buffed a while back. Thanks FishGuy101!",
-				"ru": "",
-				"fr": ""
+				"ru": "Его недавно улучшили. Спасибо, FishGuy101!",
+				"fr": "Il a été amélioré il y a quelque temps. Merci FishGuy101!"
 			}
         },
         {
@@ -2422,8 +2422,8 @@
             "description": "Note: Attack was increased to make it an acceptable rare card and to demonstrate its sigil effect more clearly.",
 			"description_i18n": {
 				"en": "Note: Attack was increased to make it an acceptable rare card and to demonstrate its sigil effect more clearly.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: Атака была увеличена, чтобы сделать карту приемлемой редкой и более наглядно продемонстрировать ее эффект символа.",
+				"fr": "Remarque: l'attaque a été augmentée pour en faire une carte rare acceptable et pour démontrer plus clairement son effet de sceau."
 			}
         },
         {
@@ -2605,8 +2605,8 @@
             "description": "Custom card by FishGuy101",
 			"description_i18n": {
 				"en": "Custom card by FishGuy101",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от FishGuy101",
+				"fr": "Carte personnalisée par FishGuy101"
 			}
         },
         {
@@ -2623,8 +2623,8 @@
             "description": "Custom Card by BishopAdams",
 			"description_i18n": {
 				"en": "Custom Card by BishopAdams",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от BishopAdams",
+				"fr": "Carte personnalisée par BishopAdams"
 			}
         },
         {
@@ -2641,8 +2641,8 @@
             "description": "Custom Card by BishopAdams",
 			"description_i18n": {
 				"en": "Custom Card by BishopAdams",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от BishopAdams",
+				"fr": "Carte personnalisée par BishopAdams"
 			}
         },
         {
@@ -2659,8 +2659,8 @@
             "description": "Custom card by FishGuy101\nServed his sentence",
 			"description_i18n": {
 				"en": "Custom card by FishGuy101\nServed his sentence",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от FishGuy101\nОтбыл наказание",
+				"fr": "Carte personnalisée par FishGuy101\nA purgé sa peine"
 			}
         },
         {
@@ -2678,8 +2678,8 @@
             "description": "Custom card by FishGuy101",
 			"description_i18n": {
 				"en": "Custom card by FishGuy101",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от FishGuy101",
+				"fr": "Carte personnalisée par FishGuy101"
 			}
         },
         {
@@ -2697,8 +2697,8 @@
             "description": "Custom card by FishGuy101.\nUpdated art by syntaxevasion",
 			"description_i18n": {
 				"en": "Custom card by FishGuy101.\nUpdated art by syntaxevasion",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от FishGuy101\nОбновленный арт от syntaxevasion",
+				"fr": "Carte personnalisée par FishGuy101\nArt mis à jour par syntaxevasion"
 			}
         },
         {
@@ -2728,8 +2728,8 @@
             "description": "Custom card by FishGuy101",
 			"description_i18n": {
 				"en": "Custom card by FishGuy101",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от FishGuy101",
+				"fr": "Carte personnalisée par FishGuy101"
 			}
         },
         {
@@ -2747,8 +2747,8 @@
             "description": "Custom card by FishGuy101",
 			"description_i18n": {
 				"en": "Custom card by FishGuy101",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от FishGuy101",
+				"fr": "Carte personnalisée par FishGuy101"
 			}
         },
         {
@@ -2766,8 +2766,8 @@
             "description": "How hungry?\n\nCustom card by ener",
 			"description_i18n": {
 				"en": "How hungry?\n\nCustom card by ener",
-				"ru": "",
-				"fr": ""
+				"ru": "Насколько голодны?\nАвторская карта от ener",
+				"fr": "Quelle faim?\n\nCarte personnalisée par ener"
 			}
         },
         {
@@ -2784,8 +2784,8 @@
             "description": "Custom card by Flare",
 			"description_i18n": {
 				"en": "Custom card by Flare",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от Flare",
+				"fr": "Carte personnalisée par Flare"
 			}
         },
         {
@@ -2802,8 +2802,8 @@
             "description": "Custom card by Flare",
 			"description_i18n": {
 				"en": "Custom card by Flare",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от Flare",
+				"fr": "Carte personnalisée par Flare"
 			}
         },
         {
@@ -2820,8 +2820,8 @@
             "description": "Custom card by Flare",
 			"description_i18n": {
 				"en": "Custom card by Flare",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от Flare",
+				"fr": "Carte personnalisée par Flare"
 			}
         },
         {
@@ -2838,8 +2838,8 @@
             "description": "Custom card by SYNTHIA_2000",
 			"description_i18n": {
 				"en": "Custom card by SYNTHIA_2000",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от SYNTHIA_2000",
+				"fr": "Carte personnalisée par SYNTHIA_2000"
 			}
         },
         {
@@ -2910,8 +2910,8 @@
             "description": "Note: Energy cost increased due to opponent not having enough time to build a board before bloody vessel is usable.",
 			"description_i18n": {
 				"en": "Note: Energy cost increased due to opponent not having enough time to build a board before bloody vessel is usable.",
-				"ru": "",
-				"fr": ""
+				"ru": "Примечание: Стоимость энергии увеличивается, так как у противника нет достаточного времени, чтобы построить доску, прежде чем кровавый сосуд станет пригодным для использования.",
+				"fr": "Remarque: le coût en énergie a augmenté car l'adversaire n'a pas eu assez de temps pour construire un plateau avant que le vaisseau sanglant ne soit utilisable."
 			}
         },
         {
@@ -2970,8 +2970,8 @@
             "description": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
 			"description_i18n": {
 				"en": "Ported from Act 1. Act 2 sprite from Kaycee's Mod.",
-				"ru": "",
-				"fr": ""
+				"ru": "Перенесено из Акта 1. Спрайт Акта 2 от Kaycee's Mod.",
+				"fr": "Porté de l'acte 1. Sprite de l'acte 2 par Kaycee's Mod."
 			}
         },
         {
@@ -2988,8 +2988,8 @@
             "description": "Card and art by Mark.\nThe most broken card, hopefully no longer.",
 			"description_i18n": {
 				"en": "Card and art by Mark.\nThe most broken card, hopefully no longer.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта и арт от Mark.\nСамая сломанная карта, надеюсь, больше не будет.",
+				"fr": "Carte et illustration de Mark.\nLa carte la plus abîmée, j'espère qu'elle ne l'est plus."
 			}
         },
         {
@@ -3008,8 +3008,8 @@
             "description": "Custom card by Garf, zpan0317, and Me!",
 			"description_i18n": {
 				"en": "Custom card by Garf, zpan0317, and Me!",
-				"ru": "",
-				"fr": ""
+				"ru": "Авторская карта от Garf, zpan0317 и меня!",
+				"fr": "Carte personnalisée par Garf, zpan0317 et moi!"
 			}
         },
         {
@@ -3027,8 +3027,8 @@
             "description": "Emits a pale white light. You feel as though it calls to its brethren.",
 			"description_i18n": {
 				"en": "Emits a pale white light. You feel as though it calls to its brethren.",
-				"ru": "",
-				"fr": ""
+				"ru": "Излучает бледный белый свет. Кажется, будто он зовёт своих собратьев.",
+				"fr": "Émet une lumière blanche pâle. On a l'impression qu'elle appelle ses frères."
 			},
             "banned": true
         },
@@ -3806,9 +3806,9 @@
         "Chungus": {
             "description": "Big",
 			"description_i18n": {
-				"en": "",
-				"ru": "",
-				"fr": ""
+				"en": "Big",
+				"ru": "Большой",
+				"fr": "Grand"
 			},
             "author": "107zxz",
             "url": "https://raw.githubusercontent.com/dkodnik/data_op/main/scripts/Chungus.gd",
