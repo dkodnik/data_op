@@ -3076,8 +3076,8 @@
 		"Amalgamation_i18n": {
 			"name": {
 				"en": "Amalgamation",
-				"ru": "",
-				"fr": ""
+				"ru": "Объединение",
+				"fr": "Fusion"
 			},
 			"description": {
 				"en": "A card bearing this sigil assimilates the owner's other creatures, gaining their health, power and sigils.",
@@ -3089,8 +3089,8 @@
 		"Annoying_i18n": {
 			"name": {
 				"en": "Annoying",
-				"ru": "",
-				"fr": ""
+				"ru": "Раздражающий",
+				"fr": "Ennuyeux"
 			},
 			"description": {
 				"en": "The creature opposing a card bearing this sigil gains 1 Power.",
@@ -3102,8 +3102,8 @@
 		"Ant Spawner_i18n": {
 			"name": {
 				"en": "Ant Spawner",
-				"ru": "",
-				"fr": ""
+				"ru": "Порождает муравьев",
+				"fr": "Fourmi pondeuse"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, an ant is created in your hand.",
@@ -3115,8 +3115,8 @@
 		"Armored_i18n": {
 			"name": {
 				"en": "Armored",
-				"ru": "",
-				"fr": ""
+				"ru": "Бронированный",
+				"fr": "Blindé"
 			},
 			"description": {
 				"en": "The first time a card bearing this sigil would take damage, prevent that damage.",
@@ -3128,8 +3128,8 @@
 		"Attack Conduit_i18n": {
 			"name": {
 				"en": "Attack Conduit",
-				"ru": "",
-				"fr": ""
+				"ru": "Канал атаки",
+				"fr": "Conduit d'attaque"
 			},
 			"description": {
 				"en": "Other creatures within a circuit completed by a card bearing this sigil gain 1 power.",
@@ -3141,8 +3141,8 @@
     	"Battery Bearer_i18n": {
 			"name": {
 				"en": "Battery Bearer",
-				"ru": "",
-				"fr": ""
+				"ru": "Носитель батареи",
+				"fr": "Porteur de batterie"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, it provides an energy cell to its owner.",
@@ -3154,8 +3154,8 @@
 		"Bees Within_i18n": {
 			"name": {
 				"en": "Bees Within",
-				"ru": "",
-				"fr": ""
+				"ru": "Пчелы внутри",
+				"fr": "Les abeilles à l'intérieur"
 			},
 			"description": {
 				"en": "Once a card bearing this sigil is struck, a Bee is created in your hand.",
@@ -3167,8 +3167,8 @@
 		"Bellist_i18n": {
 			"name": {
 				"en": "Bellist",
-				"ru": "",
-				"fr": ""
+				"ru": "Воинственный",
+				"fr": "Belliste"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, a Chime is created on each empty adjacent space. A card bearing this sigil will perform a retaliatory attack against any card striking a Chime.",
@@ -3180,8 +3180,8 @@
 		"Bifurcated Strike_i18n": {
 			"name": {
 				"en": "Bifurcated Strike",
-				"ru": "",
-				"fr": ""
+				"ru": "Раздвоенный удар",
+				"fr": "Frappe bifurquée"
 			},
 			"description": {
 				"en": "A card bearing this sigil will strike each opposing space to the left and right of the space across from it.",
@@ -3193,8 +3193,8 @@
 		"Blood Lust_i18n": {
 			"name": {
 				"en": "Blood Lust",
-				"ru": "",
-				"fr": ""
+				"ru": "Жажда крови",
+				"fr": "Soif de sang"
 			},
 			"description": {
 				"en": "When a card bearing this Sigil attacks an opposing creature and it perishes, this card gains 1 power.",
@@ -3206,8 +3206,8 @@
 		"Blue Mox_i18n": {
 			"name": {
 				"en": "Blue Mox",
-				"ru": "",
-				"fr": ""
+				"ru": "Синий Мокс",
+				"fr": "Mox bleu"
 			},
 			"description": {
 				"en": "While a card bearing this sigil is on the board, it provides a blue gem to its owner.",
@@ -3219,8 +3219,8 @@
 		"Bomb Latch_i18n": {
 			"name": {
 				"en": "Bomb Latch",
-				"ru": "",
-				"fr": ""
+				"ru": "Защелка бомбы",
+				"fr": "Loquet à bombe"
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Detonator sigil.",
@@ -3232,21 +3232,21 @@
 		"Bomb Spewer_i18n": {
 			"name": {
 				"en": "Bomb Spewer",
-				"ru": "",
-				"fr": ""
+				"ru": "Извергатель бомб",
+				"fr": "Lanceur de bombes"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, fill all empty spaces with explode bots.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда разыгрывается карта с этим символом, заполните все пустые места взрывающимися ботами.",
+				"fr": "Lorsqu'une carte portant ce sceau est jouée, remplissez tous les espaces vides avec des robots explosifs."
 			}
 		},
     	"Bomb Spewer (Eternal)": "When a card bearing this sigil is played, fill every empty space opposing a card with an explode bot.",
 		"Bomb Spewer (Eternal)_i18n": {
 			"name": {
 				"en": "Bomb Spewer (Eternal)",
-				"ru": "",
-				"fr": ""
+				"ru": "Извергатель бомб (Вечный)",
+				"fr": "Cracheur de bombes (Éternel)"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, fill every empty space opposing a card with an explode bot.",
@@ -3258,8 +3258,8 @@
 		"Bone Digger_i18n": {
 			"name": {
 				"en": "Bone Digger",
-				"ru": "",
-				"fr": ""
+				"ru": "Копатель костей",
+				"fr": "Chercheur d'os"
 			},
 			"description": {
 				"en": "At the end of the owner's turn, a card bearing this sigil will generate 1 bone.",
@@ -3271,8 +3271,8 @@
 		"Bone King_i18n": {
 			"name": {
 				"en": "Bone King",
-				"ru": "",
-				"fr": ""
+				"ru": "Король Костей",
+				"fr": "Roi des os"
 			},
 			"description": {
 				"en": "When a card bearing this sigil dies, 4 bones are awarded instead of 1.",
@@ -3284,8 +3284,8 @@
 		"Bonehorn_i18n": {
 			"name": {
 				"en": "Bonehorn",
-				"ru": "",
-				"fr": ""
+				"ru": "Костяной рог",
+				"fr": "Corne d'os"
 			},
 			"description": {
 				"en": "Pay 1 energy to gain 3 bones.",
@@ -3297,8 +3297,8 @@
 		"Bonehorn (1)_i18n": {
 			"name": {
 				"en": "Bonehorn (1)",
-				"ru": "",
-				"fr": ""
+				"ru": "Костяной рог (1)",
+				"fr": "Corne d'os (1)"
 			},
 			"description": {
 				"en": "Pay 1 energy to gain 1 bone.",
@@ -3310,8 +3310,8 @@
 		"Boneless_i18n": {
 			"name": {
 				"en": "Boneless",
-				"ru": "",
-				"fr": ""
+				"ru": "Без костей",
+				"fr": "Désossé"
 			},
 			"description": {
 				"en": "When a card bearing this sigil dies, no bones are awarded.",
@@ -3323,8 +3323,8 @@
 		"Brittle_i18n": {
 			"name": {
 				"en": "Brittle",
-				"ru": "",
-				"fr": ""
+				"ru": "Хрупкий",
+				"fr": "Fragile"
 			},
 			"description": {
 				"en": "After attacking, a card bearing this sigil perishes.",
@@ -3336,8 +3336,8 @@
 		"Brittle Latch_i18n": {
 			"name": {
 				"en": "Brittle Latch",
-				"ru": "",
-				"fr": ""
+				"ru": "Хрупкая защелка",
+				"fr": "Loquet fragile"
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Brittle sigil.",
@@ -3349,8 +3349,8 @@
 		"Burrower_i18n": {
 			"name": {
 				"en": "Burrower",
-				"ru": "",
-				"fr": ""
+				"ru": "Роющий",
+				"fr": "Fouisseur"
 			},
 			"description": {
 				"en": "When an empty space would be struck, a card bearing this sigil will move to that space to receive the strike instead.",
@@ -3362,8 +3362,8 @@
 		"Corpse Eater_i18n": {
 			"name": {
 				"en": "Corpse Eater",
-				"ru": "",
-				"fr": ""
+				"ru": "Пожиратель трупов",
+				"fr": "Mangeur de cadavres"
 			},
 			"description": {
 				"en": "If a creature that you own perishes by combat, a card bearing this sigil in your hand is automatically played in its place.",
@@ -3375,8 +3375,8 @@
 		"Dam Builder_i18n": {
 			"name": {
 				"en": "Dam Builder",
-				"ru": "",
-				"fr": ""
+				"ru": "Строитель плотин",
+				"fr": "Constructeur de barrages"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, a Dam is created on each empty adjacent space.",
@@ -3388,8 +3388,8 @@
 		"Depleting_i18n": {
 			"name": {
 				"en": "Depleting",
-				"ru": "",
-				"fr": ""
+				"ru": "Истощающий",
+				"fr": "Épuisement"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, 2 energy cells are removed from its owner",
@@ -3401,8 +3401,8 @@
 		"Detonator_i18n": {
 			"name": {
 				"en": "Detonator",
-				"ru": "",
-				"fr": ""
+				"ru": "Детонатор",
+				"fr": "Détonateur"
 			},
 			"description": {
 				"en": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 10 damage.",
@@ -3414,8 +3414,8 @@
 		"Detonator (5)_i18n": {
 			"name": {
 				"en": "Detonator (5)",
-				"ru": "",
-				"fr": ""
+				"ru": "Детонатор (5)",
+				"fr": "Détonateur (5)"
 			},
 			"description": {
 				"en": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 5 damage.",
@@ -3427,34 +3427,34 @@
 		"Disentomb_i18n": {
 			"name": {
 				"en": "Disentomb",
-				"ru": "",
-				"fr": ""
+				"ru": "Выкопать",
+				"fr": "Désenterrer"
 			},
 			"description": {
 				"en": "Pay 1 bone to create a skeleton in your hand.",
-				"ru": "",
-				"fr": ""
+				"ru": "Заплатите 1 кость, чтобы создать скелет в вашей руке.",
+				"fr": "Payez 1 os pour créer un squelette dans votre main."
 			}
 		},
     	"Disentomb (Corpses)": "Pay 2 bones to create a withered corpse in your hand.",
 		"Disentomb (Corpses)_i18n": {
 			"name": {
 				"en": "Disentomb (Corpses)",
-				"ru": "",
-				"fr": ""
+				"ru": "Выкопать (труп)",
+				"fr": "Désenterrer (cadavres)"
 			},
 			"description": {
 				"en": "Pay 2 bones to create a withered corpse in your hand.",
-				"ru": "",
-				"fr": ""
+				"ru": "Заплатите 2 кости, чтобы создать в своей руке иссохший труп.",
+				"fr": "Payez 2 os pour créer un cadavre flétri dans votre main."
 			}
 		},
     	"Double Death": "When another creature you own dies, it is returned to life and dies again immediately.",
 		"Double Death_i18n": {
 			"name": {
 				"en": "Double Death",
-				"ru": "",
-				"fr": ""
+				"ru": "Двойная смерть",
+				"fr": "Double mort"
 			},
 			"description": {
 				"en": "When another creature you own dies, it is returned to life and dies again immediately.",
@@ -3465,9 +3465,9 @@
     	"Double Strike": "A card bearing this Sigil will strike the opposing space an extra time when attacking.",
 		"Double Strike_i18n": {
 			"name": {
-				"en": "Double Strike":,
-				"ru": "",
-				"fr": ""
+				"en": "Double Strike",
+				"ru": "Двойной удар",
+				"fr": "Double frappe"
 			},
 			"description": {
 				"en": "A card bearing this Sigil will strike the opposing space an extra time when attacking.",
@@ -3479,8 +3479,8 @@
 		"Energy Conduit_i18n": {
 			"name": {
 				"en": "Energy Conduit",
-				"ru": "",
-				"fr": ""
+				"ru": "Энергетический канал",
+				"fr": "Conduit d'énergie"
 			},
 			"description": {
 				"en": "If a card bearing this sigil is part of a completed circuit, your energy never depletes.",
@@ -3492,8 +3492,8 @@
 		"Energy Conduit (+3)_i18n": {
 			"name": {
 				"en": "Energy Conduit (+3)",
-				"ru": "",
-				"fr": ""
+				"ru": "Энергетический канал (+3)",
+				"fr": "Conduit d'énergie (+3)"
 			},
 			"description": {
 				"en": "If a card bearing this sigil is part of a completed circuit, your maximum energy increases by 3.",
@@ -3505,8 +3505,8 @@
 		"Energy Gun_i18n": {
 			"name": {
 				"en": "Energy Gun",
-				"ru": "",
-				"fr": ""
+				"ru": "Энергетическая пушка",
+				"fr": "Pistolet à énergie"
 			},
 			"description": {
 				"en": "Pay 1 energy to deal 1 damage to the creature across from a card bearing this sigil.",
@@ -3518,8 +3518,8 @@
 		"Energy Sniper_i18n": {
 			"name": {
 				"en": "Energy Sniper",
-				"ru": "",
-				"fr": ""
+				"ru": "Энергетический Снайпер",
+				"fr": "Tireur d'élite énergétique"
 			},
 			"description": {
 				"en": "Pay 1 energy, this card's owner chooses an opposing creature to take 1 damage.",
@@ -3531,8 +3531,8 @@
 		"Energy Gun (Eternal)_i18n": {
 			"name": {
 				"en": "Energy Gun (Eternal)",
-				"ru": "",
-				"fr": ""
+				"ru": "Энергетическая пушка (Вечная)",
+				"fr": "Pistolet à énergie (éternel)"
 			},
 			"description": {
 				"en": "Pay energy to damage the opposing creature until it dies or you run out.",
@@ -3544,8 +3544,8 @@
 		"Enlarge_i18n": {
 			"name": {
 				"en": "Enlarge",
-				"ru": "",
-				"fr": ""
+				"ru": "Увеличить",
+				"fr": "Agrandir"
 			},
 			"description": {
 				"en": "Pay 2 bones to increase the power and health of a card bearing this sigil by 1.",
@@ -3557,8 +3557,8 @@
 		"Enlarge (3)_i18n": {
 			"name": {
 				"en": "Enlarge (3)",
-				"ru": "",
-				"fr": ""
+				"ru": "Увеличить (3)",
+				"fr": "Agrandir (3)"
 			},
 			"description": {
 				"en": "Pay 3 bones to increase the power and health of a card bearing this sigil by 1.",
@@ -3570,8 +3570,8 @@
 		"Fecundity_i18n": {
 			"name": {
 				"en": "Fecundity",
-				"ru": "",
-				"fr": ""
+				"ru": "Плодовитость",
+				"fr": "Fécondité"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, a copy of it is created in your hand.",
@@ -3583,8 +3583,8 @@
 		"Fecundity (Kaycee)_i18n": {
 			"name": {
 				"en": "Fecundity (Kaycee)",
-				"ru": "",
-				"fr": ""
+				"ru": "Плодовитость (Kaycee)",
+				"fr": "Fécondité (Kaycee)"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, a copy of it is created in your hand without this sigil.",
@@ -3596,8 +3596,8 @@
 		"Fledgling_i18n": {
 			"name": {
 				"en": "Fledgling",
-				"ru": "",
-				"fr": ""
+				"ru": "Птенец",
+				"fr": "Jeune"
 			},
 			"description": {
 				"en": "A card bearing this sigil will grow into a more powerful form after 1 turn on the board.",
@@ -3609,8 +3609,8 @@
 		"Fledgling 2_i18n": {
 			"name": {
 				"en": "Fledgling 2",
-				"ru": "",
-				"fr": ""
+				"ru": "Птенец 2",
+				"fr": "Jeune 2"
 			},
 			"description": {
 				"en": "A card bearing this sigil will grow into a more powerful form after 2 turns on the board.",
@@ -3622,8 +3622,8 @@
 		"Frozen Away_i18n": {
 			"name": {
 				"en": "Frozen Away",
-				"ru": "",
-				"fr": ""
+				"ru": "Замороженные",
+				"fr": "Gelé"
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, the creature inside is released in its place.",
@@ -3635,8 +3635,8 @@
 		"Gem Animator_i18n": {
 			"name": {
 				"en": "Gem Animator",
-				"ru": "",
-				"fr": ""
+				"ru": "Драгоценный аниматор",
+				"fr": "Animateur de gemmes"
 			},
 			"description": {
 				"en": "Mox cards on the owner's side of the board gain 1 power.",
@@ -3648,21 +3648,21 @@
 		"Gem Dependant_i18n": {
 			"name": {
 				"en": "Gem Dependant",
-				"ru": "",
-				"fr": ""
+				"ru": "Драгоценная зависимость",
+				"fr": "Dépendant des gemmes"
 			},
 			"description": {
 				"en": "If a card bearing this sigil's owner controls no mox cards, a card bearing this sigil perishes.",
-				"ru": "",
-				"fr": ""
+				"ru": "Если владелец карты с этим символом не контролирует ни одной карты Мокс, карта с этим символом погибает.",
+				"fr": "Si une carte portant le propriétaire de ce sceau ne contrôle aucune carte Mox, une carte portant ce sceau périt."
 			}
 		},
     	"Gem Detonator (5)": "When Mox cards on the owner's side of the board die, they Detonate (the creature opposing them, as well as adjacent friendly creatures, are dealt 5 damage).",
 		"Gem Detonator (5)_i18n": {
 			"name": {
 				"en": "Gem Detonator (5)",
-				"ru": "",
-				"fr": ""
+				"ru": "Драгоценная зависимость (5)",
+				"fr": "Dépendant des gemmes (5)"
 			},
 			"description": {
 				"en": "When Mox cards on the owner's side of the board die, they Detonate (the creature opposing them, as well as adjacent friendly creatures, are dealt 5 damage).",
@@ -3674,8 +3674,8 @@
 		"Gem Guardian_i18n": {
 			"name": {
 				"en": "Gem Guardian",
-				"ru": "",
-				"fr": ""
+				"ru": "Хранитель драгоценности",
+				"fr": "Gardien des gemmes"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, all Moxa cards on the owners' side of the board gain Nano Armor.",
@@ -3687,8 +3687,8 @@
 		"Great Mox_i18n": {
 			"name": {
 				"en": "Great Mox",
-				"ru": "",
-				"fr": ""
+				"ru": "Великий Мокс",
+				"fr": "Grand Mox"
 			},
 			"description": {
 				"en": "While a card bearing this sigil is on the board, it provides a green, orange, and blue gem to its owner.",
@@ -3700,8 +3700,8 @@
 		"Green Mox_i18n": {
 			"name": {
 				"en": "Green Mox",
-				"ru": "",
-				"fr": ""
+				"ru": "Зеленый Мокс",
+				"fr": "Mox vert"
 			},
 			"description": {
 				"en": "While a card bearing this sigil is on the board, it provides a green gem to its owner.",
@@ -3713,8 +3713,8 @@
 		"Guardian_i18n": {
 			"name": {
 				"en": "Guardian",
-				"ru": "",
-				"fr": ""
+				"ru": "Хранитель",
+				"fr": "Tuteur"
 			},
 			"description": {
 				"en": "When an opposing creature is placed opposite to an empty space, a card bearing this sigil will move to that empty space.",
@@ -3726,8 +3726,8 @@
 		"Handy_i18n": {
 			"name": {
 				"en": "Handy",
-				"ru": "",
-				"fr": ""
+				"ru": "Удобный",
+				"fr": "Pratique"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, discard your hand then draw a new hand of 4 cards.",
@@ -3739,8 +3739,8 @@
 		"Hefty_i18n": {
 			"name": {
 				"en": "Hefty",
-				"ru": "",
-				"fr": ""
+				"ru": "Здоровенный",
+				"fr": "Lourd"
 			},
 			"description": {
 				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. creatures in the way will be pushed in the same direction.",
@@ -3752,8 +3752,8 @@
 		"Hoarder_i18n": {
 			"name": {
 				"en": "Hoarder",
-				"ru": "",
-				"fr": ""
+				"ru": "Накопитель",
+				"fr": "Accumulateur"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, you may search your deck for any card and take it into your hand.",
@@ -3765,8 +3765,8 @@
 		"Leader_i18n": {
 			"name": {
 				"en": "Leader",
-				"ru": "",
-				"fr": ""
+				"ru": "Лидер",
+				"fr": "Chef"
 			},
 			"description": {
 				"en": "Creatures adjacent to a card bearing this sigil gain 1 Power.",
@@ -3778,8 +3778,8 @@
 		"Looter_i18n": {
 			"name": {
 				"en": "Looter",
-				"ru": "",
-				"fr": ""
+				"ru": "Мародер",
+				"fr": "Pillard"
 			},
 			"description": {
 				"en": "When a card bearing this sigil deals damage directly, draw a card for each damage dealt.",
@@ -3791,8 +3791,8 @@
 		"Made of Stone_i18n": {
 			"name": {
 				"en": "Made of Stone",
-				"ru": "",
-				"fr": ""
+				"ru": "Сделано из камня",
+				"fr": "Fait de pierre"
 			},
 			"description": {
 				"en": "A card bearing this sigil is immune to the effects of touch of death, stinky, annoying and Steel Trap.",
@@ -3804,8 +3804,8 @@
 		"Many Lives_i18n": {
 			"name": {
 				"en": "Many Lives",
-				"ru": "",
-				"fr": ""
+				"ru": "Много жизней",
+				"fr": "De nombreuses vies"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is sacrificed it does not perish.",
@@ -3817,8 +3817,8 @@
 		"Marrow Sucker_i18n": {
 			"name": {
 				"en": "Marrow Sucker",
-				"ru": "",
-				"fr": ""
+				"ru": "Костный высасыватель",
+				"fr": "Suceur de moelle"
 			},
 			"description": {
 				"en": "Pay 2 bones to heal a card bearing this sigil.",
@@ -3830,8 +3830,8 @@
 		"Mental Gemnastics_i18n": {
 			"name": {
 				"en": "Mental Gemnastics",
-				"ru": "",
-				"fr": ""
+				"ru": "Ментальная гимнастика",
+				"fr": "Gymnastique mentale"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, you draw cards equal to the amount of mox cards on your side of the board.",
@@ -3843,8 +3843,8 @@
 		"Mighty Leap_i18n": {
 			"name": {
 				"en": "Mighty Leap",
-				"ru": "",
-				"fr": ""
+				"ru": "Могучий прыжок",
+				"fr": "Saut puissant"
 			},
 			"description": {
 				"en": "A card bearing this sigil will block an opposing creature bearing the airborne sigil.",
@@ -3856,8 +3856,8 @@
 		"Music Player_i18n": {
 			"name": {
 				"en": "Music Player",
-				"ru": "",
-				"fr": ""
+				"ru": "Музыкальный плеер",
+				"fr": "Lecteur de musique"
 			},
 			"description": {
 				"en": "A card bearing this sigil plays a song of your choice when played",
@@ -3869,8 +3869,8 @@
 		"Noble Sacrifice_i18n": {
 			"name": {
 				"en": "Noble Sacrifice",
-				"ru": "",
-				"fr": ""
+				"ru": "Благородная жертва",
+				"fr": "Noble sacrifice"
 			},
 			"description": {
 				"en": "A card bearing this sigil is counted as 2 blood rather than 1 blood when sacrificed.",
@@ -3882,8 +3882,8 @@
 		"Orange Mox_i18n": {
 			"name": {
 				"en": "Orange Mox",
-				"ru": "",
-				"fr": ""
+				"ru": "Оранжевый Мокс",
+				"fr": "Orange Mox"
 			},
 			"description": {
 				"en": "While a card bearing this sigil is on the board, it provides an orange gem to its owner.",
@@ -3895,8 +3895,8 @@
 		"Omni Strike_i18n": {
 			"name": {
 				"en": "Omni Strike",
-				"ru": "",
-				"fr": ""
+				"ru": "Всеобщий удар",
+				"fr": "Omni Strike"
 			},
 			"description": {
 				"en": "A card bearing this sigil will strike all opposing spaces.",
@@ -3908,34 +3908,34 @@
 		"Power Dice_i18n": {
 			"name": {
 				"en": "Power Dice",
-				"ru": "",
-				"fr": ""
+				"ru": "Игральные кости силы",
+				"fr": "Dés de puissance"
 			},
 			"description": {
 				"en": "Pay 1 energy to set the power of a card bearing this sigil randomly between 1 and 6.",
-				"ru": "",
-				"fr": ""
+				"ru": "Заплатите 1 энергию, чтобы случайным образом установить силу карты с этим символом в диапазоне от 1 до 6.",
+				"fr": "Payez 1 énergie pour définir la puissance d'une carte portant ce sceau de manière aléatoire entre 1 et 6."
 			}
 		},
     	"Power Dice (2)": "Pay 2 energy to set the power of a card bearing this sigil randomly between 1 and 6.",
 		"Power Dice (2)_i18n": {
 			"name": {
 				"en": "Power Dice (2)",
-				"ru": "",
-				"fr": ""
+				"ru": "Игральные кости силы (2)",
+				"fr": "Dés de puissance (2)"
 			},
 			"description": {
 				"en": "Pay 2 energy to set the power of a card bearing this sigil randomly between 1 and 6.",
-				"ru": "",
-				"fr": ""
+				"ru": "Заплатите 2 энергии, чтобы случайным образом установить силу карты с этим символом в диапазоне от 1 до 6.",
+				"fr": "Payez 2 énergies pour définir la puissance d'une carte portant ce sceau de manière aléatoire entre 1 et 6."
 			}
 		},
     	"Rabbit Hole": "When a card bearing this sigil is played, a Rabbit is created in your hand.",
 		"Rabbit Hole_i18n": {
 			"name": {
 				"en": "Rabbit Hole",
-				"ru": "",
-				"fr": ""
+				"ru": "Кроличья нора",
+				"fr": "Trou du lapin"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, a Rabbit is created in your hand.",
@@ -3947,8 +3947,8 @@
 		"Reconstitute_i18n": {
 			"name": {
 				"en": "Reconstitute",
-				"ru": "",
-				"fr": ""
+				"ru": "Восстановить",
+				"fr": "Reconstituer"
 			},
 			"description": {
 				"en": "A card bearing this sigil returns to your hand 2 turns after it persihes.",
@@ -3960,8 +3960,8 @@
 		"Repulsive_i18n": {
 			"name": {
 				"en": "Repulsive",
-				"ru": "",
-				"fr": ""
+				"ru": "Отталкивающий",
+				"fr": "Repoussant"
 			},
 			"description": {
 				"en": "If a creature would attack a card bearing this sigil, it does not.",
@@ -3973,8 +3973,8 @@
 		"Ruby Heart_i18n": {
 			"name": {
 				"en": "Ruby Heart",
-				"ru": "",
-				"fr": ""
+				"ru": "Рубиновое сердце",
+				"fr": "Cœur de rubis"
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, a ruby mox is created in its place.",
@@ -3986,8 +3986,8 @@
 		"Scavenger_i18n": {
 			"name": {
 				"en": "Scavenger",
-				"ru": "",
-				"fr": ""
+				"ru": "Мусорщик",
+				"fr": "Charognard"
 			},
 			"description": {
 				"en": "While a card bearing this sigil is alive on the board, opposing creatures also grant you Bones upon death.",
@@ -3999,8 +3999,8 @@
 		"Sentry_i18n": {
 			"name": {
 				"en": "Sentry",
-				"ru": "",
-				"fr": ""
+				"ru": "Часовой",
+				"fr": "Sentinelle"
 			},
 			"description": {
 				"en": "When a creature moves into the space opposing a card bearing this sigil, they are dealt 1 damage.",
@@ -4012,8 +4012,8 @@
 		"Sharp Quills_i18n": {
 			"name": {
 				"en": "Sharp Quills",
-				"ru": "",
-				"fr": ""
+				"ru": "Острые иглы",
+				"fr": "Plumes acérées"
 			},
 			"description": {
 				"en": "Once a card bearing this sigil is struck, the striker is then dealt a single damage point.",
@@ -4025,8 +4025,8 @@
 		"Shield Latch_i18n": {
 			"name": {
 				"en": "Shield Latch",
-				"ru": "",
-				"fr": ""
+				"ru": "Защелка щита",
+				"fr": "Loquet de bouclier"
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Armored sigil.",
@@ -4038,21 +4038,21 @@
 		"Side Hustle_i18n": {
 			"name": {
 				"en": "Side Hustle",
-				"ru": "",
-				"fr": ""
+				"ru": "Боковая суета",
+				"fr": "Activité secondaire"
 			},
 			"description": {
 				"en": "When a card bearing this sigil deals damage directly, draw a card from your side deck for each damage dealt.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом наносит прямой урон, вытяните карту из дополнительной(боковой) колоды за каждый нанесенный урон.",
+				"fr": "Lorsqu'une carte portant ce sceau inflige des dégâts directement, piochez une carte de votre deck pour chaque dégât infligé."
 			}
 		},
     	"Skeleton Crew": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a skeleton in its old space.",
 		"Skeleton Crew_i18n": {
 			"name": {
 				"en": "Skeleton Crew",
-				"ru": "",
-				"fr": ""
+				"ru": "Команда скелетов",
+				"fr": "Équipage squelette"
 			},
 			"description": {
 				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a skeleton in its old space.",
@@ -4064,8 +4064,8 @@
 		"Skeleton Crew (Yarr)_i18n": {
 			"name": {
 				"en": "Skeleton Crew (Yarr)",
-				"ru": "",
-				"fr": ""
+				"ru": "Команда скелетов (Yarr)",
+				"fr": "Équipage squelette (Yarr)"
 			},
 			"description": {
 				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a pirate skeleton in its old space.",
@@ -4077,8 +4077,8 @@
 		"Sniper_i18n": {
 			"name": {
 				"en": "Sniper",
-				"ru": "",
-				"fr": ""
+				"ru": "Снайпер",
+				"fr": "Tireur isolé"
 			},
 			"description": {
 				"en": "You may choose which opposing card a card bearing this sigil strikes.",
@@ -4090,21 +4090,21 @@
 		"Spawn Conduit_i18n": {
 			"name": {
 				"en": "Spawn Conduit",
-				"ru": "",
-				"fr": ""
+				"ru": "Канал возрождения",
+				"fr": "Conduit d'apparition"
 			},
 			"description": {
 				"en": "Empty spaces within a circuit completed by a card bearing this sigil spawn L33pB0ts at the end of the owner's turn.",
-				"ru": "",
-				"fr": ""
+				"ru": "Пустые места в цепи, заполненной картой с этим символом, порождают ЛипкийБ0т'ов в конце хода владельца.",
+				"fr": "Les espaces vides dans un circuit complété par une carte portant ce sceau engendrent des L33pB0ts à la fin du tour du propriétaire."
 			}
 		},
     	"Sprinter": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil.",
 		"Sprinter_i18n": {
 			"name": {
 				"en": "Sprinter",
-				"ru": "",
-				"fr": ""
+				"ru": "Спринтер",
+				"fr": "Sprinter"
 			},
 			"description": {
 				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil.",
@@ -4116,8 +4116,8 @@
 		"Squirrel Shedder_i18n": {
 			"name": {
 				"en": "Squirrel Shedder",
-				"ru": "",
-				"fr": ""
+				"ru": "Линяющая белка",
+				"fr": "Écureuil muant"
 			},
 			"description": {
 				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a squirrel in their old space.",
@@ -4129,8 +4129,8 @@
 		"Steel Trap_i18n": {
 			"name": {
 				"en": "Steel Trap",
-				"ru": "",
-				"fr": ""
+				"ru": "Стальная ловушка",
+				"fr": "Piège en acier"
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, the creature opposing it perishes as well. A Pelt is created in your oppenent's hand.",
@@ -4142,8 +4142,8 @@
 		"Stinky_i18n": {
 			"name": {
 				"en": "Stinky",
-				"ru": "",
-				"fr": ""
+				"ru": "Вонючий",
+				"fr": "Puant"
 			},
 			"description": {
 			"en": "The creature opposing a card bearing this sigil loses 1 Power.",
@@ -4155,8 +4155,8 @@
 		"Stimulate_i18n": {
 			"name": {
 				"en": "Stimulate",
-				"ru": "",
-				"fr": ""
+				"ru": "Стимулировать",
+				"fr": "Stimuler"
 			},
 			"description": {
 				"en": "Pay 3 energy to increase the power and health of a card bearing this sigil by 1.",
@@ -4168,8 +4168,8 @@
 		"Stimulate (4)_i18n": {
 			"name": {
 				"en": "Stimulate (4)",
-				"ru": "",
-				"fr": ""
+				"ru": "Стимулировать (4)",
+				"fr": "Stimuler (4)"
 			},
 			"description": {
 				"en": "Pay 4 energy to increase the power and health of a card bearing this sigil by 1.",
@@ -4181,8 +4181,8 @@
 		"Stitched_i18n": {
 			"name": {
 				"en": "Stitched",
-				"ru": "",
-				"fr": ""
+				"ru": "Сшитый",
+				"fr": "Cousu"
 			},
 			"description": {
 				"en": "Whenever a card bearing the Acupuncture sigil is damaged, this card recieves that damage, and the Acupuncture card recieves 1 damage instead.",
@@ -4194,8 +4194,8 @@
 		"Tentacle_i18n": {
 			"name": {
 				"en": "Tentacle",
-				"ru": "",
-				"fr": ""
+				"ru": "Щупальце",
+				"fr": "Tentacule"
 			},
 			"description": {
 				"en": "Includes effect of Waterborne. In addition, a card bearing this sigil will transform into a random tentacle at the start of each turn.",
@@ -4207,8 +4207,8 @@
 		"Thick_i18n": {
 			"name": {
 				"en": "Thick",
-				"ru": "",
-				"fr": ""
+				"ru": "Толстый",
+				"fr": "Épais"
 			},
 			"description": {
 				"en": "A card bearing this sigil is juicy, and takes up 2 spaces.",
@@ -4220,8 +4220,8 @@
 		"Touch of Death_i18n": {
 			"name": {
 				"en": "Touch of Death",
-				"ru": "",
-				"fr": ""
+				"ru": "Прикосновение смерти",
+				"fr": "Toucher de la mort"
 			},
 			"description": {
 				"en": "When a card bearing this sigil damages another creature, that creature perishes.",
@@ -4233,8 +4233,8 @@
 		"Transformer_i18n": {
 			"name": {
 				"en": "Transformer",
-				"ru": "",
-				"fr": ""
+				"ru": "Трансформер",
+				"fr": "Transformateur"
 			},
 			"description": {
 				"en": "At the beginning of your turn a card bearing this sigil will transform to, or from, Beast mode.",
@@ -4246,8 +4246,8 @@
 		"Trifurcated Strike_i18n": {
 			"name": {
 				"en": "Trifurcated Strike",
-				"ru": "",
-				"fr": ""
+				"ru": "Трехсторонний удар",
+				"fr": "Frappe trifurquée"
 			},
 			"description": {
 				"en": "A card bearing this sigil will strike each opposing space to the left, right, and center of it.",
@@ -4259,8 +4259,8 @@
 		"True Scholar_i18n": {
 			"name": {
 				"en": "True Scholar",
-				"ru": "",
-				"fr": ""
+				"ru": "Истинный ученый",
+				"fr": "Véritable érudit"
 			},
 			"description": {
 				"en": "If you have a blue gem, sacrifice a card bearing this sigil to draw 3 cards.",
@@ -4272,8 +4272,8 @@
 		"Unkillable_i18n": {
 			"name": {
 				"en": "Unkillable",
-				"ru": "",
-				"fr": ""
+				"ru": "Неубиваемый",
+				"fr": "Invincible"
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, a copy of it is created in your hand.",
@@ -4285,8 +4285,8 @@
 		"Unkillable (Eternal)_i18n": {
 			"name": {
 				"en": "Unkillable (Eternal)",
-				"ru": "",
-				"fr": ""
+				"ru": "Неубиваемый (Вечный)",
+				"fr": "Indestructible (Éternel)"
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, a copy of it is created in your hand without this sigil.",
@@ -4298,21 +4298,21 @@
 		"Vessel Printer_i18n": {
 			"name": {
 				"en": "Vessel Printer",
-				"ru": "",
-				"fr": ""
+				"ru": "Принтер сосудов",
+				"fr": "Imprimante de navire"
 			},
 			"description": {
 				"en": "Once a card bearing this sigil is struck, draw a card from your side deck.",
-				"ru": "",
-				"fr": ""
+				"ru": "Как только карта с этим символом будет выбита, вытяните карту из вашей дополнительной(боковой) колоды.",
+				"fr": "Une fois qu'une carte portant ce sceau est frappée, piochez une carte de votre deck."
 			}
 		},
     	"Warded": "A card bearing this sigil takes only 1 damage from attacks and card effects.",
 		"Warded_i18n": {
 			"name": {
 				"en": "Warded",
-				"ru": "",
-				"fr": ""
+				"ru": "Защищенный",
+				"fr": "Gardé"
 			},
 			"description": {
 				"en": "A card bearing this sigil takes only 1 damage from attacks and card effects.",
@@ -4324,8 +4324,8 @@
 		"Waterborne_i18n": {
 			"name": {
 				"en": "Waterborne",
-				"ru": "",
-				"fr": ""
+				"ru": "Водный",
+				"fr": "À base d'eau"
 			},
 			"description": {
 				"en": "A card bearing this sigil submerges itself during its opponent's turn. while submerged, opposing creatures attack its owner directly.",
@@ -4337,8 +4337,8 @@
 		"Worthy Sacrifice_i18n": {
 			"name": {
 				"en": "Worthy Sacrifice",
-				"ru": "",
-				"fr": ""
+				"ru": "Достойная жертва",
+				"fr": "Sacrifice digne"
 			},
 			"description": {
 				"en": "A card bearing this sigil is counted as 3 blood rather than 1 blood when sacrificed.",
