@@ -13,6 +13,11 @@
   "ant_limit": 9,
   "portrait": "portraits/Cat",
   "description": "Vanilla act 2 gameplay.\n4 of each common in deck,\n1 of each rare",
+  "description_i18n": {
+	"en": "Vanilla act 2 gameplay.\n4 of each common in deck,\n1 of each rare",
+	"ru": "Геймплей акта 2 из Оригинальной игры.\nПо 4 штуки из каждой обычной колоды\nи по 1 штуке из редкой",
+	"fr": "Gameplay de l'acte 2 de Vanilla.\n4 cartes communes dans le deck,\n1 carte rare"
+  },
   "cards": [
     {
       "name": "Starvation",

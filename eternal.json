@@ -12,6 +12,11 @@
     "enable_backrow": false,
 	"portrait": "portraits/Ouroboros",
 	"description": "New format by EternalHours\nHas 3 candles and no custom cards (yet)\n3 of each common in main deck\n5 of each in side",
+	"description_i18n": {
+		"en": "New format by EternalHours\nHas 3 candles and no custom cards (yet)\n3 of each common in main deck\n5 of each in side",
+		"ru": "Новый формат от EternalHours\nВключает 3 свечи и пока без пользовательских карт\nПо 3 карты каждой обычной карты в основной колоде\nПо 5 карт каждой карты в дополнительной(боковой) колоде",
+		"fr": "Nouveau format par EternalHours\nComprend 3 bougies et aucune carte personnalisée (pour l'instant)\n3 cartes de chaque commune dans le deck principal\n5 cartes de chaque côté"
+	},
 	"cards": [
 		{
 			"name": "Starvation",
