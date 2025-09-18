@@ -45,5 +45,10 @@
             "portrait": "pixport/Raven Egg"
         }
     ],
-    "jake": "IMF Standard v0.43 is required for v0.3.9999!\nOtherwise tentacles don't work"
+    "jake": "IMF Standard v0.43 is required for v0.3.9999!\nOtherwise tentacles don't work",
+	"jake_i18n": {
+		"en": "IMF Standard v0.43 is required for v0.3.9999!\nOtherwise tentacles don't work",
+		"ru": "IMF Standard v0.43 требуется для v0.3.9999!\nИначе Щупальца не работают",
+		"fr": "IMF Standard v0.43 est requis pour la version v0.3.9999!\nSinon, les tentacules ne fonctionnent pas."
+	}
 }
