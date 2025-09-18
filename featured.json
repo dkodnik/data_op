@@ -3,24 +3,44 @@
         {
             "name": "IMF Standard v0.43",
             "description": "Opinionated balance by the dev\nThe original ruleset for this game.\nIncludes custom cards",
+			"description_i18n": {
+				"en": "Opinionated balance by the dev\nThe original ruleset for this game.\nIncludes custom cards",
+				"ru": "Баланс, продуманный разработчиками.\nОригинальные правила для этой игры.\nВключает пользовательские карты.",
+				"fr": "Équilibrage opiniâtre par le développeur\nRègles originales de ce jeu.\nInclut des cartes personnalisées."
+			},
             "url": "https://raw.githubusercontent.com/dkodnik/data_op/main/standard.json",
             "portrait": "portraits/Stoat"
         },
         {
             "name": "IMF Eternal",
             "description": "New format by EternalHours\nHas 3 candles and no custom cards (yet)\n3 of each common in main deck\n5 of each in side",
+			"description_i18n": {
+				"en": "New format by EternalHours\nHas 3 candles and no custom cards (yet)\n3 of each common in main deck\n5 of each in side",
+				"ru": "Новый формат от EternalHours\nВключает 3 свечи и пока без пользовательских карт\nПо 3 карты каждой обычной карты в основной колоде\nПо 5 карт каждой карты в дополнительной(боковой) колоде",
+				"fr": "Nouveau format par EternalHours\nComprend 3 bougies et aucune carte personnalisée (pour l'instant)\n3 cartes de chaque commune dans le deck principal\n5 cartes de chaque côté"
+			},
             "url": "https://raw.githubusercontent.com/dkodnik/data_op/main/other/EternalFormat/IMF_Eternal.json",
             "portrait": "portraits/Ouroboros"
         },
         {
             "name": "IMF Vanilla v0.8",
             "description": "Vanilla act 2 gameplay.\n4 of each common in deck,\n1 of each rare",
+			"description_i18n": {
+				"en": "Vanilla act 2 gameplay.\n4 of each common in deck,\n1 of each rare",
+				"ru": "Геймплей акта 2 из Оригинальной игры.\nПо 4 штуки из каждой обычной колоды\nи по 1 штуке из редкой",
+				"fr": "Gameplay de l'acte 2 de Vanilla.\n4 cartes communes dans le deck,\n1 carte rare"
+			},
             "url": "https://raw.githubusercontent.com/dkodnik/data_op/main/vanilla.json",
             "portrait": "portraits/Cat"
         },
         {
             "name": "Mr.Egg's Goofy",
             "description": "Balanced by Mr.Egg and every whim he has",
+			"description_i18n": {
+				"en": "Balanced by Mr.Egg and every whim he has",
+				"ru": "Сбалансированный мистером Эггом и всеми его прихотями",
+				"fr": "Équilibré par M. Egg et tous ses caprices"
+			},
             "url": "https://raw.githubusercontent.com/dkodnik/data_op/main/other/Mr.Egg-s-Goofy/Mr.Egg's%20Goofy.json",
             "portrait": "pixport/Raven Egg"
         }
