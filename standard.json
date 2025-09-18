@@ -3081,8 +3081,8 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil assimilates the owner's other creatures, gaining their health, power and sigils.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом поглощает других существ владельца, получая их здоровье, силу и символы.",
+				"fr": "Une carte portant ce sceau assimile les autres créatures du propriétaire, gagnant leur santé, leur puissance et leurs sceaux."
 			}
 		},
     	"Annoying": "The creature opposing a card bearing this sigil gains 1 Power.",
@@ -3094,8 +3094,8 @@
 			},
 			"description": {
 				"en": "The creature opposing a card bearing this sigil gains 1 Power.",
-				"ru": "",
-				"fr": ""
+				"ru": "Существо, противостоящее карте с этим символом, получает 1 Силу.",
+				"fr": "La créature opposée à une carte portant ce sceau gagne 1 Puissance."
 			}
 		},
     	"Ant Spawner": "When a card bearing this sigil is played, an ant is created in your hand.",
@@ -3107,8 +3107,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, an ant is created in your hand.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда разыгрывается карта с этим символом, в вашей руке появляется муравей.",
+				"fr": "Lorsqu'une carte portant ce sceau est jouée, une fourmi est créée dans votre main."
 			}
 		},
     	"Armored": "The first time a card bearing this sigil would take damage, prevent that damage.",
@@ -3120,8 +3120,8 @@
 			},
 			"description": {
 				"en": "The first time a card bearing this sigil would take damage, prevent that damage.",
-				"ru": "",
-				"fr": ""
+				"ru": "В первый раз, когда карта с этим символом получит урон, предотвратите этот урон.",
+				"fr": "La première fois qu'une carte portant ce sceau subit des dégâts, prévenez ces dégâts."
 			}
 		},
     	"Attack Conduit": "Other creatures within a circuit completed by a card bearing this sigil gain 1 power.",
@@ -3133,8 +3133,8 @@
 			},
 			"description": {
 				"en": "Other creatures within a circuit completed by a card bearing this sigil gain 1 power.",
-				"ru": "",
-				"fr": ""
+				"ru": "Другие существа в цепи, завершенной картой с этим символом, получают 1 единицу силы.",
+				"fr": "Les autres créatures à l'intérieur d'un circuit complété par une carte portant ce sceau gagnent 1 pouvoir."
 			}
 		},
     	"Battery Bearer": "When a card bearing this sigil is played, it provides an energy cell to its owner.",
@@ -3146,8 +3146,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, it provides an energy cell to its owner.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда разыгрывается карта с этим символом, она дает своему владельцу энергетический заряд.",
+				"fr": "Lorsqu'une carte portant ce sceau est jouée, elle fournit une cellule d'énergie à son propriétaire."
 			}
 		},
 		"Bees Within": "Once a card bearing this sigil is struck, a Bee is created in your hand.",
@@ -3159,21 +3159,21 @@
 			},
 			"description": {
 				"en": "Once a card bearing this sigil is struck, a Bee is created in your hand.",
-				"ru": "",
-				"fr": ""
+				"ru": "Как только вы ударите карту с этим символом, в вашей руке появится Пчела.",
+				"fr": "Une fois qu'une carte portant ce sceau est frappée, une abeille est créée dans votre main."
 			}
 		},
     	"Bellist": "When a card bearing this sigil is played, a Chime is created on each empty adjacent space. A card bearing this sigil will perform a retaliatory attack against any card striking a Chime.",
 		"Bellist_i18n": {
 			"name": {
 				"en": "Bellist",
-				"ru": "Воинственный",
+				"ru": "Колоколистый",
 				"fr": "Belliste"
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, a Chime is created on each empty adjacent space. A card bearing this sigil will perform a retaliatory attack against any card striking a Chime.",
-				"ru": "",
-				"fr": ""
+				"ru": "При розыгрыше карты с этим символом на каждой пустой соседней клетке создаётся Колокольчик. Карта с этим символом проведёт ответную атаку против любой карты, ударившей Колокольчик.",
+				"fr": "Lorsqu'une carte portant ce symbole est jouée, un Carillon est créé sur chaque case adjacente vide. Une carte portant ce symbole effectuera une attaque de représailles contre toute carte frappant un Carillon."
 			}
 		},
     	"Bifurcated Strike": "A card bearing this sigil will strike each opposing space to the left and right of the space across from it.",
@@ -3185,8 +3185,8 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil will strike each opposing space to the left and right of the space across from it.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта, на которой нанесен этот символ, ударит по каждой противоположной ячейке слева и справа от ячейки напротив нее.",
+				"fr": "Une carte portant ce sceau frappera chaque espace opposé à gauche et à droite de l'espace en face d'elle."
 			}
 		},
     	"Blood Lust": "When a card bearing this Sigil attacks an opposing creature and it perishes, this card gains 1 power.",
@@ -3198,8 +3198,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this Sigil attacks an opposing creature and it perishes, this card gains 1 power.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом атакует существо противника и оно погибает, эта карта получает 1 единицу силы.",
+				"fr": "Lorsqu'une carte portant ce Sceau attaque une créature adverse et qu'elle périt, cette carte gagne 1 force."
 			}
 		},
     	"Blue Mox": "While a card bearing this sigil is on the board, it provides a blue gem to its owner.",
@@ -3211,8 +3211,8 @@
 			},
 			"description": {
 				"en": "While a card bearing this sigil is on the board, it provides a blue gem to its owner.",
-				"ru": "",
-				"fr": ""
+				"ru": "Пока карта с этим символом находится на игровом поле, она приносит своему владельцу синий драгоценный камень.",
+				"fr": "Lorsqu'une carte portant ce sceau est sur le plateau, elle fournit une gemme bleue à son propriétaire."
 			}
 		},
     	"Bomb Latch": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Detonator sigil.",
@@ -3224,8 +3224,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Detonator sigil.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом погибает, ее владелец выбирает существо, которое получит символ Детонатора.",
+				"fr": "Lorsqu'une carte portant ce sceau périt, son propriétaire choisit une créature pour gagner le sceau du Détonateur."
 			}
 		},
     	"Bomb Spewer": "When a card bearing this sigil is played, fill all empty spaces with explode bots.",
@@ -3250,8 +3250,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, fill every empty space opposing a card with an explode bot.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда разыгрывается карта с этим символом, заполните все пустые места напротив карты взрывающимся ботом.",
+				"fr": "Lorsqu'une carte portant ce sceau est jouée, remplissez chaque espace vide opposé à une carte avec un robot explosif."
 			}
 		},
     	"Bone Digger": "At the end of the owner's turn, a card bearing this sigil will generate 1 bone.",
@@ -3263,8 +3263,8 @@
 			},
 			"description": {
 				"en": "At the end of the owner's turn, a card bearing this sigil will generate 1 bone.",
-				"ru": "",
-				"fr": ""
+				"ru": "В конце хода владельца карта с этим символом создаст 1 кость.",
+				"fr": "À la fin du tour du propriétaire, une carte portant ce sceau générera 1 os."
 			}
 		},
     	"Bone King": "When a card bearing this sigil dies, 4 bones are awarded instead of 1.",
@@ -3276,8 +3276,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil dies, 4 bones are awarded instead of 1.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом умирает, вместо 1 кости выдаются 4.",
+				"fr": "Lorsqu'une carte portant ce sceau meurt, 4 os sont attribués au lieu de 1."
 			}
 		},
     	"Bonehorn": "Pay 1 energy to gain 3 bones.",
@@ -3289,8 +3289,8 @@
 			},
 			"description": {
 				"en": "Pay 1 energy to gain 3 bones.",
-				"ru": "",
-				"fr": ""
+				"ru": "Заплатите 1 энергию, чтобы получить 3 кости.",
+				"fr": "Payez 1 énergie pour gagner 3 os."
 			}
 		},
     	"Bonehorn (1)": "Pay 1 energy to gain 1 bone.",
@@ -3302,8 +3302,8 @@
 			},
 			"description": {
 				"en": "Pay 1 energy to gain 1 bone.",
-				"ru": "",
-				"fr": ""
+				"ru": "Заплатите 1 энергию, чтобы получить 1 кость.",
+				"fr": "Payez 1 énergie pour gagner 1 os."
 			}
 		},
     	"Boneless": "When a card bearing this sigil dies, no bones are awarded.",
@@ -3315,8 +3315,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil dies, no bones are awarded.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом умирает, кости не начисляются.",
+				"fr": "Lorsqu'une carte portant ce sceau meurt, aucun os n'est attribué."
 			}
 		},
     	"Brittle": "After attacking, a card bearing this sigil perishes.",
@@ -3328,8 +3328,8 @@
 			},
 			"description": {
 				"en": "After attacking, a card bearing this sigil perishes.",
-				"ru": "",
-				"fr": ""
+				"ru": "После атаки карта с этим символом погибает.",
+				"fr": "Après avoir attaqué, une carte portant ce sceau périt."
 			}
 		},
     	"Brittle Latch": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Brittle sigil.",
@@ -3341,8 +3341,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Brittle sigil.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом погибает, ее владелец выбирает существо, которое получит символ Хрупкости.",
+				"fr": "Lorsqu'une carte portant ce sceau périt, son propriétaire choisit une créature pour gagner le sceau Fragile."
 			}
 		},
     	"Burrower": "When an empty space would be struck, a card bearing this sigil will move to that space to receive the strike instead.",
@@ -3354,8 +3354,8 @@
 			},
 			"description": {
 				"en": "When an empty space would be struck, a card bearing this sigil will move to that space to receive the strike instead.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда удар наносится по пустому месту, карта с этим символом перемещается на это место, чтобы получить удар.",
+				"fr": "Lorsqu'un espace vide doit être frappé, une carte portant ce sceau se déplacera vers cet espace pour recevoir le coup à la place."
 			}
 		},
     	"Corpse Eater": "If a creature that you own perishes by combat, a card bearing this sigil in your hand is automatically played in its place.",
@@ -3367,8 +3367,8 @@
 			},
 			"description": {
 				"en": "If a creature that you own perishes by combat, a card bearing this sigil in your hand is automatically played in its place.",
-				"ru": "",
-				"fr": ""
+				"ru": "Если ваше существо погибает в бою, карта с этим символом из вашей руки автоматически разыгрывается вместо него.",
+				"fr": "Si une créature que vous possédez périt au combat, une carte portant ce sceau dans votre main est automatiquement jouée à sa place."
 			}
 		},
     	"Dam Builder": "When a card bearing this sigil is played, a Dam is created on each empty adjacent space.",
@@ -3380,8 +3380,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, a Dam is created on each empty adjacent space.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда разыгрывается карта с этим символом, на каждой пустой соседней клетке создается Плотина.",
+				"fr": "Lorsqu'une carte portant ce sceau est jouée, un barrage est créé sur chaque espace adjacent vide."
 			}
 		},
     	"Depleting": "When a card bearing this sigil is played, 2 energy cells are removed from its owner",
@@ -3393,8 +3393,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, 2 energy cells are removed from its owner",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда разыгрывается карта с этим символом, у ее владельца забираются 2 энергетических элемента",
+				"fr": "Lorsqu'une carte portant ce sceau est jouée, 2 cellules énergétiques sont retirées de son propriétaire"
 			}
 		},
     	"Detonator": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 10 damage.",
@@ -3406,8 +3406,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 10 damage.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом умирает, противостоящее ей существо, а также соседние дружественные существа получают 10 единиц урона.",
+				"fr": "Lorsqu'une carte portant ce sceau meurt, la créature qui lui est opposée, ainsi que les créatures amies adjacentes, subissent 10 blessures."
 			}
 		},
     	"Detonator (5)": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 5 damage.",
@@ -3419,8 +3419,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil dies, the creature opposing it, as well as adjacent friendly creatures, are dealt 5 damage.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом умирает, противостоящее ей существо, а также соседние дружественные существа получают 5 единиц урона.",
+				"fr": "Lorsqu'une carte portant ce sceau meurt, la créature qui lui est opposée, ainsi que les créatures amies adjacentes, subissent 5 blessures."
 			}
 		},
     	"Disentomb": "Pay 1 bone to create a skeleton in your hand.",
@@ -3458,8 +3458,8 @@
 			},
 			"description": {
 				"en": "When another creature you own dies, it is returned to life and dies again immediately.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда другое существо, принадлежащее вам, умирает, оно возвращается к жизни и тут же умирает снова.",
+				"fr": "Lorsqu'une autre créature que vous possédez meurt, elle revient à la vie et meurt à nouveau immédiatement."
 			}
 		},
     	"Double Strike": "A card bearing this Sigil will strike the opposing space an extra time when attacking.",
@@ -3471,8 +3471,8 @@
 			},
 			"description": {
 				"en": "A card bearing this Sigil will strike the opposing space an extra time when attacking.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом при атаке нанесёт удар по пространству противника дополнительно один раз.",
+				"fr": "Une carte portant ce sceau frappera l'espace adverse une fois supplémentaire lors de l'attaque."
 			}
 		},
     	"Energy Conduit": "If a card bearing this sigil is part of a completed circuit, your energy never depletes.",
@@ -3484,8 +3484,8 @@
 			},
 			"description": {
 				"en": "If a card bearing this sigil is part of a completed circuit, your energy never depletes.",
-				"ru": "",
-				"fr": ""
+				"ru": "Если карта с этим символом является частью замкнутой цепи, ваша энергия никогда не исчерпается.",
+				"fr": "Si une carte portant ce sceau fait partie d'un circuit terminé, votre énergie ne s'épuise jamais."
 			}
 		},
     	"Energy Conduit (+3)": "If a card bearing this sigil is part of a completed circuit, your maximum energy increases by 3.",
@@ -3497,8 +3497,8 @@
 			},
 			"description": {
 				"en": "If a card bearing this sigil is part of a completed circuit, your maximum energy increases by 3.",
-				"ru": "",
-				"fr": ""
+				"ru": "Если карта с этим символом является частью замкнутой цепи, ваша максимальная энергия увеличивается на 3.",
+				"fr": "Si une carte portant ce sceau fait partie d'un circuit terminé, votre énergie maximale augmente de 3."
 			}
 		},
     	"Energy Gun": "Pay 1 energy to deal 1 damage to the creature across from a card bearing this sigil.",
@@ -3510,8 +3510,8 @@
 			},
 			"description": {
 				"en": "Pay 1 energy to deal 1 damage to the creature across from a card bearing this sigil.",
-				"ru": "",
-				"fr": ""
+				"ru": "Заплатите 1 единицу энергии, чтобы нанести 1 урон существу напротив карты с этим символом.",
+				"fr": "Payez 1 énergie pour infliger 1 blessure à la créature en face d'une carte portant ce sceau."
 			}
 		},
     	"Energy Sniper": "Pay 1 energy, this card's owner chooses an opposing creature to take 1 damage.",
@@ -3523,8 +3523,8 @@
 			},
 			"description": {
 				"en": "Pay 1 energy, this card's owner chooses an opposing creature to take 1 damage.",
-				"ru": "",
-				"fr": ""
+				"ru": "Заплатив 1 энергию, владелец этой карты выбирает существо противника, которое получит 1 урон.",
+				"fr": "Payez 1 énergie, le propriétaire de cette carte choisit une créature adverse pour subir 1 blessure."
 			}
 		},
     	"Energy Gun (Eternal)": "Pay energy to damage the opposing creature until it dies or you run out.",
@@ -3536,8 +3536,8 @@
 			},
 			"description": {
 				"en": "Pay energy to damage the opposing creature until it dies or you run out.",
-				"ru": "",
-				"fr": ""
+				"ru": "Тратьте энергию, чтобы наносить урон существу противника, пока оно не умрет или у вас не закончится энергия",
+				"fr": "Payez de l'énergie pour endommager la créature adverse jusqu'à ce qu'elle meure ou que vous en manquiez."
 			}
 		},
     	"Enlarge": "Pay 2 bones to increase the power and health of a card bearing this sigil by 1.",
@@ -3549,8 +3549,8 @@
 			},
 			"description": {
 				"en": "Pay 2 bones to increase the power and health of a card bearing this sigil by 1.",
-				"ru": "",
-				"fr": ""
+				"ru": "Заплатите 2 кости, чтобы увеличить силу и здоровье карты с этим символом на 1.",
+				"fr": "Payez 2 os pour augmenter la puissance et la santé d'une carte portant ce sceau de 1."
 			}
 		},
     	"Enlarge (3)": "Pay 3 bones to increase the power and health of a card bearing this sigil by 1.",
@@ -3562,8 +3562,8 @@
 			},
 			"description": {
 				"en": "Pay 3 bones to increase the power and health of a card bearing this sigil by 1.",
-				"ru": "",
-				"fr": ""
+				"ru": "Заплатите 3 кости, чтобы увеличить силу и здоровье карты с этим символом на 1.",
+				"fr": "Payez 3 os pour augmenter la puissance et la santé d'une carte portant ce sceau de 1."
 			}
 		},
     	"Fecundity": "When a card bearing this sigil is played, a copy of it is created in your hand.",
@@ -3575,8 +3575,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, a copy of it is created in your hand.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда разыгрывается карта с этим символом, в вашей руке создается ее копия.",
+				"fr": "Lorsqu'une carte portant ce sceau est jouée, une copie de celle-ci est créée dans votre main."
 			}
 		},
     	"Fecundity (Kaycee)": "When a card bearing this sigil is played, a copy of it is created in your hand without this sigil.",
@@ -3588,8 +3588,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, a copy of it is created in your hand without this sigil.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда разыгрывается карта с этим символом, в вашей руке создается ее копия без этого символа.",
+				"fr": "Lorsqu'une carte portant ce sceau est jouée, une copie de celle-ci est créée dans votre main sans ce sceau."
 			}
 		},
     	"Fledgling": "A card bearing this sigil will grow into a more powerful form after 1 turn on the board.",
@@ -3601,8 +3601,8 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil will grow into a more powerful form after 1 turn on the board.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом приобретет более мощную форму после 1 хода на игровом поле.",
+				"fr": "Une carte portant ce sceau prendra une forme plus puissante après 1 tour sur le plateau."
 			}
 		},
     	"Fledgling 2": "A card bearing this sigil will grow into a more powerful form after 2 turns on the board.",
@@ -3614,8 +3614,8 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil will grow into a more powerful form after 2 turns on the board.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом приобретет более мощную форму через 2 хода на игровом поле.",
+				"fr": "Une carte portant ce sceau prendra une forme plus puissante après 2 tours sur le plateau."
 			}
 		},
     	"Frozen Away": "When a card bearing this sigil perishes, the creature inside is released in its place.",
@@ -3627,8 +3627,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, the creature inside is released in its place.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом погибает, на ее место освобождается существо, находящееся внутри.",
+				"fr": "Lorsqu'une carte portant ce sceau périt, la créature à l'intérieur est libérée à sa place."
 			}
 		},
     	"Gem Animator": "Mox cards on the owner's side of the board gain 1 power.",
@@ -3640,8 +3640,8 @@
 			},
 			"description": {
 				"en": "Mox cards on the owner's side of the board gain 1 power.",
-				"ru": "",
-				"fr": ""
+				"ru": "Мокс-карты на стороне владельца поля получают 1 единицу силы.",
+				"fr": "Les cartes Mox du côté du propriétaire du plateau gagnent 1 pouvoir."
 			}
 		},
     	"Gem Dependant": "If a card bearing this sigil's owner controls no mox cards, a card bearing this sigil perishes.",
@@ -3666,8 +3666,8 @@
 			},
 			"description": {
 				"en": "When Mox cards on the owner's side of the board die, they Detonate (the creature opposing them, as well as adjacent friendly creatures, are dealt 5 damage).",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карты Мокс на стороне владельца умирают, они взрываются (существо, противостоящее им, а также соседние дружественные существа получают 5 единиц урона).",
+				"fr": "Lorsque les cartes Mox du côté du propriétaire du plateau meurent, elles explosent (la créature qui leur est opposée, ainsi que les créatures amies adjacentes, subissent 5 dégâts)."
 			}
 		},
     	"Gem Guardian": "When a card bearing this sigil is played, all Moxa cards on the owners' side of the board gain Nano Armor.",
@@ -3679,8 +3679,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, all Moxa cards on the owners' side of the board gain Nano Armor.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда разыгрывается карта с этим символом, все карты Мокс, на стороне владельца игрового поля, получают Наноброню.",
+				"fr": "Lorsqu'une carte portant ce sceau est jouée, toutes les cartes Moxa du côté du plateau de leurs propriétaires gagnent Nano Armor."
 			}
 		},
     	"Great Mox": "While a card bearing this sigil is on the board, it provides a green, orange, and blue gem to its owner.",
@@ -3692,8 +3692,8 @@
 			},
 			"description": {
 				"en": "While a card bearing this sigil is on the board, it provides a green, orange, and blue gem to its owner.",
-				"ru": "",
-				"fr": ""
+				"ru": "Пока карта с этим символом находится на игровом поле, она приносит своему владельцу зеленый, оранжевый и синий драгоценные камни.",
+				"fr": "Lorsqu'une carte portant ce sceau est sur le plateau, elle fournit une gemme verte, orange et bleue à son propriétaire."
 			}
 		},
     	"Green Mox": "While a card bearing this sigil is on the board, it provides a green gem to its owner.",
@@ -3705,8 +3705,8 @@
 			},
 			"description": {
 				"en": "While a card bearing this sigil is on the board, it provides a green gem to its owner.",
-				"ru": "",
-				"fr": ""
+				"ru": "Пока карта с этим символом находится на игровом поле, она приносит своему владельцу зеленый драгоценный камень.",
+				"fr": "Lorsqu'une carte portant ce sceau est sur le plateau, elle fournit une gemme verte à son propriétaire."
 			}
 		},
     	"Guardian": "When an opposing creature is placed opposite to an empty space, a card bearing this sigil will move to that empty space.",
@@ -3718,8 +3718,8 @@
 			},
 			"description": {
 				"en": "When an opposing creature is placed opposite to an empty space, a card bearing this sigil will move to that empty space.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда существо противника помещается напротив пустого места, карта с этим символом перемещается на это пустое место.",
+				"fr": "Lorsqu'une créature adverse est placée en face d'un espace vide, une carte portant ce sceau se déplacera vers cet espace vide."
 			}
 		},
     	"Handy": "When a card bearing this sigil is played, discard your hand then draw a new hand of 4 cards.",
@@ -3731,8 +3731,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, discard your hand then draw a new hand of 4 cards.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда разыгрывается карта с этим символом, сбросьте свою руку и возьмите новую руку из 4 карт.",
+				"fr": "Lorsqu'une carte portant ce sceau est jouée, défaussez votre main puis piochez une nouvelle main de 4 cartes."
 			}
 		},
     	"Hefty": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. creatures in the way will be pushed in the same direction.",
@@ -3744,8 +3744,8 @@
 			},
 			"description": {
 				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil. creatures in the way will be pushed in the same direction.",
-				"ru": "",
-				"fr": ""
+				"ru": "В конце хода владельца, карта с этим символом переместится в направлении, указанном на символе. Существа на пути будут подтолкнуты в том же направлении.",
+				"fr": "À la fin du tour du propriétaire, une carte portant ce sceau se déplacera dans la direction inscrite dans le sceau. Les créatures sur son chemin seront poussées dans la même direction."
 			}
 		},
     	"Hoarder": "When a card bearing this sigil is played, you may search your deck for any card and take it into your hand.",
@@ -3757,8 +3757,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, you may search your deck for any card and take it into your hand.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда разыгрывается карта с этим символом, вы можете найти в своей колоде любую карту и взять ее в руку.",
+				"fr": "Lorsqu'une carte portant ce sceau est jouée, vous pouvez chercher n'importe quelle carte dans votre deck et la prendre dans votre main."
 			}
 		},
     	"Leader": "Creatures adjacent to a card bearing this sigil gain 1 Power.",
@@ -3770,8 +3770,8 @@
 			},
 			"description": {
 				"en": "Creatures adjacent to a card bearing this sigil gain 1 Power.",
-				"ru": "",
-				"fr": ""
+				"ru": "Существа, находящиеся рядом с картой, на которой изображен этот символ, получают 1 силу.",
+				"fr": "Les créatures adjacentes à une carte portant ce sceau gagnent 1 Puissance."
 			}
 		},
     	"Looter": "When a card bearing this sigil deals damage directly, draw a card for each damage dealt.",
@@ -3783,8 +3783,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil deals damage directly, draw a card for each damage dealt.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом наносит прямой урон, берите карту за каждый нанесенный урон.",
+				"fr": "Lorsqu'une carte portant ce sceau inflige des dégâts directement, piochez une carte pour chaque dégât infligé."
 			}
 		},
     	"Made of Stone": "A card bearing this sigil is immune to the effects of touch of death, stinky, annoying and Steel Trap.",
@@ -3796,8 +3796,8 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil is immune to the effects of touch of death, stinky, annoying and Steel Trap.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом невосприимчива к эффектам прикосновения смерти, вонючки, раздражения и стальной ловушки.",
+				"fr": "Une carte portant ce sceau est immunisée contre les effets de contact mortel, de puanteur, d'agacement et de piège d'acier."
 			}
 		},
     	"Many Lives": "When a card bearing this sigil is sacrificed it does not perish.",
@@ -3809,8 +3809,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil is sacrificed it does not perish.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом приносится в жертву, она не исчезает.",
+				"fr": "Lorsqu'une carte portant ce sceau est sacrifiée, elle ne périt pas."
 			}
 		},
     	"Marrow Sucker": "Pay 2 bones to heal a card bearing this sigil.",
@@ -3822,8 +3822,8 @@
 			},
 			"description": {
 				"en": "Pay 2 bones to heal a card bearing this sigil.",
-				"ru": "",
-				"fr": ""
+				"ru": "Заплатите 2 кости, чтобы исцелить карту с этим символом.",
+				"fr": "Payez 2 os pour soigner une carte portant ce sceau."
 			}
 		},
     	"Mental Gemnastics": "When a card bearing this sigil is played, you draw cards equal to the amount of mox cards on your side of the board.",
@@ -3835,8 +3835,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, you draw cards equal to the amount of mox cards on your side of the board.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда разыгрывается карта с этим символом, вы берете карты, равные количеству мокс-карт на вашей стороне доски.",
+				"fr": "Lorsqu'une carte portant ce sceau est jouée, vous piochez un nombre de cartes égal au nombre de cartes Mox de votre côté du plateau."
 			}
 		},
     	"Mighty Leap": "A card bearing this sigil will block an opposing creature bearing the airborne sigil.",
@@ -3848,8 +3848,8 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil will block an opposing creature bearing the airborne sigil.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом заблокирует существо противника, имеющее воздушный символ.",
+				"fr": "Une carte portant ce sceau bloquera une créature adverse portant le sceau aérien."
 			}
 		},
     	"Music Player": "A card bearing this sigil plays a song of your choice when played",
@@ -3861,8 +3861,8 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil plays a song of your choice when played",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом при игре воспроизводит песню по вашему выбору.",
+				"fr": "Une carte portant ce sceau joue une chanson de votre choix lorsqu'elle est jouée"
 			}
 		},
     	"Noble Sacrifice": "A card bearing this sigil is counted as 2 blood rather than 1 blood when sacrificed.",
@@ -3874,8 +3874,8 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil is counted as 2 blood rather than 1 blood when sacrificed.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом при жертвоприношении считается за 2 крови, а не за 1 кровь.",
+				"fr": "Une carte portant ce sceau est comptée comme 2 sangs plutôt que 1 sang lorsqu'elle est sacrifiée."
 			}
 		},
     	"Orange Mox": "While a card bearing this sigil is on the board, it provides an orange gem to its owner.",
@@ -3887,8 +3887,8 @@
 			},
 			"description": {
 				"en": "While a card bearing this sigil is on the board, it provides an orange gem to its owner.",
-				"ru": "",
-				"fr": ""
+				"ru": "Пока карта с этим символом находится на игровом поле, она приносит своему владельцу оранжевый драгоценный камень.",
+				"fr": "Lorsqu'une carte portant ce sceau est sur le plateau, elle fournit une gemme orange à son propriétaire."
 			}
 		},
     	"Omni Strike": "A card bearing this sigil will strike all opposing spaces.",
@@ -3900,8 +3900,8 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil will strike all opposing spaces.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом нанесёт удар по всем полям противника.",
+				"fr": "Une carte portant ce sceau frappera tous les espaces opposés."
 			}
 		},
     	"Power Dice": "Pay 1 energy to set the power of a card bearing this sigil randomly between 1 and 6.",
@@ -3939,8 +3939,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil is played, a Rabbit is created in your hand.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда разыгрывается карта с этим символом, в вашей руке появляется Кролик.",
+				"fr": "Lorsqu'une carte portant ce sceau est jouée, un lapin est créé dans votre main."
 			}
 		},
     	"Reconstitute": "A card bearing this sigil returns to your hand 2 turns after it persihes.",
@@ -3952,8 +3952,8 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil returns to your hand 2 turns after it persihes.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом возвращается вам в руку через 2 хода после того, как она погибнет.",
+				"fr": "Une carte portant ce sceau revient dans votre main 2 tours après sa disparition."
 			}
 		},
     	"Repulsive": "If a creature would attack a card bearing this sigil, it does not.",
@@ -3965,8 +3965,8 @@
 			},
 			"description": {
 				"en": "If a creature would attack a card bearing this sigil, it does not.",
-				"ru": "",
-				"fr": ""
+				"ru": "Если существо должно атаковать карту с этим символом, оно этого не делает.",
+				"fr": "Si une créature devait attaquer une carte portant ce sceau, elle ne le fait pas."
 			}
 		},
     	"Ruby Heart": "When a card bearing this sigil perishes, a ruby mox is created in its place.",
@@ -3978,8 +3978,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, a ruby mox is created in its place.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом погибает, на ее месте создается рубиновый мокс.",
+				"fr": "Lorsqu'une carte portant ce sceau périt, un rubis mox est créé à sa place."
 			}
 		},
     	"Scavenger": "While a card bearing this sigil is alive on the board, opposing creatures also grant you Bones upon death.",
@@ -3991,8 +3991,8 @@
 			},
 			"description": {
 				"en": "While a card bearing this sigil is alive on the board, opposing creatures also grant you Bones upon death.",
-				"ru": "",
-				"fr": ""
+				"ru": "Пока карта с этим символом жива на игровом поле, вражеские существа также дают вам Кости после смерти.",
+				"fr": "Tant qu'une carte portant ce sceau est vivante sur le plateau, les créatures adverses vous accordent également des os à leur mort."
 			}
 		},
     	"Sentry": "When a creature moves into the space opposing a card bearing this sigil, they are dealt 1 damage.",
@@ -4004,8 +4004,8 @@
 			},
 			"description": {
 				"en": "When a creature moves into the space opposing a card bearing this sigil, they are dealt 1 damage.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда существо перемещается в пространство напротив карты с этим символом, ему наносится 1 урон.",
+				"fr": "Lorsqu'une créature se déplace dans l'espace opposé à une carte portant ce sceau, elle subit 1 blessure."
 			}
 		},
     	"Sharp Quills": "Once a card bearing this sigil is struck, the striker is then dealt a single damage point.",
@@ -4017,8 +4017,8 @@
 			},
 			"description": {
 				"en": "Once a card bearing this sigil is struck, the striker is then dealt a single damage point.",
-				"ru": "",
-				"fr": ""
+				"ru": "Как только карта с этим символом попадает под удар, нападающему наносится одно очко урона.",
+				"fr": "Une fois qu'une carte portant ce sceau est frappée, l'attaquant reçoit alors un seul point de dégâts."
 			}
 		},
     	"Shield Latch": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Armored sigil.",
@@ -4030,8 +4030,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, its owner chooses a creature to gain the Armored sigil.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом погибает, ее владелец выбирает существо, которое получит Бронированный символ.",
+				"fr": "Lorsqu'une carte portant ce sceau périt, son propriétaire choisit une créature pour gagner le sceau blindé."
 			}
 		},
     	"Side Hustle": "When a card bearing this sigil deals damage directly, draw a card from your side deck for each damage dealt.",
@@ -4056,8 +4056,8 @@
 			},
 			"description": {
 				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a skeleton in its old space.",
-				"ru": "",
-				"fr": ""
+				"ru": "В конце хода владельца, карта с этим символом переместится в направлении, указанном на символе, и оставит скелет на своем прежнем месте.",
+				"fr": "À la fin du tour du propriétaire, une carte portant ce sceau se déplacera dans la direction inscrite dans le sceau et déposera un squelette dans son ancien emplacement."
 			}
 		},
     	"Skeleton Crew (Yarr)": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a pirate skeleton in its old space.",
@@ -4069,8 +4069,8 @@
 			},
 			"description": {
 				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a pirate skeleton in its old space.",
-				"ru": "",
-				"fr": ""
+				"ru": "В конце хода владельца, карта с этим символом переместится в направлении, указанном на символе, и оставит на своем прежнем месте скелет пирата.",
+				"fr": "À la fin du tour du propriétaire, une carte portant ce sceau se déplacera dans la direction inscrite dans le sceau et déposera un squelette de pirate dans son ancien emplacement."
 			}
 		},
     	"Sniper": "You may choose which opposing card a card bearing this sigil strikes.",
@@ -4082,8 +4082,8 @@
 			},
 			"description": {
 				"en": "You may choose which opposing card a card bearing this sigil strikes.",
-				"ru": "",
-				"fr": ""
+				"ru": "Вы можете выбрать, какую карту противника ударит карта с этим символом.",
+				"fr": "Vous pouvez choisir quelle carte adverse une carte portant ce sceau frappe."
 			}
 		},
     	"Spawn Conduit": "Empty spaces within a circuit completed by a card bearing this sigil spawn L33pB0ts at the end of the owner's turn.",
@@ -4108,8 +4108,8 @@
 			},
 			"description": {
 				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil.",
-				"ru": "",
-				"fr": ""
+				"ru": "В конце хода владельца, карта с этим символом переместится в направлении, указанном в символе.",
+				"fr": "À la fin du tour du propriétaire, une carte portant ce sceau se déplacera dans la direction inscrite dans le sceau."
 			}
 		},
     	"Squirrel Shedder": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a squirrel in their old space.",
@@ -4121,8 +4121,8 @@
 			},
 			"description": {
 				"en": "At the end of the owner's turn, a card bearing this sigil will move in the direction inscribed in the sigil and drop a squirrel in their old space.",
-				"ru": "",
-				"fr": ""
+				"ru": "В конце хода владельца, карта с этим символом переместится в направлении, указанном в символе, и оставит белку на своем старом месте.",
+				"fr": "À la fin du tour du propriétaire, une carte portant ce sceau se déplacera dans la direction inscrite dans le sceau et déposera un écureuil dans son ancien emplacement."
 			}
 		},
     	"Steel Trap": "When a card bearing this sigil perishes, the creature opposing it perishes as well. A Pelt is created in your oppenent's hand.",
@@ -4134,8 +4134,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, the creature opposing it perishes as well. A Pelt is created in your oppenent's hand.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом погибает, существо, противостоящее ей, также погибает. В руке вашего противника создаётся Шкура.",
+				"fr": "Lorsqu'une carte portant ce sceau périt, la créature qui lui est opposée périt également. Une Pelage est créée dans la main de votre adversaire."
 			}
 		},
     	"Stinky": "The creature opposing a card bearing this sigil loses 1 Power.",
@@ -4147,8 +4147,8 @@
 			},
 			"description": {
 			"en": "The creature opposing a card bearing this sigil loses 1 Power.",
-			"ru": "",
-			"fr": ""
+			"ru": "Существо, противостоящее карте с этим символом, теряет 1 Силу.",
+			"fr": "La créature opposée à une carte portant ce sceau perd 1 Puissance."
 			}
 		},
     	"Stimulate": "Pay 3 energy to increase the power and health of a card bearing this sigil by 1.",
@@ -4160,8 +4160,8 @@
 			},
 			"description": {
 				"en": "Pay 3 energy to increase the power and health of a card bearing this sigil by 1.",
-				"ru": "",
-				"fr": ""
+				"ru": "Заплатите 3 единицы энергии, чтобы увеличить силу и здоровье карты с этим символом на 1.",
+				"fr": "Payez 3 points d'énergie pour augmenter la puissance et la santé d'une carte portant ce sceau de 1."
 			}
 		},
     	"Stimulate (4)": "Pay 4 energy to increase the power and health of a card bearing this sigil by 1.",
@@ -4173,8 +4173,8 @@
 			},
 			"description": {
 				"en": "Pay 4 energy to increase the power and health of a card bearing this sigil by 1.",
-				"ru": "",
-				"fr": ""
+				"ru": "Заплатите 4 единицы энергии, чтобы увеличить силу и здоровье карты с этим символом на 1.",
+				"fr": "Payez 4 points d'énergie pour augmenter la puissance et la santé d'une carte portant ce sceau de 1."
 			}
 		},
     	"Stitched": "Whenever a card bearing the Acupuncture sigil is damaged, this card recieves that damage, and the Acupuncture card recieves 1 damage instead.",
@@ -4186,8 +4186,8 @@
 			},
 			"description": {
 				"en": "Whenever a card bearing the Acupuncture sigil is damaged, this card recieves that damage, and the Acupuncture card recieves 1 damage instead.",
-				"ru": "",
-				"fr": ""
+				"ru": "Всякий раз, когда карта с символом Иглоукалывание получает повреждение, эта карта получает это повреждение, а карта Иглоукалывание вместо этого получает 1 повреждение.",
+				"fr": "À chaque fois qu'une carte portant le sceau d'Acupuncture est endommagée, cette carte reçoit ces dégâts, et la carte d'Acupuncture reçoit 1 dégât à la place."
 			}
 		},
     	"Tentacle": "Includes effect of Waterborne. In addition, a card bearing this sigil will transform into a random tentacle at the start of each turn.",
@@ -4199,8 +4199,8 @@
 			},
 			"description": {
 				"en": "Includes effect of Waterborne. In addition, a card bearing this sigil will transform into a random tentacle at the start of each turn.",
-				"ru": "",
-				"fr": ""
+				"ru": "Включает эффект «Водный». Кроме того, карта с этим символом превращается в случайное щупальце в начале каждого хода.",
+				"fr": "Inclut l'effet de Portée d'Eau. De plus, une carte portant ce sceau se transformera en tentacule aléatoire au début de chaque tour."
 			}
 		},
     	"Thick": "A card bearing this sigil is juicy, and takes up 2 spaces.",
@@ -4212,8 +4212,8 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil is juicy, and takes up 2 spaces.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом очень массивна и занимает 2 места.",
+				"fr": "Une carte portant ce sceau est juteuse et occupe 2 espaces."
 			}
 		},
     	"Touch of Death": "When a card bearing this sigil damages another creature, that creature perishes.",
@@ -4225,8 +4225,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil damages another creature, that creature perishes.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом наносит урон другому существу, это существо погибает.",
+				"fr": "Lorsqu'une carte portant ce sceau blesse une autre créature, cette créature périt."
 			}
 		},
     	"Transformer": "At the beginning of your turn a card bearing this sigil will transform to, or from, Beast mode.",
@@ -4238,8 +4238,8 @@
 			},
 			"description": {
 				"en": "At the beginning of your turn a card bearing this sigil will transform to, or from, Beast mode.",
-				"ru": "",
-				"fr": ""
+				"ru": "В начале вашего хода карта с этим символом трансформируется в режим Зверя или из него.",
+				"fr": "Au début de votre tour, une carte portant ce sceau se transformera en mode Bête ou depuis ce mode."
 			}
 		},
     	"Trifurcated Strike": "A card bearing this sigil will strike each opposing space to the left, right, and center of it.",
@@ -4251,21 +4251,21 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil will strike each opposing space to the left, right, and center of it.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом поразит каждое противоположное пространство слева, справа и в центре от себя.",
+				"fr": "Une carte portant ce sceau frappera chaque espace opposé à gauche, à droite et au centre de celle-ci."
 			}
 		},
     	"True Scholar": "If you have a blue gem, sacrifice a card bearing this sigil to draw 3 cards.",
 		"True Scholar_i18n": {
 			"name": {
 				"en": "True Scholar",
-				"ru": "Истинный ученый",
+				"ru": "Истинный учёный",
 				"fr": "Véritable érudit"
 			},
 			"description": {
 				"en": "If you have a blue gem, sacrifice a card bearing this sigil to draw 3 cards.",
-				"ru": "",
-				"fr": ""
+				"ru": "Если у вас есть синий камень, пожертвуйте карту с этим символом, чтобы взять 3 карты.",
+				"fr": "Si vous avez une gemme bleue, sacrifiez une carte portant ce sceau pour piocher 3 cartes."
 			}
 		},
     	"Unkillable": "When a card bearing this sigil perishes, a copy of it is created in your hand.",
@@ -4277,8 +4277,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, a copy of it is created in your hand.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом погибает, ее копия создается в вашей руке.",
+				"fr": "Lorsqu'une carte portant ce sceau périt, une copie de celle-ci est créée dans votre main."
 			}
 		},
     	"Unkillable (Eternal)": "When a card bearing this sigil perishes, a copy of it is created in your hand without this sigil.",
@@ -4290,8 +4290,8 @@
 			},
 			"description": {
 				"en": "When a card bearing this sigil perishes, a copy of it is created in your hand without this sigil.",
-				"ru": "",
-				"fr": ""
+				"ru": "Когда карта с этим символом погибает, в вашей руке создается ее копия без этого символа.",
+				"fr": "Lorsqu'une carte portant ce sceau périt, une copie de celle-ci est créée dans votre main sans ce sceau."
 			}
 		},
     	"Vessel Printer": "Once a card bearing this sigil is struck, draw a card from your side deck.",
@@ -4316,8 +4316,8 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil takes only 1 damage from attacks and card effects.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом получает только 1 единицу урона от атак и эффектов карт.",
+				"fr": "Une carte portant ce sceau ne subit qu'un seul dégât des attaques et des effets de carte."
 			}
 		},
     	"Waterborne": "A card bearing this sigil submerges itself during its opponent's turn. while submerged, opposing creatures attack its owner directly.",
@@ -4329,8 +4329,8 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil submerges itself during its opponent's turn. while submerged, opposing creatures attack its owner directly.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом погружается в воду во время хода противника. Находясь под водой, существа противника атакуют ее владельца напрямую.",
+				"fr": "Une carte portant ce sceau s'immerge pendant le tour de son adversaire. Pendant cette immersion, les créatures adverses attaquent directement son propriétaire."
 			}
 		},
     	"Worthy Sacrifice": "A card bearing this sigil is counted as 3 blood rather than 1 blood when sacrificed.",
@@ -4342,8 +4342,8 @@
 			},
 			"description": {
 				"en": "A card bearing this sigil is counted as 3 blood rather than 1 blood when sacrificed.",
-				"ru": "",
-				"fr": ""
+				"ru": "Карта с этим символом при жертвоприношении считается за 3 крови, а не за 1 кровь.",
+				"fr": "Une carte portant ce sceau est comptée comme 3 sangs plutôt que 1 sang lorsqu'elle est sacrifiée."
 			}
 		}
     },
