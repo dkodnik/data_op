@@ -4504,12 +4504,19 @@
     },
     "custom_sigils": {
         "Chungus": {
-            "description": "Big",
-			"description_i18n": {
-				"en": "Big",
-				"ru": "Большой",
-				"fr": "Grand"
+			"i18n": {
+				"name": {
+					"en": "Chungus",
+					"ru": "Чунгус",
+					"fr": "Chungus"
+				},
+				"description": {
+					"en": "Big",
+					"ru": "Большой",
+					"fr": "Grand"
+				}
 			},
+            "description": "Big",
             "author": "107zxz",
             "url": "https://raw.githubusercontent.com/dkodnik/data_op/main/scripts/Chungus.gd",
             "icon_url": "https://raw.githubusercontent.com/dkodnik/data_op/main/gfx/sigils/Airborne.png"
