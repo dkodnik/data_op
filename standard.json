@@ -3132,16 +3132,37 @@
     ],
     "side_decks": {
         "10 Squirrels": {
+			"i18n": {
+				"name": {
+					"en": "10 Squirrels",
+					"ru": "10 белок",
+					"fr": "10 écureuils"
+				}
+			},
             "type": "single",
             "card": "Squirrel",
             "count": 10
         },
         "10 Skeletons": {
+			"i18n": {
+				"name": {
+					"en": "10 Skeletons",
+					"ru": "10 скелетов",
+					"fr": "10 squelettes"
+				}
+			},
             "type": "single",
             "card": "Skeleton",
             "count": 10
         },
         "Vessels": {
+			"i18n": {
+				"name": {
+					"en": "Vessels",
+					"ru": "Судно",
+					"fr": "Navires"
+				}
+			},
             "type": "single_cat",
             "cards": {
                 "10 Empty": {
@@ -3175,26 +3196,61 @@
             }
         },
         "Mox (draft)": {
+			"i18n": {
+				"name": {
+					"en": "Mox (draft)",
+					"ru": "Мокс (драфт)",
+					"fr": "Mox (draft)"
+				}
+			},
             "type": "draft",
             "cards": ["Ruby Mox", "Emerald Mox", "Sapphire Mox"],
             "count": 10
         },
         "3 Gecks": {
+			"i18n": {
+				"name": {
+					"en": "3 Gecks",
+					"ru": "3 Гека",
+					"fr": "3 geckos"
+				}
+			},
             "type": "single",
             "card": "Geck",
             "count": 3
         },
         "The Acid Squirrel": {
+			"i18n": {
+				"name": {
+					"en": "The Acid Squirrel",
+					"ru": "Кислотная белка",
+					"fr": "L'écureuil acide"
+				}
+			},
             "type": "single",
             "card": "Acid Squirrel",
             "count": 1
         },
         "10 Shambling Cairns": {
+			"i18n": {
+				"name": {
+					"en": "10 Shambling Cairns",
+					"ru": "10 Неуклюжих пирамид",
+					"fr": "10 cairns errants"
+				}
+			},
             "type": "single",
             "card": "Shambling Cairn",
             "count": 10
         },
         "10 Moon Shards": {
+			"i18n": {
+				"name": {
+					"en": "10 Moon Shards",
+					"ru": "10 лунных осколков",
+					"fr": "10 éclats de lune"
+				}
+			},
             "type": "single",
             "card": "Moon Shard",
             "count": 10
